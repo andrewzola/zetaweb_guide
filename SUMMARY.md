@@ -23,4 +23,5 @@
 * [История изменений](istoriya-izmenenii/README.md)
   * [История изменений веб-части](istoriya-izmenenii/istoriya-izmenenii-veb-chasti.md)
   * [История изменений 1С-части](istoriya-izmenenii/istoriya-izmenenii-1s-chasti.md)
+* [План развития продукта](plan-razvitiya-produkta.md)
 
