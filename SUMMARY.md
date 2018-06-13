@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Введение](README.md)
-* [Введение](vvedenie/README.md)
-  * [Состав продукта Zeta Web](vvedenie/sostav-produkta-zeta-web.md)
-  * [Контролы](vvedenie/kontroly.md)
+* [Введение](vvedenie-1/README.md)
+  * [Состав продукта Zeta Web](vvedenie-1/sostav-produkta-zeta-web.md)
+  * [Контролы](vvedenie-1/kontroly.md)
+  * [Системные требования](vvedenie-1/sistemnye-trebovaniya.md)
 * [Управление контентом](upravlenie-kontentom/README.md)
   * [Метатеги](upravlenie-kontentom/metategi.md)
   * [Настройка редиректов \(IIS\)](upravlenie-kontentom/nastroika-redirektov-iis.md)
