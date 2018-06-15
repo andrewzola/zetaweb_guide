@@ -27,4 +27,5 @@
 * [План развития продукта](plan-razvitiya-produkta.md)
 * [FAQ](faq/README.md)
   * [Как установить регион по умолчанию](faq/kak-ustanovit-region-po-umolchaniyu.md)
+  * [Как посмотреть тариф Zeta Веб-сервисы](faq/kak-posmotret-tarif-zeta-veb-servisy.md)
 
