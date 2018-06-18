@@ -1,3 +1,7 @@
+---
+description: версия Zeta Web 2.4.7.0
+---
+
 # Laximo
 
 ## Laximo.OEM
