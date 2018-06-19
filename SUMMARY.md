@@ -28,4 +28,5 @@
 * [FAQ](faq/README.md)
   * [Как установить регион по умолчанию](faq/kak-ustanovit-region-po-umolchaniyu.md)
   * [Как посмотреть тариф Zeta Веб-сервисы](faq/kak-posmotret-tarif-zeta-veb-servisy.md)
+  * [Почему флажок "Только в наличии" всегда включен](faq/pochemu-flazhok-tolko-v-nalichii-vsegda-vklyuchen.md)
 
