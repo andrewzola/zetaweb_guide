@@ -1,5 +1,5 @@
 ---
-description: версия Zeta Web 2.4.7.0
+description: Версия 2.4.7.1
 ---
 
 # Контролы
