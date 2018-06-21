@@ -30,4 +30,5 @@
   * [Как установить регион по умолчанию](faq/kak-ustanovit-region-po-umolchaniyu.md)
   * [Как посмотреть тариф Zeta Веб-сервисы](faq/kak-posmotret-tarif-zeta-veb-servisy.md)
   * [Почему флажок "Только в наличии" или "Только в наличии на своих складах" всегда включен](faq/pochemu-flazhok-tolko-v-nalichii-ili-tolko-v-nalichii-na-svoikh-skladakh-vsegda-vklyuchen.md)
+  * [Как увидеть свойства номенклатуры на сайте](faq/kak-uvidet-svoistva-nomenklatury-na-saite.md)
 
