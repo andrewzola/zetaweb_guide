@@ -32,4 +32,5 @@
   * [Почему флажок "Только в наличии" или "Только в наличии на своих складах" всегда включен](faq/pochemu-flazhok-tolko-v-nalichii-ili-tolko-v-nalichii-na-svoikh-skladakh-vsegda-vklyuchen.md)
   * [Как увидеть свойства номенклатуры на сайте](faq/kak-uvidet-svoistva-nomenklatury-na-saite.md)
   * [Как перезапустить процесс w3wp](faq/kak-perezapustit-process-w3wp.md)
+  * [Почему в типовом дизайне самовывоз два раза с одного и того же склада?](faq/pochemu-v-tipovom-dizaine-samovyvoz-dva-raza-s-odnogo-i-togo-zhe-sklada.md)
 
