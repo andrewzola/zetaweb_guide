@@ -34,4 +34,5 @@
   * [Как перезапустить процесс w3wp](faq/kak-perezapustit-process-w3wp.md)
   * [Почему в типовом дизайне самовывоз два раза с одного и того же склада?](faq/pochemu-v-tipovom-dizaine-samovyvoz-dva-raza-s-odnogo-i-togo-zhe-sklada.md)
   * [Почему не работает поиск по VIN?](faq/pochemu-ne-rabotaet-poisk-po-vin.md)
+* [API 1.0](api-1.0.md)
 
