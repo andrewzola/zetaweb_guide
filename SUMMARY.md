@@ -20,6 +20,7 @@
 * [Статусы строк заказов](statusy-strok-zakazov.md)
 * [Возвраты и отказы](vozvraty-i-otkazy.md)
 * [Поддержка онлайн-платежей](podderzhka-onlain-platezhei.md)
+* [API 1.0](api-1.0.md)
 * [Внешние  сервисы и каталоги по подбору автозапчастей](vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/README.md)
   * [Laximo](vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo.md)
 * [История изменений](istoriya-izmenenii/README.md)
@@ -34,5 +35,4 @@
   * [Как перезапустить процесс w3wp](faq/kak-perezapustit-process-w3wp.md)
   * [Почему в типовом дизайне самовывоз два раза с одного и того же склада?](faq/pochemu-v-tipovom-dizaine-samovyvoz-dva-raza-s-odnogo-i-togo-zhe-sklada.md)
   * [Почему не работает поиск по VIN?](faq/pochemu-ne-rabotaet-poisk-po-vin.md)
-* [API 1.0](api-1.0.md)
 

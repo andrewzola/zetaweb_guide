@@ -4,9 +4,9 @@ description: 'API сайта, позволяющее работать с соб�
 
 # API 1.0
 
-[https://demo.zetaweb.ru/webservices/api.asmx](https://shop.optimumauto.ru/webservices/api.asmx)
+[http://demo.zetaweb.ru/webservices/api.asmx](http://demo.zetaweb.ru:8888/webservices/api.asmx)
 
-[https://demo.zetaweb.ru](https://shop.optimumauto.ru/webservices/api.asmx)[/webservices/api.asmx?WSDL](http://orum.ru/webservices/api.asmx?WSDL)
+[http://demo.zetaweb.ru/webservices/api.asmx?WSDL](http://demo.zetaweb.ru:8888/webservices/api.asmx?WSDL)
 
 ## Примеры методов
 
