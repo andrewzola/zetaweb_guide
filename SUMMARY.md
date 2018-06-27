@@ -11,6 +11,7 @@
   * [Настройки сайта после загрузки начальных данных и типового дизайна](upravlenie-kontentom/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
 * [Управление номенклатурой](upravlenie-nomenklaturoi/README.md)
   * [Бренды](upravlenie-nomenklaturoi/brendy.md)
+  * [Каталог](upravlenie-nomenklaturoi/katalog.md)
 * [Способы доставки и оплаты](nastroika-sposobov-dostavki-i-oplaty.md)
 * [Логистика](nastroika-logistiki.md)
 * [Ценообразование](cenoobrazovanie/README.md)
@@ -37,4 +38,5 @@
   * [Как перезапустить процесс w3wp](faq/kak-perezapustit-process-w3wp.md)
   * [Почему в типовом дизайне самовывоз два раза с одного и того же склада?](faq/pochemu-v-tipovom-dizaine-samovyvoz-dva-raza-s-odnogo-i-togo-zhe-sklada.md)
   * [Почему не работает поиск по VIN?](faq/pochemu-ne-rabotaet-poisk-po-vin.md)
+  * [Как скрыть группу каталога из хлебных крошек](faq/kak-skryt-gruppu-kataloga-iz-khlebnykh-kroshek.md)
 
