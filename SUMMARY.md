@@ -40,4 +40,5 @@
   * [Почему не работает поиск по VIN?](faq/pochemu-ne-rabotaet-poisk-po-vin.md)
   * [Как скрыть группу каталога из хлебных крошек](faq/kak-skryt-gruppu-kataloga-iz-khlebnykh-kroshek.md)
   * [Где настроить страницу каталога для хлебных крошек](faq/gde-nastroit-stranicu-kataloga-dlya-khlebnykh-kroshek.md)
+  * [Как изменить отображение группы каталога](faq/kak-izmenit-otobrazhenie-gruppy-kataloga.md)
 
