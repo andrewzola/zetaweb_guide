@@ -66,4 +66,5 @@ description: Версия 2.4.7.1
 ### Другие настройки
 
 * [Регион по умолчанию](../faq/kak-ustanovit-region-po-umolchaniyu.md#kak-ustanovit-region-po-umolchaniyu)
+* [Настройка капчи](../faq/nastroika-google-recaptcha.md)
 
