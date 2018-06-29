@@ -9,6 +9,7 @@
   * [Метатеги](upravlenie-kontentom/metategi.md)
   * [Настройка редиректов \(IIS\)](upravlenie-kontentom/nastroika-redirektov-iis.md)
   * [Настройки сайта после загрузки начальных данных и типового дизайна](upravlenie-kontentom/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
+  * [Формирование URL Zeta Web](upravlenie-kontentom/formirovanie-url-zeta-web.md)
 * [Управление номенклатурой](upravlenie-nomenklaturoi/README.md)
   * [Бренды](upravlenie-nomenklaturoi/brendy.md)
   * [Каталог](upravlenie-nomenklaturoi/katalog.md)

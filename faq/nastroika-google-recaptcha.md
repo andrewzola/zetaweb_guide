@@ -20,7 +20,7 @@ description: 2.4.7
 
 В шаблоне контрола разместите часть \[GRecaptcha\]. В качестве значения параметра sitekey укажите **Ключ**, для параметра key - **Секретный ключ**.
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 ```text
 [GRecaptcha options="{ 'sitekey': '<...ключ...>' }" key="<...секретный ключ...>"]
