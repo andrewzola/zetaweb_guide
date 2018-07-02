@@ -10,7 +10,7 @@
   * [Настройка редиректов \(IIS\)](upravlenie-kontentom/nastroika-redirektov-iis.md)
   * [Настройки сайта после загрузки начальных данных и типового дизайна](upravlenie-kontentom/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
 * [Формирование URL Zeta Web](formirovanie-url-zeta-web.md)
-  * [Ссылка 1](https://help-zetaweb.zetasoft.ru/formirovanie-url-zeta-web#kontrol-poisk-po-avtomobilyu)
+  * [Ссылка 1](formirovanie-url-zeta-web#kontrol-poisk-po-avtomobilyu#kontrol-poisk-po-avtomobilyu)
 * [Управление номенклатурой](upravlenie-nomenklaturoi/README.md)
   * [Бренды](upravlenie-nomenklaturoi/brendy.md)
   * [Каталог](upravlenie-nomenklaturoi/katalog.md)
