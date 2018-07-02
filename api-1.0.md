@@ -1,7 +1,3 @@
----
-description: 'API сайта, позволяющее работать с собственной номенклатурой.'
----
-
 # API 1.0
 
 [http://demo.zetaweb.ru/webservices/api.asmx](http://demo.zetaweb.ru:8888/webservices/api.asmx)

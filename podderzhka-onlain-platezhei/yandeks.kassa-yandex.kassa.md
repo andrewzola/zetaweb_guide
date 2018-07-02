@@ -1,7 +1,3 @@
----
-description: 2.4.7
----
-
 # Яндекс.Касса \(Yandex.Kassa\)
 
 ##  Яндекс.Касса {#yandeks-kassa}

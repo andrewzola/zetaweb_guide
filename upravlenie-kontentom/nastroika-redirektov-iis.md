@@ -1,7 +1,3 @@
----
-description: Версия 2.4.7.1
----
-
 # Настройка редиректов \(IIS\)
 
 Zeta Web в качестве веб-сервера использует  [Internet Information Services \(IIS\)](https://www.iis.net/).

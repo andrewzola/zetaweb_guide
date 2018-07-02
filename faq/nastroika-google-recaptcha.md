@@ -1,7 +1,3 @@
----
-description: 2.4.7
----
-
 # Настройка Google ReCaptcha
 
 На сайте есть возможность использования проверки пользователя с помощью  [ReCaptcha от Google](https://www.google.com/recaptcha/intro/v3beta.html). Для настройки необходимо получить ключи: ключ и секретный ключ.
@@ -20,7 +16,7 @@ description: 2.4.7
 
 В шаблоне контрола разместите часть \[GRecaptcha\]. В качестве значения параметра sitekey укажите **Ключ**, для параметра key - **Секретный ключ**.
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 ```text
 [GRecaptcha options="{ 'sitekey': '<...ключ...>' }" key="<...секретный ключ...>"]

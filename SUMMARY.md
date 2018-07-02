@@ -13,8 +13,8 @@
 * [Управление номенклатурой](upravlenie-nomenklaturoi/README.md)
   * [Бренды](upravlenie-nomenklaturoi/brendy.md)
   * [Каталог](upravlenie-nomenklaturoi/katalog.md)
-* [Способы доставки и оплаты](nastroika-sposobov-dostavki-i-oplaty.md)
-* [Логистика](nastroika-logistiki.md)
+* [Способы доставки и оплаты](sposoby-dostavki-i-oplaty.md)
+* [Логистика](logistika.md)
 * [Ценообразование](cenoobrazovanie/README.md)
   * [Для 1С Управление торговлей ред. 10.3](cenoobrazovanie/dlya-1s-upravlenie-torgovlei-red.-10.3.md)
   * [Для Альфа Авто](cenoobrazovanie/dlya-alfa-avto.md)
@@ -45,3 +45,4 @@
   * [Где настроить страницу каталога для хлебных крошек](faq/gde-nastroit-stranicu-kataloga-dlya-khlebnykh-kroshek.md)
   * [Как изменить отображение группы каталога](faq/kak-izmenit-otobrazhenie-gruppy-kataloga.md)
   * [Настройка Google ReCaptcha](faq/nastroika-google-recaptcha.md)
+
