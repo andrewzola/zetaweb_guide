@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Введение](README.md)
-**********************************
-**Просто текст**
-**********************************
 * [Введение](vvedenie-1/README.md)
   * [Состав продукта Zeta Web](vvedenie-1/sostav-produkta-zeta-web.md)
   * [Контролы](vvedenie-1/kontroly.md)
@@ -48,4 +45,3 @@
   * [Где настроить страницу каталога для хлебных крошек](faq/gde-nastroit-stranicu-kataloga-dlya-khlebnykh-kroshek.md)
   * [Как изменить отображение группы каталога](faq/kak-izmenit-otobrazhenie-gruppy-kataloga.md)
   * [Настройка Google ReCaptcha](faq/nastroika-google-recaptcha.md)
-
