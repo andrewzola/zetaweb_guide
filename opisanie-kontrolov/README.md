@@ -1,4 +1,6 @@
 # Описание контролов
 
-[1. Поиск по каталогу](https://github.com/andrewzola/zetaweb_guide/tree/25df867d1bb0e0625e67884899ffbf10176a4653/opisanie-kontrolov/opisanie-kontrolov/1-poisk-katalog-tovary/README.md)
+1. [Каталог товаров](1-poisk-katalog-tovary/)
+  1. [Лаксимо](1-poisk-katalog-tovary/laximo/)
+    1. [Первый этап](1-poisk-katalog-tovary/laximo/laximo-etap-1-spisok-katalogov-proizvoditeli-avtomobilei.md)
 
