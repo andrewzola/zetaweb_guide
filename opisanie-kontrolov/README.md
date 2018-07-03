@@ -1,5 +1,5 @@
 # Описание контролов
 
-[Описание](1-poisk-katalog-tovary)
+[Описание](opisanie-kontrolov-1-poisk-katalog-tovary)
 
 
