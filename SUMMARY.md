@@ -47,4 +47,5 @@
   * [Как изменить отображение группы каталога](faq/kak-izmenit-otobrazhenie-gruppy-kataloga.md)
   * [Настройка Google ReCaptcha](faq/nastroika-google-recaptcha.md)
 * [Описание контролов](opisanie-kontrolov/README.md)
+  * [1. Поиск по каталогу](opisanie-kontrolov/1-poisk-katalog-tovary/README.md)
 
