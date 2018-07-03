@@ -1,4 +1,4 @@
 # Описание контролов
 
-{% page-ref page="laximo" %}
+{% page-ref page="1-poisk-katalog-tovary" %}
 
