@@ -1,5 +1,5 @@
 # Описание контролов
 
-[Яндекс.Касса](yandeks.kassa)
+[Описание](opisanie-kontrolov)
 
 
