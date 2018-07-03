@@ -1,4 +1,4 @@
 # Описание контролов
 
-{% page-ref page="laximo" %}
+Лаксимо ("laximo")
 
