@@ -1,4 +1,4 @@
 # Описание контролов
 
-{% page-ref page="poisk-analogi-tovara-v2-ceny-i-nalichie-tovarov.md" %}
+Поиск (1-poisk-katalog-tovary)
 
