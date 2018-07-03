@@ -46,5 +46,6 @@
   * [Где настроить страницу каталога для хлебных крошек](faq/gde-nastroit-stranicu-kataloga-dlya-khlebnykh-kroshek.md)
   * [Как изменить отображение группы каталога](faq/kak-izmenit-otobrazhenie-gruppy-kataloga.md)
   * [Настройка Google ReCaptcha](faq/nastroika-google-recaptcha.md)
-* [Описание контролов](opisanie-kontrolov.md)
+* [Описание контролов](opisanie-kontrolov/README.md)
+  * [тест](opisanie-kontrolov/test.md)
 
