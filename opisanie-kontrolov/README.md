@@ -1,5 +1,5 @@
 # Описание контролов
 
-[Описание](opisanie-kontrolov-1-poisk-katalog-tovary)
+[1. Поиск по каталогу](1-poisk-katalog-tovary/README.md)
 
 
