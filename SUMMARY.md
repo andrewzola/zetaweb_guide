@@ -51,4 +51,8 @@
   * [Папка](opisanie-kontrolov/papka/README.md)
     * [Подпапка](opisanie-kontrolov/papka/podpapka/README.md)
       * [Страница](opisanie-kontrolov/papka/podpapka/stranica.md)
+  * [Каталог товаров](opisanie-kontrolov/1-poisk-katalog-tovary/)
+   * [Лаксимо](opisanie-kontrolov/1-poisk-katalog-tovary/laximo/)
+     * [Первый этап](opisanie-kontrolov/1-poisk-katalog-tovary/laximo/laximo-etap-1-spisok-katalogov-proizvoditeli-avtomobilei.md)   
+      
 
