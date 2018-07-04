@@ -1,0 +1,5 @@
+﻿* [Авторизация / Текущий пользователь] (avtorizaciya-_-tekuschii-polzovatel.md)
+* [Восстановление пароля] (vosstanovlenie-parolya.md)
+* [Изменение регистрационных данных] (izmenenie-registracionnyh-dannyh.md)
+* [Регистрация нового веб-пользователя (v1)] (registraciya-novogo-veb-polzovatelya-v1.md)
+* [Регистрация нового веб-пользователя (v2)] (registraciya-novogo-veb-polzovatelya-v2.md)

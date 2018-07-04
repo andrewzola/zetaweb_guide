@@ -1,0 +1,6 @@
+﻿* [Корзина. Подтверждение. Выбор поставщика услуг.] (korzina-podtverzhdenie-vybor-postavschika-uslug.md)
+* [Корзина. Подтверждение. Выбор способа доставки и оплаты.] (korzina-podtverzhdenie-vybor-sposoba-dostavki-i-oplaty.md)
+* [Корзина. Подтверждение. Выбор способа доставки.] (korzina-podtverzhdenie-vybor-sposoba-dostavki.md)
+* [Корзина. Подтверждение. Выбор способа оплаты.] (korzina-podtverzhdenie-vybor-sposoba-oplaty.md)
+* [Корзина. Подтверждение. Выбор точки выдачи поставщика / адреса доставки клиента.] (korzina-podtverzhdenie-vybor-tochki-vydachi-postavschika-_-adresa-dostavki-klienta.md)
+* [Корзина. Подтверждение. Вывод цены услуги.] (korzina-podtverzhdenie-vyvod-ceny-uslugi.md)

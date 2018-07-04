@@ -1,0 +1,7 @@
+﻿* [Пагинация] (paginaciya\README.md)
+* [Переключение страниц в таблицах] (pereklyuchenie-stranic-v-tablicah.md)
+* [Число элементов на странице в таблицах] (chislo-elementov-na-stranice-v-tablicah.md)
+* [Анти-спам] (anti-spam.md)
+* [Всплывающее окно] (vsplyvayuschee-okno.md)
+* [Информация о лицензии] (informaciya-o-licenzii.md)
+* [Сообщение об ошибке] (soobschenie-ob-oshibke.md)
