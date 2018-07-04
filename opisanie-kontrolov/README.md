@@ -1,6 +1,6 @@
 # Описание контролов
 
-1. [Каталог товаров](katalog-tovarov/)
-   1. [Лаксимо](katalog-tovarov/laksimo/)
-      1. [Первый этап](katalog-tovarov/laksimo/pervyi-etap.md)
+1. [Каталог товаров]()
+   1. [Лаксимо]()
+      1. [Первый этап]()
 
