@@ -203,6 +203,6 @@
 		* [Сообщение об ошибке](6-sluzhebnye\soobschenie-ob-oshibke.md)
 	* [Vue](vue\)
 		* [VueCatalogTree](vue\vuecatalogtree.md)
-	* [Результаты поиска на карте](rezultaty-poiska-na-karte.md)
-	* [Результаты поиска на карте. Всплывающие окно](rezultaty-poiska-na-karte-vsplyvayuschie-okno.md)
+	* [Результаты поиска на карте](opisanie-kontrolov/rezultaty-poiska-na-karte.md)
+	* [Результаты поиска на карте. Всплывающие окно](opisanie-kontrolov/rezultaty-poiska-na-karte-vsplyvayuschie-okno.md)
 
