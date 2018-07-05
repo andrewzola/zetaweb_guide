@@ -2,6 +2,7 @@
 
 * [Введение](README.md)
 * [Введение](vvedenie-1/README.md)
+  * [Краткое описание](vvedenie-1/kratkoe-opisanie.md)
   * [Состав продукта Zeta Web](vvedenie-1/sostav-produkta-zeta-web.md)
   * [Контролы](vvedenie-1/kontroly.md)
   * [Системные требования](vvedenie-1/sistemnye-trebovaniya.md)

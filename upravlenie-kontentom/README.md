@@ -4,5 +4,3 @@
 
 {% page-ref page="nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md" %}
 
-
-
