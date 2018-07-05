@@ -1,11 +1,11 @@
 # Table of contents
 
 * [База знаний](README.md)
-* [Введение](vvedenie-1/README.md)
-  * [Краткое описание](vvedenie-1/kratkoe-opisanie.md)
-  * [Состав продукта Zeta Web](vvedenie-1/sostav-produkta-zeta-web.md)
-  * [Контролы](vvedenie-1/kontroly.md)
-  * [Системные требования](vvedenie-1/sistemnye-trebovaniya.md)
+* [Введение](vvedenie/README.md)
+  * [Краткое описание](vvedenie/kratkoe-opisanie.md)
+  * [Состав продукта Zeta Web](vvedenie/sostav-produkta-zeta-web.md)
+  * [Контролы](vvedenie/kontroly.md)
+  * [Системные требования](vvedenie/sistemnye-trebovaniya.md)
 * [Установка и обновление](ustanovka-i-obnovlenie.md)
 * [Управление контентом](upravlenie-kontentom/README.md)
   * [Метатеги](upravlenie-kontentom/metategi.md)
@@ -206,4 +206,6 @@
     * [VueCatalogTree](opisanie-kontrolov/vue/vuecatalogtree.md)
   * [Результаты поиска на карте](opisanie-kontrolov/rezultaty-poiska-na-karte.md)
   * [Результаты поиска на карте. Всплывающие окно](opisanie-kontrolov/rezultaty-poiska-na-karte.-vsplyvayushie-okno.md)
+* [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
+  * [т1](tekhnicheskaya-dokumentaciya/t1.md)
 
