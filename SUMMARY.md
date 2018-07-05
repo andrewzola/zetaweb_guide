@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Введение](README.md)
+* [База знаний](README.md)
 * [Введение](vvedenie-1/README.md)
   * [Краткое описание](vvedenie-1/kratkoe-opisanie.md)
   * [Состав продукта Zeta Web](vvedenie-1/sostav-produkta-zeta-web.md)
