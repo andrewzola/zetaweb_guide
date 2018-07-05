@@ -1,4 +1,4 @@
-# Настройка Google ReCaptcha
+# Как настроить Google ReCaptcha
 
 На сайте есть возможность использования проверки пользователя с помощью  [ReCaptcha от Google](https://www.google.com/recaptcha/intro/v3beta.html). Для настройки необходимо получить ключи: ключ и секретный ключ.
 
