@@ -1,3 +1,7 @@
+---
+description: 2.4.8
+---
+
 # Хлебные крошки \(breadcrumbs\)
 
 ## Хлебные крошки \(breadcrumbs\)
