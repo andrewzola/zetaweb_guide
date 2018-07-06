@@ -31,6 +31,7 @@
     * [Laximo](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo.md)
 * [SEO и управление контентом](seo-i-upravlenie-kontentom/README.md)
   * [Формирование URL Zeta Web](seo-i-upravlenie-kontentom/formirovanie-url-zeta-web.md)
+  * [Хлебные крошки \(breadcrumbs\)](seo-i-upravlenie-kontentom/khlebnye-kroshki-breadcrumbs.md)
   * [Настройка мета-тегов](seo-i-upravlenie-kontentom/nastroika-meta-tegov.md)
   * [Настройка редиректов \(IIS\)](seo-i-upravlenie-kontentom/nastroika-redirektov-iis.md)
   * [Сортировка товаров на странице](seo-i-upravlenie-kontentom/sortirovka-tovarov-na-stranice.md)

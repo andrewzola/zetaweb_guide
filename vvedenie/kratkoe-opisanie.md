@@ -16,5 +16,5 @@
 
 ## Схема продукта
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
