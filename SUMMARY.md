@@ -213,4 +213,5 @@
       * [VueCatalogTree](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/vue/vuecatalogtree.md)
     * [Результаты поиска на карте](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/rezultaty-poiska-na-karte.md)
     * [Результаты поиска на карте. Всплывающие окно](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/rezultaty-poiska-na-karte.-vsplyvayushie-okno.md)
+  * [Требования к дизайну](tekhnicheskaya-dokumentaciya/trebovaniya-k-dizainu.md)
 
