@@ -52,7 +52,7 @@
   * [Где настроить страницу каталога для хлебных крошек](faq/gde-nastroit-stranicu-kataloga-dlya-khlebnykh-kroshek.md)
   * [Как изменить отображение группы каталога](faq/kak-izmenit-otobrazhenie-gruppy-kataloga.md)
   * [Как настроить Google ReCaptcha](faq/kak-nastroit-google-recaptcha.md)
-  * [Как привязать уже созданную группу каталога к группе номенклатуры 1С](faq/kak-privyazat-uzhe-sozdannuyu-gruppu-kataloga-k-gruppe-nomenklatury-1s.md)
+  * [Как сделать связь по группе для раздела каталога](faq/kak-privyazat-uzhe-sozdannuyu-gruppu-kataloga-k-gruppe-nomenklatury-1s.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
