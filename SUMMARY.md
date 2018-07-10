@@ -29,6 +29,7 @@
     * [Ассист \(Assist\)](opisanie-i-nastroika/podklyuchenie-onlain-platezhei/assist-assist.md)
   * [Внешние  сервисы и каталоги по подбору автозапчастей](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/README.md)
     * [Laximo](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo.md)
+    * [Zeta Веб-сервисы](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/zeta-veb-servisy.md)
 * [SEO и управление контентом](seo-i-upravlenie-kontentom/README.md)
   * [Формирование URL Zeta Web](seo-i-upravlenie-kontentom/formirovanie-url-zeta-web.md)
   * [Хлебные крошки \(breadcrumbs\)](seo-i-upravlenie-kontentom/khlebnye-kroshki-breadcrumbs.md)
