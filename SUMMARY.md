@@ -42,6 +42,7 @@
   * [История изменений](razvitie-produkta/istoriya-izmenenii/README.md)
     * [История изменений веб-части](razvitie-produkta/istoriya-izmenenii/istoriya-izmenenii-veb-chasti.md)
     * [История изменений 1С-части](razvitie-produkta/istoriya-izmenenii/istoriya-izmenenii-1s-chasti.md)
+  * [Разработка и получение нового функционала](razvitie-produkta/razrabotka-i-poluchenie-novogo-funkcionala.md)
 * [FAQ](faq/README.md)
   * [Как установить регион по умолчанию](faq/kak-ustanovit-region-po-umolchaniyu.md)
   * [Как посмотреть тариф Zeta Веб-сервисы](faq/kak-posmotret-tarif-zeta-veb-servisy.md)
