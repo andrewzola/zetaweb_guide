@@ -36,7 +36,7 @@
   * [Настройка мета-тегов](seo-i-upravlenie-kontentom/nastroika-meta-tegov.md)
   * [Настройка редиректов \(IIS\)](seo-i-upravlenie-kontentom/nastroika-redirektov-iis.md)
   * [Сортировка товаров на странице](seo-i-upravlenie-kontentom/sortirovka-tovarov-na-stranice.md)
-  * [Транслитезация наименований картинок](seo-i-upravlenie-kontentom/translitezaciya-naimenovanii-kartinok.md)
+  * [Транслитизация наименований картинок](seo-i-upravlenie-kontentom/translitezaciya-naimenovanii-kartinok.md)
 * [Развитие продукта](razvitie-produkta/README.md)
   * [План развития продукта](razvitie-produkta/plan-razvitiya-produkta.md)
   * [История изменений](razvitie-produkta/istoriya-izmenenii/README.md)
