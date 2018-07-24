@@ -57,6 +57,7 @@
   * [Как настроить Google ReCaptcha](faq/kak-nastroit-google-recaptcha.md)
   * [Как сделать связь по группе для раздела каталога](faq/kak-sdelat-svyaz-po-gruppe-dlya-razdela-kataloga.md)
   * [Почему поле "Описание" в карточке номенклатуры недоступно для редактирования](faq/pochemu-pole-opisanie-kartochke-nomenklatury-nedostupno-dlya-redaktirovaniya-izmeneniya.md)
+  * [Как создать категорию для спеццены](faq/kak-sozdat-kategoriyu-dlya-specceny.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
