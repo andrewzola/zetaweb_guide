@@ -34,6 +34,11 @@
 Как правило, рекомендуется использовать отдельный пул для сервиса обмена сайта.
 {% endhint %}
 
+* Перенести в корневую папку из папки configs файлы:
+
+  * WebConnection.config
+  * WebSettings.config
+
 * Прописать в файле «WebConnection.config» пути доступа к SQL-базе сайта:
 
 ![](../.gitbook/assets/image%20%2870%29.png)
