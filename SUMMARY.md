@@ -221,5 +221,5 @@
     * [Результаты поиска на карте](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/rezultaty-poiska-na-karte.md)
     * [Результаты поиска на карте. Всплывающие окно](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/rezultaty-poiska-na-karte.-vsplyvayushie-okno.md)
   * [Требования к дизайну](tekhnicheskaya-dokumentaciya/trebovaniya-k-dizainu.md)
-  * [Регламентные операции](tekhnicheskaya-dokumentaciya/reglamentnye-operacii.md)
+  * [Обслуживание баз данных](tekhnicheskaya-dokumentaciya/reglamentnye-operacii.md)
 
