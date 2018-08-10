@@ -222,4 +222,5 @@
     * [Результаты поиска на карте. Всплывающие окно](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/rezultaty-poiska-na-karte.-vsplyvayushie-okno.md)
   * [Требования к дизайну](tekhnicheskaya-dokumentaciya/trebovaniya-k-dizainu.md)
   * [Обслуживание баз данных](tekhnicheskaya-dokumentaciya/reglamentnye-operacii.md)
+  * [Как правильно поставить задачу в службу поддержки?](tekhnicheskaya-dokumentaciya/kak-pravilno-postavit-zadachu-v-sluzhbu-podderzhki.md)
 
