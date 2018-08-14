@@ -6,25 +6,25 @@
 
 За создание на сайте хлебных крошек отвечают несколько контролов:
 
-* [SEO. Хлебные крошки](../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-khlebnye-kroshki.md)
-* [Автокаталог. Текущий автомобиль](../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-avtokatalog/avtokatalog.-tekushii-avtomobil.md) - для страниц, на которых используются контролы из группы [Поиск. Автокаталог](../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-avtokatalog/)
-* [Laximo. Этапы 1, 2, 3, 4. Текущее состояние поиска](../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-etapy-1-2-3-4.-tekushee-sostoyanie-poiska.md) - для страниц, на которых используются контролы из группы [Laximo](../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/)
+* [SEO. Хлебные крошки](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-khlebnye-kroshki.md)
+* [Автокаталог. Текущий автомобиль](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-avtokatalog/avtokatalog.-tekushii-avtomobil.md) - для страниц, на которых используются контролы из группы [Поиск. Автокаталог](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-avtokatalog/)
+* [Laximo. Этапы 1, 2, 3, 4. Текущее состояние поиска](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-etapy-1-2-3-4.-tekushee-sostoyanie-poiska.md) - для страниц, на которых используются контролы из группы [Laximo](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/)
 
 Для отображения хлебных крошек необходимо добавить контрол на страницу и выбрать необходимые параметры контрола:
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
-Хлебные крошки, как и [URL страницы](formirovanie-url-zeta-web.md), создаются по-разному в зависимости от используемых [контролов](../tekhnicheskaya-dokumentaciya/kontroly.md) на текущей странице.
+Хлебные крошки, как и [URL страницы](../stranicy-i-peremennye/formirovanie-url-zeta-web.md), создаются по-разному в зависимости от используемых [контролов](../../tekhnicheskaya-dokumentaciya/kontroly.md) на текущей странице.
 
 ### Хлебные крошки статических страниц
 
 За формирование хлебных крошек у статических страниц отвечает структура в карте сайта, которая доступна через _Панель управления сайтом - Наполнение сайта - Меню_
 
-![](../.gitbook/assets/image%20%28158%29.png)
+![](../../.gitbook/assets/image%20%28159%29.png)
 
 В данном разделе задается иерархия страниц, а также есть возможность для каждой страницы указать следующие параметры. На вкладке "Основные":
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 * Название для отображения на сайте
 * Родитель \(для отображения навигационной цепочки\)
@@ -34,32 +34,32 @@
 
 На вкладке "Участие в картах":
 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../../.gitbook/assets/image%20%28179%29.png)
 
 * Скрывать из карты страницы - если мы не хотим отображать данный элемент на странице сайта в хлебных крошках.
-* Скрывать из карты сайта - если мы не хотим, чтобы ссылка на эту страницу генерировалась контролом [карта сайта](../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-karta-saita.md).
+* Скрывать из карты сайта - если мы не хотим, чтобы ссылка на эту страницу генерировалась контролом [карта сайта](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-karta-saita.md).
 
 На вкладке "Доступ ролей" мы можем указать каким ролям будет доступен для отображения данный элемент хлебных крошек на сайте:
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 Пример отображения в типовом дизайне:
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 ### Хлебные крошки динамических страниц
 
 При наличии на странице контролов, которые создают страницы, хлебные крошки генерируются автоматически и добавляются к хлебным крошкам статической страницы, на которой располагается контрол.
 
-Для всех контролов, кроме Laximo и Поиск. Автокаталог, используется общий контрол [SEO. Хлебные крошки](../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-khlebnye-kroshki.md).
+Для всех контролов, кроме Laximo и Поиск. Автокаталог, используется общий контрол [SEO. Хлебные крошки](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-khlebnye-kroshki.md).
 
-Рассмотрим на примере использования контрола [Поиск. Каталог товаров](../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-katalog-tovarov.md). На страницу _catalog_ добавлен соответствующий контрол. Для самой страницы _catalog_ хлебные крошки [статической страницы](khlebnye-kroshki-breadcrumbs.md#khlebnye-kroshki-staticheskikh-stranic).
+Рассмотрим на примере использования контрола [Поиск. Каталог товаров](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-katalog-tovarov.md). На страницу _catalog_ добавлен соответствующий контрол. Для самой страницы _catalog_ хлебные крошки [статической страницы](khlebnye-kroshki-breadcrumbs.md#khlebnye-kroshki-staticheskikh-stranic).
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 После перехода в любой раздел страница создается и хлебные крошки создаются контролом.
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 {% hint style="info" %}
 В типовом дизайне хлебные крошки добавлены в переменную **breadcrumbs** и на страницы добавлена данная переменная \(за исключение страниц с оригинальными каталогами Laximo и модуля "Подбор по авто"\).
@@ -71,7 +71,7 @@
 
 Основной каталог для домена задается в настройках домена _Панель управления сайтом - Настройки - Домены_
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 {% hint style="info" %}
 Если основной каталог не задан, то для хлебные крошки будут формироваться из первой попавшейся группы, в которую входит данный товар.
@@ -83,7 +83,7 @@
 
 ## Частые вопросы
 
-{% page-ref page="../faq/kak-skryt-gruppu-kataloga-iz-khlebnykh-kroshek.md" %}
+{% page-ref page="../../faq/kak-skryt-gruppu-kataloga-iz-khlebnykh-kroshek.md" %}
 
-{% page-ref page="../faq/gde-nastroit-stranicu-kataloga-dlya-khlebnykh-kroshek.md" %}
+{% page-ref page="../../faq/gde-nastroit-stranicu-kataloga-dlya-khlebnykh-kroshek.md" %}
 
