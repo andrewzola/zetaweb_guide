@@ -2,11 +2,11 @@
 
 ## Меню, ссылки, карты
 
-![](https://github.com/andrewzola/zetaweb_guide/tree/1f1e89df7c19c4681fa22e413029e5644fc575eb/seo-i-upravlenie-kontentom/.gitbook/assets/image%20%28145%29.png)
+![](../../.gitbook/assets/image%20%28173%29.png)
 
 Меню, ссылки и карты также участвуют в формировании контента сайта. Для доступа к ним необходимо открыть _Панель управления сайтом - Наполнение сайта - Меню_
 
-![](https://github.com/andrewzola/zetaweb_guide/tree/1f1e89df7c19c4681fa22e413029e5644fc575eb/seo-i-upravlenie-kontentom/.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%28161%29.png)
 
 ### Ссылки
 
