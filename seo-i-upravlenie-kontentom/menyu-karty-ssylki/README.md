@@ -2,11 +2,11 @@
 
 ## Меню, ссылки, карты
 
-![](../.gitbook/assets/image%20%28145%29.png)
+![](https://github.com/andrewzola/zetaweb_guide/tree/1f1e89df7c19c4681fa22e413029e5644fc575eb/seo-i-upravlenie-kontentom/.gitbook/assets/image%20%28145%29.png)
 
 Меню, ссылки и карты также участвуют в формировании контента сайта. Для доступа к ним необходимо открыть _Панель управления сайтом - Наполнение сайта - Меню_
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](https://github.com/andrewzola/zetaweb_guide/tree/1f1e89df7c19c4681fa22e413029e5644fc575eb/seo-i-upravlenie-kontentom/.gitbook/assets/image%20%2880%29.png)
 
 ### Ссылки
 
@@ -18,3 +18,4 @@
 
 * Ссылка создается автоматически при добавлении страницу в карту сайта.
 * Ручное добавление ссылки.
+
