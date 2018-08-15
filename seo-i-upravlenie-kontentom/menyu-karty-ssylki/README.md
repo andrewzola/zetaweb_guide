@@ -16,6 +16,20 @@
 
 Есть 2 варианта создания ссылки:
 
-* Ссылка создается автоматически при добавлении страницу в карту сайта.
-* Ручное добавление ссылки.
+* Ссылка создается автоматически при [добавлении страницу в карту сайта](dobavlenie-stranicy-v-kartu-saita.md).
+* Ручное добавление ссылки \([создание также описано в разделе добавления страницы в карту сайта](dobavlenie-stranicy-v-kartu-saita.md)\).
+
+### Карты
+
+{% hint style="info" %}
+Карты необходимы для формирования [хлебных крошек](khlebnye-kroshki-breadcrumbs.md) и [карты сайта](../seo/karta-saita-sitemap.md).
+{% endhint %}
+
+Процесс добавления нового элемента в карту сайта описан в [соответствующем разделе](dobavlenie-stranicy-v-kartu-saita.md).
+
+### Меню
+
+{% hint style="info" %}
+Меню используется в работе контрола [Наполнение. Меню](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/4.-napolnenie/napolnenie.-menyu.md)
+{% endhint %}
 
