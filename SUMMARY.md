@@ -11,6 +11,8 @@
   * [Установка веб-части](ustanovka-i-obnovlenie/ustanovka-veb-chasti.md)
   * [Настройки сайта после загрузки начальных данных и типового дизайна](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
 * [Описание и настройка](opisanie-i-nastroika/README.md)
+  * [Поиск](opisanie-i-nastroika/poisk/README.md)
+    * [Поиск по строке](opisanie-i-nastroika/poisk/poisk-po-stroke.md)
   * [Управление номенклатурой](opisanie-i-nastroika/upravlenie-nomenklaturoi/README.md)
     * [Бренды](opisanie-i-nastroika/upravlenie-nomenklaturoi/brendy.md)
     * [Каталог](opisanie-i-nastroika/upravlenie-nomenklaturoi/katalog.md)
