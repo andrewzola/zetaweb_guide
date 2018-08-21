@@ -15,6 +15,8 @@
     * [Поиск по строке](opisanie-i-nastroika/poisk/poisk-po-stroke.md)
   * [Управление номенклатурой](opisanie-i-nastroika/upravlenie-nomenklaturoi/README.md)
     * [Бренды](opisanie-i-nastroika/upravlenie-nomenklaturoi/brendy.md)
+    * [Работа с дублями](opisanie-i-nastroika/upravlenie-nomenklaturoi/rabota-s-dublyami.md)
+    * [Перекроссировки брендов](opisanie-i-nastroika/upravlenie-nomenklaturoi/perekrossirovki-brendov.md)
     * [Каталог](opisanie-i-nastroika/upravlenie-nomenklaturoi/katalog.md)
     * [Запрещенная и разрешенная номенклатура](opisanie-i-nastroika/upravlenie-nomenklaturoi/zapreshennaya-i-razreshennaya-nomenklatura.md)
   * [Ценообразование](opisanie-i-nastroika/cenoobrazovanie/README.md)
