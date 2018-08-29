@@ -10,6 +10,7 @@
   * [Установка 1С-части](ustanovka-i-obnovlenie/ustanovka-1s-chasti.md)
   * [Установка веб-части](ustanovka-i-obnovlenie/ustanovka-veb-chasti.md)
   * [Настройки сайта после загрузки начальных данных и типового дизайна](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
+  * [Публикация веб-сервисов 1С](ustanovka-i-obnovlenie/publikaciya-veb-servisov-1s.md)
 * [Описание и настройка](opisanie-i-nastroika/README.md)
   * [Поиск](opisanie-i-nastroika/poisk/README.md)
     * [Поиск по строке](opisanie-i-nastroika/poisk/poisk-po-stroke.md)
