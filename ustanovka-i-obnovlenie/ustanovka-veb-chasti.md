@@ -28,7 +28,7 @@
 * Разместить в папке сайта файлы из папки cms в поставке, дать на них доступ на изменение для пользователя «IIS\_IUSRS» 
 * В созданном сайте \(IIS\) сконвертировать в приложение папку «TransferService», представляющую собой сервис обмена:
 
-![](../.gitbook/assets/image%20%28236%29.png)
+![](../.gitbook/assets/image%20%28248%29.png)
 
 {% hint style="info" %}
 Как правило, рекомендуется использовать отдельный пул для сервиса обмена сайта.
@@ -41,17 +41,17 @@
 
 * Прописать в файле «WebConnection.config» пути доступа к SQL-базе сайта:
 
-![](../.gitbook/assets/image%20%28111%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
  
 
 * Заполнить bindings именами доменов: 
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 * Перезапустить сайт:
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 После выполненных действий необходимо перейти в 1С, установить [настройки параметров обмена с сайтом](nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md) и произвести выгрузку данных.
 
