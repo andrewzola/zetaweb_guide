@@ -27,7 +27,7 @@ description: Релиз 2.4.8.1
 *  В открывшемся окне необходимо указать имя базы \(только латинские буквы, также можно использовать символ «-» и «\_»\), каталог и выставить галки как показано на рисунке. Нажмите «Опубликовать»
 
 {% hint style="info" %}
-Web-сервис ExchangeRMM и http-сервис Zeta API необходимы для взаимодействия с решениями Zeta РММ и Zeta Виртуальный склад.
+Web-сервис ExchangeRMM и http-сервис Zeta API необходимы для взаимодействия с решениями [Zeta РММ](https://www.zetasoft.ru/products-zeta-rmm/) и [Zeta Виртуальный склад](https://www.zetasoft.ru/products-zeta-vs/).
 
 Процесс установки и публикации web-сервиса ExchangeRMM описан в [базе знаний РММ](https://help-rmm.zetasoft.ru/ustanovka/izmenenie-osnovnoi-1s).
 {% endhint %}
