@@ -20,6 +20,7 @@
     * [Перекроссировки брендов](opisanie-i-nastroika/upravlenie-nomenklaturoi/perekrossirovki-brendov.md)
     * [Каталог](opisanie-i-nastroika/upravlenie-nomenklaturoi/katalog.md)
     * [Запрещенная и разрешенная номенклатура](opisanie-i-nastroika/upravlenie-nomenklaturoi/zapreshennaya-i-razreshennaya-nomenklatura.md)
+    * [Кратность продажи](opisanie-i-nastroika/upravlenie-nomenklaturoi/kratnost-prodazhi.md)
   * [Ценообразование](opisanie-i-nastroika/cenoobrazovanie/README.md)
     * [Для 1С Управление торговлей ред. 10.3](opisanie-i-nastroika/cenoobrazovanie/dlya-1s-upravlenie-torgovlei-red.-10.3.md)
     * [Для Альфа Авто](opisanie-i-nastroika/cenoobrazovanie/dlya-alfa-avto.md)
