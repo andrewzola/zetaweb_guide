@@ -39,6 +39,7 @@
     * [Zeta Веб-сервисы](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/zeta-veb-servisy.md)
   * [Автоматическое закрытие корзин сайта \(заказов покупателей\)](opisanie-i-nastroika/avtomaticheskoe-zakrytie-zakazov-pokupatelei.md)
   * [Группы синонимов поиска](opisanie-i-nastroika/gruppy-sinonimov-poiska.md)
+  * [Настройка рассылки прайс-листов](opisanie-i-nastroika/nastroika-rassylki-prais-listov.md)
 * [SEO и управление контентом](seo-i-upravlenie-kontentom/README.md)
   * [Домен](seo-i-upravlenie-kontentom/domen.md)
   * [Страницы и переменные](seo-i-upravlenie-kontentom/stranicy-i-peremennye/README.md)

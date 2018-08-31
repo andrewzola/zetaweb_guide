@@ -8,9 +8,9 @@
 Для типового дизайна контрол добавлен в переменную "header-region-and-phone" и доступен по следующему пути "Панель управления сайтом - Наполнение сайта - Страницы/Переменные - Переменные - header - header-region-and-phone"
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28153%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 
 
