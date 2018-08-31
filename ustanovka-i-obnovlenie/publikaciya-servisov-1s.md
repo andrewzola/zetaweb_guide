@@ -4,6 +4,12 @@ description: Релиз 2.4.8.1
 
 # Публикация сервисов 1С
 
+{% hint style="info" %}
+Web-сервис ExchangeRMM и http-сервис Zeta API необходимы для взаимодействия с решениями [Zeta РММ](https://www.zetasoft.ru/products-zeta-rmm/) и [Zeta Виртуальный склад](https://www.zetasoft.ru/products-zeta-vs/).
+
+Процесс установки и публикации web-сервиса ExchangeRMM описан в [базе знаний РММ](https://help-rmm.zetasoft.ru/ustanovka/izmenenie-osnovnoi-1s).
+{% endhint %}
+
 ## Публикация web-сервиса ExchangeRMM и http-сервиса Zeta API {#publikaciya-veb-servisa}
 
 В зависимости от того, какой программой вы будете пользоваться для публикации веб-сервиса, воспользуйтесь соответствующей инструкцией.
@@ -25,12 +31,6 @@ description: Релиз 2.4.8.1
 ![](../.gitbook/assets/image%20%28147%29.png)
 
 *  В открывшемся окне необходимо указать имя базы \(только латинские буквы, также можно использовать символ «-» и «\_»\), каталог и выставить галки как показано на рисунке. Нажмите «Опубликовать»
-
-{% hint style="info" %}
-Web-сервис ExchangeRMM и http-сервис Zeta API необходимы для взаимодействия с решениями [Zeta РММ](https://www.zetasoft.ru/products-zeta-rmm/) и [Zeta Виртуальный склад](https://www.zetasoft.ru/products-zeta-vs/).
-
-Процесс установки и публикации web-сервиса ExchangeRMM описан в [базе знаний РММ](https://help-rmm.zetasoft.ru/ustanovka/izmenenie-osnovnoi-1s).
-{% endhint %}
 
 ![Web-&#x441;&#x435;&#x440;&#x432;&#x438;&#x441; ExchangeRMM](../.gitbook/assets/image%20%2886%29.png)
 
