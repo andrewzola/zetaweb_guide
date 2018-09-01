@@ -78,6 +78,7 @@
   * [Почему поле "Описание" в карточке номенклатуры недоступно для редактирования](faq/pochemu-pole-opisanie-kartochke-nomenklatury-nedostupno-dlya-redaktirovaniya-izmeneniya.md)
   * [Как создать категорию для спеццены](faq/kak-sozdat-kategoriyu-dlya-specceny.md)
   * [Что входит в типовую стилизацию](faq/chto-vkhodit-v-tipovuyu-stilizaciyu.md)
+  * [Что делать, если данные на сайте не совпадают с данными в 1С](faq/chto-delat-esli-dannye-na-saite-ne-sovpadayut-s-dannymi-v-1s.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
