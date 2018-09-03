@@ -78,4 +78,5 @@
 
 * [Регион по умолчанию](../faq/kak-ustanovit-region-po-umolchaniyu.md#kak-ustanovit-region-po-umolchaniyu)
 * [Настройка капчи](../faq/kak-nastroit-google-recaptcha.md)
+* [Настройки пользователя "Сайт"](../faq/oshibka-pri-importe-oplaty-platezhnoi-kartoi..md)
 
