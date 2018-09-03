@@ -78,5 +78,5 @@
 
 * [Регион по умолчанию](../faq/kak-ustanovit-region-po-umolchaniyu.md#kak-ustanovit-region-po-umolchaniyu)
 * [Настройка капчи](../faq/kak-nastroit-google-recaptcha.md)
-* [Настройки пользователя "Сайт"](../faq/oshibka-pri-importe-oplaty-platezhnoi-kartoi..md)
+* [Настройки пользователя "Сайт"](https://github.com/andrewzola/zetaweb_guide/tree/47f1b2eda2bd418b4515306f88d513ac5d477c97/faq/oshibka-pri-importe-oplaty-platezhnoi-kartoi..md)
 
