@@ -80,6 +80,7 @@
   * [Что входит в типовую стилизацию](faq/chto-vkhodit-v-tipovuyu-stilizaciyu.md)
   * [Что делать, если данные на сайте не совпадают с данными в 1С](faq/chto-delat-esli-dannye-na-saite-ne-sovpadayut-s-dannymi-v-1s.md)
   * [Ошибка при импорте оплаты платежной картой](faq/oshibka-pri-importe-oplaty-platezhnoi-kartoi.md)
+  * [Ошибка обмена "Недостаточно фактических параметров для метода фонового задания"](faq/oshibka-obmena-nedostatochno-fakticheskikh-parametrov-dlya-metoda-fonovogo-zadaniya.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
