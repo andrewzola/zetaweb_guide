@@ -1,6 +1,7 @@
 # Table of contents
 
 * [База знаний](README.md)
+* [Как правильно поставить задачу в службу поддержки?](kak-pravilno-postavit-zadachu-v-sluzhbu-podderzhki.md)
 * [Введение](vvedenie/README.md)
   * [Краткое описание](vvedenie/kratkoe-opisanie.md)
   * [Состав продукта Zeta Web](vvedenie/sostav-produkta-zeta-web.md)
@@ -244,5 +245,4 @@
     * [Результаты поиска на карте. Всплывающие окно](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/rezultaty-poiska-na-karte.-vsplyvayushie-okno.md)
   * [Требования к дизайну](tekhnicheskaya-dokumentaciya/trebovaniya-k-dizainu.md)
   * [Обслуживание баз данных](tekhnicheskaya-dokumentaciya/reglamentnye-operacii.md)
-* [Как правильно поставить задачу в службу поддержки?](kak-pravilno-postavit-zadachu-v-sluzhbu-podderzhki.md)
 
