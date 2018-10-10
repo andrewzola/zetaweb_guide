@@ -23,7 +23,7 @@ Zeta Web поддерживает автоматические редирект�
 
 Пример настройки при переходе на Zeta Web с другого решения.
 
-{% embed data="{\"url\":\"https://youtu.be/Zamy8sijU0g\",\"type\":\"video\",\"title\":\"Zeta Web. Настройка редиректов средствами IIS\",\"description\":\"В данном видео рассмотрен пример настройки 301 редиректа\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/Zamy8sijU0g/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/Zamy8sijU0g?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/Zamy8sijU0g?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://youtu.be/Zamy8sijU0g" %}
 
 ### Полезные ссылки
 
