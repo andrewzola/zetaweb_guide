@@ -19,7 +19,7 @@
     * [Бренды](opisanie-i-nastroika/upravlenie-nomenklaturoi/brendy.md)
     * [Перекроссировка брендов](opisanie-i-nastroika/upravlenie-nomenklaturoi/perekrossirovki-brendov.md)
     * [Работа с дублями](opisanie-i-nastroika/upravlenie-nomenklaturoi/rabota-s-dublyami.md)
-    * [Перекроссировка номенклатуры](opisanie-i-nastroika/upravlenie-nomenklaturoi/perekrossirovka-nomenklatury.md)
+    * [Кроссы \(аналоги\) номенклатуры](opisanie-i-nastroika/upravlenie-nomenklaturoi/perekrossirovka-nomenklatury.md)
     * [Каталог](opisanie-i-nastroika/upravlenie-nomenklaturoi/katalog.md)
     * [Запрещенная и разрешенная номенклатура](opisanie-i-nastroika/upravlenie-nomenklaturoi/zapreshennaya-i-razreshennaya-nomenklatura.md)
     * [Кратность продажи](opisanie-i-nastroika/upravlenie-nomenklaturoi/kratnost-prodazhi.md)
