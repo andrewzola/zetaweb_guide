@@ -85,6 +85,7 @@
   * [Ошибка при импорте оплаты платежной картой](faq/oshibka-pri-importe-oplaty-platezhnoi-kartoi.md)
   * [Ошибка обмена "Недостаточно фактических параметров для метода фонового задания"](faq/oshibka-obmena-nedostatochno-fakticheskikh-parametrov-dlya-metoda-fonovogo-zadaniya.md)
   * [Откуда берется склад отгрузки в заказе покупателя](faq/otkuda-beretsya-sklad-otgruzki-v-zakaze-pokupatelya.md)
+  * [Как добавить файл для загрузки с сайта](faq/kak-dobavit-fail-dlya-zagruzki-s-saita.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
