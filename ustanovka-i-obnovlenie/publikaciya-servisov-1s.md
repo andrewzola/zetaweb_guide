@@ -6,7 +6,7 @@ Web-сервис ExchangeRMM и http-сервис Zeta API необходимы 
 Процесс установки и публикации web-сервиса ExchangeRMM описан в [базе знаний РММ](https://help-rmm.zetasoft.ru/ustanovka/izmenenie-osnovnoi-1s).
 {% endhint %}
 
-## Публикация web-сервиса ExchangeRMM и http-сервиса Zeta API {#publikaciya-veb-servisa}
+## Публикация web-сервиса ExchangeRMM и http-сервиса Zeta API <a id="publikaciya-veb-servisa"></a>
 
 В зависимости от того, какой программой вы будете пользоваться для публикации веб-сервиса, воспользуйтесь соответствующей инструкцией.
 
@@ -14,7 +14,7 @@ Web-сервис ExchangeRMM и http-сервис Zeta API необходимы 
 Дистрибутив Apache - [https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg](https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg)​
 {% endhint %}
 
-### Apache или IIS {#apache-ili-iis}
+### Apache или IIS <a id="apache-ili-iis"></a>
 
 {% hint style="info" %}
 Для публикации веб-сервиса необходимо запускать 1С в режиме Конфигуратор с правами администратора.
@@ -34,7 +34,7 @@ Web-сервис ExchangeRMM и http-сервис Zeta API необходимы 
 
 
 
-### 1С Публикатор {#1s-publikator}
+### 1С Публикатор <a id="1s-publikator"></a>
 
 * Скачайте 1С Публикатор \(по ссылке [https://drive.google.com/open?id=0B1XBNSCvmVxwbXhTc045Nk5JakE](https://drive.google.com/open?id=0B1XBNSCvmVxwbXhTc045Nk5JakE)\) и извлеките из архива.
 * Путь к папке, в которой находится 1С Публикатор, должен содержать только латинские символы, желательно расположить в корневой папке диска С \(например C:\Publicator\)
