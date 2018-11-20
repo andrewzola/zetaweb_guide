@@ -251,3 +251,8 @@
   * [Требования к дизайну](tekhnicheskaya-dokumentaciya/trebovaniya-k-dizainu.md)
   * [Обслуживание баз данных](tekhnicheskaya-dokumentaciya/reglamentnye-operacii.md)
 
+## Типовые сценарии работы
+
+* [Удаленные склады](tipovye-scenarii-raboty/udalennye-sklady.md)
+* [Добавление поставщика виртуального склада](tipovye-scenarii-raboty/dobavlenie-postavshika-virtualnogo-sklada.md)
+
