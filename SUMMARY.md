@@ -253,6 +253,6 @@
 
 ## Типовые сценарии работы
 
-* [Удаленные склады](tipovye-scenarii-raboty/udalennye-sklady.md)
-* [Добавление поставщика виртуального склада](tipovye-scenarii-raboty/dobavlenie-postavshika-virtualnogo-sklada.md)
+* [Удаленные склады](tipovye-scenarii-raboty/udalennye-sklady/README.md)
+  * [Добавление поставщика виртуального склада](tipovye-scenarii-raboty/udalennye-sklady/dobavlenie-postavshika-virtualnogo-sklada.md)
 
