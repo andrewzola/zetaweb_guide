@@ -27,7 +27,7 @@ Zeta Web автоматически создает xml-файл sitemap.xml по
 
 В файл попадают все ссылки на страницы, которые [не скрыты](../menyu-karty-ssylki/dobavlenie-stranicy-v-kartu-saita.md#skryvat-ili-otobrazhat) для карты сайта и принадлежат выбранной в домене группе.
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28136%29.png)
 
 ### Добавление других файлов \*.xml
 
