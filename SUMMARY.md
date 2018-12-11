@@ -8,7 +8,7 @@
   * [Экосистема Zeta Web](vvedenie/ekosistema-zeta-web.md)
 * [Установка и обновление](ustanovka-i-obnovlenie/README.md)
   * [Системные требования](ustanovka-i-obnovlenie/sistemnye-trebovaniya.md)
-  * [Установка 1С-части](ustanovka-i-obnovlenie/ustanovka-1s-chasti.md)
+  * [Установка и обновление 1С-части](ustanovka-i-obnovlenie/ustanovka-i-obnovlenie-1s-chasti.md)
   * [Установка веб-части](ustanovka-i-obnovlenie/ustanovka-veb-chasti.md)
   * [Настройки сайта после загрузки начальных данных и типового дизайна](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
   * [Публикация сервисов 1С](ustanovka-i-obnovlenie/publikaciya-servisov-1s.md)
