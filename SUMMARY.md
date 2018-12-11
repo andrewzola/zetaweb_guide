@@ -26,7 +26,7 @@
   * [Ценообразование](opisanie-i-nastroika/cenoobrazovanie/README.md)
     * [Для 1С Управление торговлей ред. 10.3](opisanie-i-nastroika/cenoobrazovanie/dlya-1s-upravlenie-torgovlei-red.-10.3.md)
     * [Для Альфа Авто](opisanie-i-nastroika/cenoobrazovanie/dlya-alfa-avto.md)
-    * [Ценообразование по сегментам номенклатуры](opisanie-i-nastroika/cenoobrazovanie/cenoobrazovanie-po-segmentam-nomenklatury..md)
+    * [Ценообразование по сегментам номенклатуры](opisanie-i-nastroika/cenoobrazovanie/cenoobrazovanie-po-segmentam-nomenklatury.md)
     * [Специальные цены](opisanie-i-nastroika/cenoobrazovanie/specialnye-ceny.md)
   * [Способы доставки и оплаты](opisanie-i-nastroika/sposoby-dostavki-i-oplaty.md)
   * [Склады и поставщики](opisanie-i-nastroika/sklady-i-postavshiki/README.md)
