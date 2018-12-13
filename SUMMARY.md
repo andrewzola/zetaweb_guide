@@ -13,6 +13,7 @@
   * [Установка веб-части](ustanovka-i-obnovlenie/ustanovka-veb-chasti.md)
   * [Настройки сайта после загрузки начальных данных и типового дизайна](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
   * [Публикация сервисов 1С](ustanovka-i-obnovlenie/publikaciya-servisov-1s.md)
+  * [SSL-сертификат \(https\)](ustanovka-i-obnovlenie/ssl-sertifikat-https.md)
 * [Описание и настройка](opisanie-i-nastroika/README.md)
   * [Поиск](opisanie-i-nastroika/poisk/README.md)
     * [Поиск по строке](opisanie-i-nastroika/poisk/poisk-po-stroke.md)
