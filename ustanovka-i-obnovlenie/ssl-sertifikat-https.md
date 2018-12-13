@@ -9,7 +9,9 @@
 * HTTPS - [https://ru.wikipedia.org/wiki/HTTPS](https://ru.wikipedia.org/wiki/HTTPS)
 {% endhint %}
 
+{% hint style="warning" %}
 Для установки SSL-сертификата необходим сертификат в формате PFX.
+{% endhint %}
 
 ### Конвертация сертификата в PFX
 
