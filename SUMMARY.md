@@ -47,6 +47,8 @@
   * [Группы синонимов поиска](opisanie-i-nastroika/gruppy-sinonimov-poiska.md)
   * [Настройка рассылки прайс-листов](opisanie-i-nastroika/nastroika-rassylki-prais-listov.md)
 * [SEO и управление контентом](seo-i-upravlenie-kontentom/README.md)
+  * [Дизайн](seo-i-upravlenie-kontentom/dizain/README.md)
+    * [Favicon \(фавиконка\)](seo-i-upravlenie-kontentom/dizain/favicon-favikonka.md)
   * [Домен](seo-i-upravlenie-kontentom/domen.md)
   * [Страницы и переменные](seo-i-upravlenie-kontentom/stranicy-i-peremennye/README.md)
     * [Формирование URL Zeta Web](seo-i-upravlenie-kontentom/stranicy-i-peremennye/formirovanie-url-zeta-web.md)
