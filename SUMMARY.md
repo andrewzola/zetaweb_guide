@@ -54,7 +54,7 @@
     * [Формирование URL Zeta Web](seo-i-upravlenie-kontentom/stranicy-i-peremennye/formirovanie-url-zeta-web.md)
     * [Сортировка товаров на странице](seo-i-upravlenie-kontentom/stranicy-i-peremennye/sortirovka-tovarov-na-stranice.md)
   * [Меню, карты, ссылки](seo-i-upravlenie-kontentom/menyu-karty-ssylki/README.md)
-    * [Добавление ссылки на страницу меню](seo-i-upravlenie-kontentom/menyu-karty-ssylki/dobavlenie-ssylki-na-stranicu-menyu.md)
+    * [Добавление раздела меню](seo-i-upravlenie-kontentom/menyu-karty-ssylki/dobavlenie-ssylki-na-stranicu-menyu.md)
     * [Добавление страницы в карту сайта](seo-i-upravlenie-kontentom/menyu-karty-ssylki/dobavlenie-stranicy-v-kartu-saita.md)
     * [Хлебные крошки \(breadcrumbs\)](seo-i-upravlenie-kontentom/menyu-karty-ssylki/khlebnye-kroshki-breadcrumbs.md)
   * [Информационные блоки, баннеры, опросы](seo-i-upravlenie-kontentom/informacionnye-bloki-bannery-oprosy/README.md)
