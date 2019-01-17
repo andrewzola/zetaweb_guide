@@ -66,3 +66,26 @@
 
 ![](../.gitbook/assets/image%20%2851%29.png)
 
+## Рекомендации при переносе сайта и переходе с HTTP на HTTPS
+
+{% hint style="info" %}
+Рекомендации от поисковых систем.
+
+**Google:**
+
+* [Что такое перенос сайта?](https://support.google.com/webmasters/answer/34437?hl=ru)
+* [Основные сведения о переносе сайта](https://support.google.com/webmasters/answer/6033049?hl=ru)
+* [Защитите свой сайт с помощью HTTPS](https://support.google.com/webmasters/answer/6073543)
+
+**Yandex:**
+
+* [Переезд сайта](https://yandex.ru/support/webmaster/yandex-indexing/moving-site.html)
+{% endhint %}
+
+Несколько статей, в которых, на наш взгляд, собрана полезная информация для общего понимания:
+
+* Переход с http на https - [https://seo.artox-media.ru/wiki/pereezd-na-https.html](https://seo.artox-media.ru/wiki/pereezd-na-https.html)
+* Смена домена - [https://hostiq.ua/blog/how-to-change-domain/](https://hostiq.ua/blog/how-to-change-domain/) \(в статье рекомендуем обратить внимание на пример чек-листа\)
+
+
+
