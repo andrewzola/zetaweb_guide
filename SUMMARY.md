@@ -64,6 +64,7 @@
     * [Настройка мета-тегов](seo-i-upravlenie-kontentom/seo/nastroika-meta-tegov.md)
     * [Транслитизация наименований картинок](seo-i-upravlenie-kontentom/seo/translitezaciya-naimenovanii-kartinok.md)
     * [Настройка редиректов \(IIS\)](seo-i-upravlenie-kontentom/seo/nastroika-redirektov-iis.md)
+    * [Инструменты веб-мастера](seo-i-upravlenie-kontentom/seo/instrumenty-veb-mastera.md)
 * [Развитие продукта](razvitie-produkta/README.md)
   * [План развития продукта](razvitie-produkta/plan-razvitiya-produkta.md)
   * [История изменений](razvitie-produkta/istoriya-izmenenii/README.md)
