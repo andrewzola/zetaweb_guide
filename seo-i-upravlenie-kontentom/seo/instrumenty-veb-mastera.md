@@ -58,9 +58,9 @@
 
 ![&#x41E;&#x43A;&#x43D;&#x43E; &#x43D;&#x430; &#x441;&#x430;&#x439;&#x442; &#x414;&#x438;&#x441;&#x43F;&#x435;&#x442;&#x447;&#x435;&#x440;&#x430; &#x442;&#x435;&#x433;&#x43E;&#x432;](../../.gitbook/assets/image%20%28139%29.png)
 
-![&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x432; head](../../.gitbook/assets/image%20%28321%29.png)
+![&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x432; head](../../.gitbook/assets/image%20%28325%29.png)
 
-![&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x432; body](../../.gitbook/assets/image%20%28322%29.png)
+![&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x432; body](../../.gitbook/assets/image%20%28326%29.png)
 
 * Выполните обмен с сайтом
 * В случае, если все шаги были выполнены верно, Диспетчер тегов будет доступен на сайте. Можно создавать теги.
@@ -80,4 +80,9 @@
 
 * [https://web-specialist.info/wordpress/ustanovka-jandeks-metriki-pri-pomoshhi-gtm](https://web-specialist.info/wordpress/ustanovka-jandeks-metriki-pri-pomoshhi-gtm)
 * [https://ppc.world/articles/ustanovka-google-analytics-na-sayt-s-pomoschyu-google-tag-manager/](https://ppc.world/articles/ustanovka-google-analytics-na-sayt-s-pomoschyu-google-tag-manager/)
+
+### Полезные функции
+
+* Переобход страниц Яндекс - [https://webmaster.yandex.ru/blog/prioritetnyy-pereobkhod-stranits-sayta-zapuschen-v-yandeks-vebmastere](https://webmaster.yandex.ru/blog/prioritetnyy-pereobkhod-stranits-sayta-zapuschen-v-yandeks-vebmastere)
+* Переобход страниц Google - [https://support.google.com/webmasters/answer/6065812?hl=ru](https://support.google.com/webmasters/answer/6065812?hl=ru)
 

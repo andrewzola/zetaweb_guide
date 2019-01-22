@@ -46,6 +46,7 @@
   * [Автоматическое закрытие корзин сайта \(заказов покупателей\)](opisanie-i-nastroika/avtomaticheskoe-zakrytie-zakazov-pokupatelei.md)
   * [Группы синонимов поиска](opisanie-i-nastroika/gruppy-sinonimov-poiska.md)
   * [Настройка рассылки прайс-листов](opisanie-i-nastroika/nastroika-rassylki-prais-listov.md)
+  * [Уведомления \(e-mail, SMS-сообщения\)](opisanie-i-nastroika/uvedomleniya-e-mail-sms-soobsheniya.md)
 * [SEO и управление контентом](seo-i-upravlenie-kontentom/README.md)
   * [Дизайн](seo-i-upravlenie-kontentom/dizain/README.md)
     * [Favicon \(фавиконка\)](seo-i-upravlenie-kontentom/dizain/favicon-favikonka.md)
