@@ -39,6 +39,7 @@
   * [Подключение онлайн-платежей](opisanie-i-nastroika/podklyuchenie-onlain-platezhei/README.md)
     * [Яндекс.Касса \(Yandex.Kassa\)](opisanie-i-nastroika/podklyuchenie-onlain-platezhei/yandeks.kassa-yandex.kassa.md)
     * [Ассист \(Assist\)](opisanie-i-nastroika/podklyuchenie-onlain-platezhei/assist-assist.md)
+    * [Сбербанк \(Sberbank\)](opisanie-i-nastroika/podklyuchenie-onlain-platezhei/sberbank-sberbank.md)
   * [Внешние  сервисы и каталоги по подбору автозапчастей](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/README.md)
     * [Laximo](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo.md)
     * [Zeta Веб-сервисы](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/zeta-veb-servisy.md)
