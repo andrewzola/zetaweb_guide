@@ -1,6 +1,6 @@
 # Laximo
 
-## Laximo.OEM
+## Laximo. OEM
 
 ### Описание
 
