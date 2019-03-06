@@ -104,7 +104,7 @@
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
-    * [Описание контролов](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/)
+    * [Описание контролов](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/README.md)
       * [1. Поиск, каталог, товары](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1-poisk-katalog-tovary//README.md)
         * [Laximo [+]](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1-poisk-katalog-tovary/laximo//README.md)
           * [Laximo. Список параметров в отборе по параметрам [служебный](!)](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1-poisk-katalog-tovary/laximo/laximo-spisok-parametrov-v-otbore-po-parametram-sluzhebnyi.md)
