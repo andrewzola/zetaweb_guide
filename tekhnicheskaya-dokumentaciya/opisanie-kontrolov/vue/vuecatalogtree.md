@@ -1,6 +1,6 @@
 ﻿---
 description: 2.4.9.1
 ---
-# Контрол 'VueCatalogTree'
+# Контрол "VueCatalogTree"
 ### Имя контрола в веб-части: VueCatalogTree.ascx
 
