@@ -1,4 +1,4 @@
-﻿* [Laximo. Список параметров в отборе по параметрам [служебный](!)] (laximo-spisok-parametrov-v-otbore-po-parametram-sluzhebnyi.md)
+﻿* [Laximo. Список параметров в отборе по параметрам [служебный](!)] (laximo\laximo-spisok-parametrov-v-otbore-po-parametram-sluzhebnyi.md)
 * [Laximo. Список свойств модели автомобиля [служебный](!)] (laximo-spisok-svoistv-modeli-avtomobilya-sluzhebnyi.md)
 * [Laximo. Этап 1. Список каталогов (производители автомобилей)(!)] (laximo-etap-1-spisok-katalogov-proizvoditeli-avtomobilei.md)
 * [Laximo. Этап 2. Результаты поиска моделей автомобилей(!)] (laximo-etap-2-rezultaty-poiska-modelei-avtomobilei.md)
