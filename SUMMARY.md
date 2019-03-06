@@ -109,7 +109,7 @@
       * [Laximo \[+\]](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/README.md)
         * [Laximo. Список параметров в отборе по параметрам служебный](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-spisok-parametrov-v-otbore-po-parametram-sluzhebnyi.md)
         * [Laximo. Список свойств модели автомобиля служебный](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-spisok-svoistv-modeli-avtomobilya-sluzhebnyi.md)
-        * [Laximo. Этап 1. Список каталогов \(производители автомобилей\)\(!\)](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-etap-1.-spisok-katalogov-proizvoditeli-avtomobilei.md)
+        * [Контрол "Laximo. Этап 1. Список каталогов \(производители автомобилей\)\(!\)"](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-etap-1.-spisok-katalogov-proizvoditeli-avtomobilei.md)
         * [Laximo. Этап 2. Результаты поиска моделей автомобилей\(!\)](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-etap-2.-rezultaty-poiska-modelei-avtomobilei.md)
         * [Laximo. Этап 3.1. Каталог от производителя. Дерево групп!](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-etap-3.1.-katalog-ot-proizvoditelya.-derevo-grupp.md)
         * [Laximo. Этап 3.1. Общий каталог.  Дерево групп!](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-etap-3.1.-obshii-katalog.-derevo-grupp.md)
