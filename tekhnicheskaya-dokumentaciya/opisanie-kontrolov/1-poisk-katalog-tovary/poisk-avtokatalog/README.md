@@ -1,10 +1,10 @@
-﻿* [Автокаталог. Группы запчастей] (avtokatalog-gruppy-zapchastei.md)
-* [Автокаталог. История поиска по автомобилю] (avtokatalog-istoriya-poiska-po-avtomobilyu.md)
-* [Автокаталог. Марки] (avtokatalog-marki.md)
-* [Автокаталог. Модели] (avtokatalog-modeli.md)
-* [Автокаталог. Модификации] (avtokatalog-modifikacii.md)
-* [Автокаталог. Поиск по двигателю] (avtokatalog-poisk-po-dvigatelyu.md)
-* [Автокаталог. Текущий автомобиль] (avtokatalog-tekuschii-avtomobil.md)
-* [ТО. Дополнительные работы по автомобилю] (to-dopolnitelnye-raboty-po-avtomobilyu.md)
-* [ТО. Техническая информация] (to-tehnicheskaya-informaciya.md)
-* [ТО. Техническое обслуживание автомобиля] (to-tehnicheskoe-obsluzhivanie-avtomobilya.md)
+﻿{% page-ref page="avtokatalog-gruppy-zapchastei.md"" %}
+{% page-ref page="avtokatalog-istoriya-poiska-po-avtomobilyu.md"" %}
+{% page-ref page="avtokatalog-marki.md"" %}
+{% page-ref page="avtokatalog-modeli.md"" %}
+{% page-ref page="avtokatalog-modifikacii.md"" %}
+{% page-ref page="avtokatalog-poisk-po-dvigatelyu.md"" %}
+{% page-ref page="avtokatalog-tekuschii-avtomobil.md"" %}
+{% page-ref page="to-dopolnitelnye-raboty-po-avtomobilyu.md"" %}
+{% page-ref page="to-tehnicheskaya-informaciya.md"" %}
+{% page-ref page="to-tehnicheskoe-obsluzhivanie-avtomobilya.md"" %}

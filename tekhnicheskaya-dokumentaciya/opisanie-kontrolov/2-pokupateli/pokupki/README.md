@@ -1,45 +1,45 @@
-﻿* [Акт сверки взаиморасчетов] (akt-sverki-vzaimoraschetov\README.md)
-* [Акт сверки взаиморасчетов. Отборы.] (akt-sverki-vzaimoraschetov-otbory.md)
-* [Акт сверки взаиморасчетов. Результат.] (akt-sverki-vzaimoraschetov-rezultat.md)
-* [Валюта] (valyuta\README.md)
-* [Курсы валют] (kursy-valyut.md)
-* [Смена валюты] (smena-valyuty.md)
-* [Возвраты] (vozvraty\README.md)
-* [Возвраты. Журнал.] (vozvraty-zhurnal.md)
-* [Возвраты. Заявка на возврат товара.] (vozvraty-zayavka-na-vozvrat-tovara.md)
-* [Возвраты. Заявка на отмену строки заказа.] (vozvraty-zayavka-na-otmenu-stroki-zakaza.md)
-* [Возвраты. Фильтр журнала.] (vozvraty-filtr-zhurnala.md)
-* [Журнал заказов] (zhurnal-zakazov\README.md)
-* [Журнал заказов по заказам] (zhurnal-zakazov-po-zakazam.md)
-* [Журнал заказов по реализациям] (zhurnal-zakazov-po-realizaciyam.md)
-* [Журнал заказов по строкам заказов] (zhurnal-zakazov-po-strokam-zakazov.md)
-* [Фильтр журнала заказов по заказам] (filtr-zhurnala-zakazov-po-zakazam.md)
-* [Фильтр журнала заказов по реализациям] (filtr-zhurnala-zakazov-po-realizaciyam.md)
-* [Фильтр журнала заказов по строкам заказов] (filtr-zhurnala-zakazov-po-strokam-zakazov.md)
-* [Корзина] (korzina\README.md)
-* [Доставка и оплата] (dostavka-i-oplata\README.md)
-* [v1] (v1\README.md)
-* [Корзина. Подтверждение. Выбор адреса доставки / точки выдачи.] (korzina-podtverzhdenie-vybor-adresa-dostavki-_-tochki-vydachi.md)
-* [Корзина. Подтверждение. Выбор поставщика услуг, осуществляющего доставку.] (korzina-podtverzhdenie-vybor-postavschika-uslug-osuschestvlyayuschego-dostavku.md)
-* [Корзина. Подтверждение. Выбор способа доставки.] (korzina-podtverzhdenie-vybor-sposoba-dostavki.md)
-* [Корзина. Подтверждение. Выбор способа оплаты.] (korzina-podtverzhdenie-vybor-sposoba-oplaty.md)
-* [v2] (v2\README.md)
-* [Корзина. Подтверждение. Выбор поставщика услуг.] (korzina-podtverzhdenie-vybor-postavschika-uslug.md)
-* [Корзина. Подтверждение. Выбор способа доставки и оплаты.] (korzina-podtverzhdenie-vybor-sposoba-dostavki-i-oplaty.md)
-* [Корзина. Подтверждение. Выбор способа доставки.] (korzina-podtverzhdenie-vybor-sposoba-dostavki.md)
-* [Корзина. Подтверждение. Выбор способа оплаты.] (korzina-podtverzhdenie-vybor-sposoba-oplaty.md)
-* [Корзина. Подтверждение. Выбор точки выдачи поставщика / адреса доставки клиента.] (korzina-podtverzhdenie-vybor-tochki-vydachi-postavschika-_-adresa-dostavki-klienta.md)
-* [Корзина. Подтверждение. Вывод цены услуги.] (korzina-podtverzhdenie-vyvod-ceny-uslugi.md)
-* [Корзина. Информация о подтверждённом заказе] (korzina-informaciya-o-podtverzhdnnom-zakaze.md)
-* [Корзина. Перенос строк в другой договор.] (korzina-perenos-strok-v-drugoi-dogovor.md)
-* [Корзина. Подтверждение] (korzina-podtverzhdenie.md)
-* [Корзина. Подтверждение. v2] (korzina-podtverzhdenie-v2.md)
-* [Корзина. Поиск заказа по идентификатору] (korzina-poisk-zakaza-po-identifikatoru.md)
-* [Корзина. Редактирование.] (korzina-redaktirovanie.md)
-* [Корзина. Редактирование. v2] (korzina-redaktirovanie-v2.md)
-* [Корзина. Смена склада отгрузки в строке заказа.] (korzina-smena-sklada-otgruzki-v-stroke-zakaza.md)
-* [Корзина. Список корзин по договорам клиента] (korzina-spisok-korzin-po-dogovoram-klienta.md)
-* [Запрос отложенного платежа] (zapros-otlozhennogo-platezha.md)
-* [Запрос отсрочки  платежа] (zapros-otsrochki-platezha.md)
-* [Печатная форма платежного документа] (pechatnaya-forma-platezhnogo-dokumenta.md)
-* [Состояние счета] (sostoyanie-scheta.md)
+﻿{% page-ref page="akt-sverki-vzaimoraschetov" %}
+{% page-ref page="akt-sverki-vzaimoraschetov-otbory.md"" %}
+{% page-ref page="akt-sverki-vzaimoraschetov-rezultat.md"" %}
+{% page-ref page="valyuta" %}
+{% page-ref page="kursy-valyut.md"" %}
+{% page-ref page="smena-valyuty.md"" %}
+{% page-ref page="vozvraty" %}
+{% page-ref page="vozvraty-zhurnal.md"" %}
+{% page-ref page="vozvraty-zayavka-na-vozvrat-tovara.md"" %}
+{% page-ref page="vozvraty-zayavka-na-otmenu-stroki-zakaza.md"" %}
+{% page-ref page="vozvraty-filtr-zhurnala.md"" %}
+{% page-ref page="zhurnal-zakazov" %}
+{% page-ref page="zhurnal-zakazov-po-zakazam.md"" %}
+{% page-ref page="zhurnal-zakazov-po-realizaciyam.md"" %}
+{% page-ref page="zhurnal-zakazov-po-strokam-zakazov.md"" %}
+{% page-ref page="filtr-zhurnala-zakazov-po-zakazam.md"" %}
+{% page-ref page="filtr-zhurnala-zakazov-po-realizaciyam.md"" %}
+{% page-ref page="filtr-zhurnala-zakazov-po-strokam-zakazov.md"" %}
+{% page-ref page="korzina" %}
+{% page-ref page="dostavka-i-oplata" %}
+{% page-ref page="v1" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-adresa-dostavki-_-tochki-vydachi.md"" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-postavschika-uslug-osuschestvlyayuschego-dostavku.md"" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-dostavki.md"" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-oplaty.md"" %}
+{% page-ref page="v2" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-postavschika-uslug.md"" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-dostavki-i-oplaty.md"" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-dostavki.md"" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-oplaty.md"" %}
+{% page-ref page="korzina-podtverzhdenie-vybor-tochki-vydachi-postavschika-_-adresa-dostavki-klienta.md"" %}
+{% page-ref page="korzina-podtverzhdenie-vyvod-ceny-uslugi.md"" %}
+{% page-ref page="korzina-informaciya-o-podtverzhdnnom-zakaze.md"" %}
+{% page-ref page="korzina-perenos-strok-v-drugoi-dogovor.md"" %}
+{% page-ref page="korzina-podtverzhdenie.md"" %}
+{% page-ref page="korzina-podtverzhdenie-v2.md"" %}
+{% page-ref page="korzina-poisk-zakaza-po-identifikatoru.md"" %}
+{% page-ref page="korzina-redaktirovanie.md"" %}
+{% page-ref page="korzina-redaktirovanie-v2.md"" %}
+{% page-ref page="korzina-smena-sklada-otgruzki-v-stroke-zakaza.md"" %}
+{% page-ref page="korzina-spisok-korzin-po-dogovoram-klienta.md"" %}
+{% page-ref page="zapros-otlozhennogo-platezha.md"" %}
+{% page-ref page="zapros-otsrochki-platezha.md"" %}
+{% page-ref page="pechatnaya-forma-platezhnogo-dokumenta.md"" %}
+{% page-ref page="sostoyanie-scheta.md"" %}

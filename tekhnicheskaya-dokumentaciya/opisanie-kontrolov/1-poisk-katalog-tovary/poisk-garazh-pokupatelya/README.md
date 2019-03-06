@@ -1,2 +1,2 @@
-﻿* [Гараж. Автомобили клиента] (garazh-avtomobili-klienta.md)
-* [Гараж. Информация об автомобиле клиента] (garazh-informaciya-ob-avtomobile-klienta.md)
+﻿{% page-ref page="garazh-avtomobili-klienta.md"" %}
+{% page-ref page="garazh-informaciya-ob-avtomobile-klienta.md"" %}

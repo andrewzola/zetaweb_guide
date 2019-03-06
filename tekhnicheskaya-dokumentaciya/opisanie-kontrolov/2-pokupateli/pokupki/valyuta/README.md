@@ -1,2 +1,2 @@
-﻿* [Курсы валют] (kursy-valyut.md)
-* [Смена валюты] (smena-valyuty.md)
+﻿{% page-ref page="kursy-valyut.md"" %}
+{% page-ref page="smena-valyuty.md"" %}

@@ -1,1 +1,1 @@
-﻿* [VueCatalogTree] (vuecatalogtree.md)
+﻿{% page-ref page="vuecatalogtree.md"" %}

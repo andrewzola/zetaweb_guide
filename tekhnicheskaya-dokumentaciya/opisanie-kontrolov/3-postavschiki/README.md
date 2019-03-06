@@ -1,5 +1,5 @@
-﻿* [Информация о поставщике] (informaciya-o-postavschike.md)
-* [Поставщики на карте] (postavschiki-na-karte.md)
-* [Статистика доставки] (statistika-dostavki.md)
-* [Фильтр контрагентов по свойствам - Значения свойств] (filtr-kontragentov-po-svoistvam-znacheniya-svoistv.md)
-* [Фильтр контрагентов по свойствам - Свойства] (filtr-kontragentov-po-svoistvam-svoistva.md)
+﻿{% page-ref page="informaciya-o-postavschike.md"" %}
+{% page-ref page="postavschiki-na-karte.md"" %}
+{% page-ref page="statistika-dostavki.md"" %}
+{% page-ref page="filtr-kontragentov-po-svoistvam-znacheniya-svoistv.md"" %}
+{% page-ref page="filtr-kontragentov-po-svoistvam-svoistva.md"" %}

@@ -1,13 +1,13 @@
-﻿* [Наполнение. Галерея] (napolnenie-galereya\README.md)
-* [Наполнение. Картинка в всплывающем окне] (napolnenie-kartinka-v-vsplyvayuschem-okne.md)
-* [Наполнение. Превью картинок] (napolnenie-prevyu-kartinok.md)
-* [Наполнение. Превью картинок. Новый] (napolnenie-prevyu-kartinok-novyi.md)
-* [Наполнение. Просмотр выбранной картинки] (napolnenie-prosmotr-vybrannoi-kartinki.md)
-* [Наполнение. Голосования] (napolnenie-golosovaniya\README.md)
-* [Наполнение. Голосование [+]] (napolnenie-golosovanie.md)
-* [Наполнение. Список голосований. [+]] (napolnenie-spisok-golosovanii.md)
-* [Наполнение. Баннеры [+]] (napolnenie-bannery.md)
-* [Наполнение. Выбор текущего региона пользователя] (napolnenie-vybor-tekuschego-regiona-polzovatelya.md)
-* [Наполнение. Информационные блоки. [+]] (napolnenie-informacionnye-bloki.md)
-* [Наполнение. Меню] (napolnenie-menyu.md)
-* [Наполнение. Текущий регион пользователя] (napolnenie-tekuschii-region-polzovatelya.md)
+﻿{% page-ref page="napolnenie-galereya" %}
+{% page-ref page="napolnenie-kartinka-v-vsplyvayuschem-okne.md"" %}
+{% page-ref page="napolnenie-prevyu-kartinok.md"" %}
+{% page-ref page="napolnenie-prevyu-kartinok-novyi.md"" %}
+{% page-ref page="napolnenie-prosmotr-vybrannoi-kartinki.md"" %}
+{% page-ref page="napolnenie-golosovaniya" %}
+{% page-ref page="napolnenie-golosovanie.md"" %}
+{% page-ref page="napolnenie-spisok-golosovanii.md"" %}
+{% page-ref page="napolnenie-bannery.md"" %}
+{% page-ref page="napolnenie-vybor-tekuschego-regiona-polzovatelya.md"" %}
+{% page-ref page="napolnenie-informacionnye-bloki.md"" %}
+{% page-ref page="napolnenie-menyu.md"" %}
+{% page-ref page="napolnenie-tekuschii-region-polzovatelya.md"" %}

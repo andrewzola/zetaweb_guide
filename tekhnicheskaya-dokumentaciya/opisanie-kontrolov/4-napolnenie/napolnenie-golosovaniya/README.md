@@ -1,2 +1,2 @@
-﻿* [Наполнение. Голосование [+]] (napolnenie-golosovanie.md)
-* [Наполнение. Список голосований. [+]] (napolnenie-spisok-golosovanii.md)
+﻿{% page-ref page="napolnenie-golosovanie.md"" %}
+{% page-ref page="napolnenie-spisok-golosovanii.md"" %}

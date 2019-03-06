@@ -1,4 +1,4 @@
-﻿* [Возвраты. Журнал.] (vozvraty-zhurnal.md)
-* [Возвраты. Заявка на возврат товара.] (vozvraty-zayavka-na-vozvrat-tovara.md)
-* [Возвраты. Заявка на отмену строки заказа.] (vozvraty-zayavka-na-otmenu-stroki-zakaza.md)
-* [Возвраты. Фильтр журнала.] (vozvraty-filtr-zhurnala.md)
+﻿{% page-ref page="vozvraty-zhurnal.md"" %}
+{% page-ref page="vozvraty-zayavka-na-vozvrat-tovara.md"" %}
+{% page-ref page="vozvraty-zayavka-na-otmenu-stroki-zakaza.md"" %}
+{% page-ref page="vozvraty-filtr-zhurnala.md"" %}

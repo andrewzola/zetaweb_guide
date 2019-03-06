@@ -1,2 +1,2 @@
-﻿* [SEO. Карта сайта] (seo-karta-saita.md)
-* [SEO. Хлебные крошки] (seo-hlebnye-kroshki.md)
+﻿{% page-ref page="seo-karta-saita.md"" %}
+{% page-ref page="seo-hlebnye-kroshki.md"" %}

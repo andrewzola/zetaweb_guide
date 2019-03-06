@@ -1,6 +1,6 @@
-﻿* [Журнал заказов по заказам] (zhurnal-zakazov-po-zakazam.md)
-* [Журнал заказов по реализациям] (zhurnal-zakazov-po-realizaciyam.md)
-* [Журнал заказов по строкам заказов] (zhurnal-zakazov-po-strokam-zakazov.md)
-* [Фильтр журнала заказов по заказам] (filtr-zhurnala-zakazov-po-zakazam.md)
-* [Фильтр журнала заказов по реализациям] (filtr-zhurnala-zakazov-po-realizaciyam.md)
-* [Фильтр журнала заказов по строкам заказов] (filtr-zhurnala-zakazov-po-strokam-zakazov.md)
+﻿{% page-ref page="zhurnal-zakazov-po-zakazam.md"" %}
+{% page-ref page="zhurnal-zakazov-po-realizaciyam.md"" %}
+{% page-ref page="zhurnal-zakazov-po-strokam-zakazov.md"" %}
+{% page-ref page="filtr-zhurnala-zakazov-po-zakazam.md"" %}
+{% page-ref page="filtr-zhurnala-zakazov-po-realizaciyam.md"" %}
+{% page-ref page="filtr-zhurnala-zakazov-po-strokam-zakazov.md"" %}

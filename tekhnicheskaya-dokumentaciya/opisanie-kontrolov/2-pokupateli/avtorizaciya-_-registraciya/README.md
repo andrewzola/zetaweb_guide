@@ -1,5 +1,5 @@
-﻿* [Авторизация / Текущий пользователь] (avtorizaciya-_-tekuschii-polzovatel.md)
-* [Восстановление пароля] (vosstanovlenie-parolya.md)
-* [Изменение регистрационных данных] (izmenenie-registracionnyh-dannyh.md)
-* [Регистрация нового веб-пользователя (v1)] (registraciya-novogo-veb-polzovatelya-v1.md)
-* [Регистрация нового веб-пользователя (v2)] (registraciya-novogo-veb-polzovatelya-v2.md)
+﻿{% page-ref page="avtorizaciya-_-tekuschii-polzovatel.md"" %}
+{% page-ref page="vosstanovlenie-parolya.md"" %}
+{% page-ref page="izmenenie-registracionnyh-dannyh.md"" %}
+{% page-ref page="registraciya-novogo-veb-polzovatelya-v1.md"" %}
+{% page-ref page="registraciya-novogo-veb-polzovatelya-v2.md"" %}

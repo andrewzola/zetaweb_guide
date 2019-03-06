@@ -1,56 +1,56 @@
-﻿* [Laximo [+]] (laximo\README.md)
-* [Laximo. Список параметров в отборе по параметрам [служебный](!)] (laximo-spisok-parametrov-v-otbore-po-parametram-sluzhebnyi.md)
-* [Laximo. Список свойств модели автомобиля [служебный](!)] (laximo-spisok-svoistv-modeli-avtomobilya-sluzhebnyi.md)
-* [Laximo. Этап 1. Список каталогов (производители автомобилей)(!)] (laximo-etap-1-spisok-katalogov-proizvoditeli-avtomobilei.md)
-* [Laximo. Этап 2. Результаты поиска моделей автомобилей(!)] (laximo-etap-2-rezultaty-poiska-modelei-avtomobilei.md)
-* [Laximo. Этап 3.1. Каталог от производителя. Дерево групп!] (laximo-etap-31-katalog-ot-proizvoditelya-derevo-grupp.md)
-* [Laximo. Этап 3.1. Общий каталог.  Дерево групп!] (laximo-etap-31-obschii-katalog-derevo-grupp.md)
-* [Laximo. Этап 3.2. Каталог от производителя. Список узлов и агрегатов!] (laximo-etap-32-katalog-ot-proizvoditelya-spisok-uzlov-i-agregatov.md)
-* [Laximo. Этап 3.2. Общий каталог. Список узлов и агрегатов!] (laximo-etap-32-obschii-katalog-spisok-uzlov-i-agregatov.md)
-* [Laximo. Этап 4. Информация о выбранном узле / агрегате (схема, запчасти / детали)!] (laximo-etap-4-informaciya-o-vybrannom-uzle-_-agregate-shema-zapchasti-_-detali.md)
-* [Laximo. Этапы 1, 2, 3, 4. Текущее состояние поиска!] (laximo-etapy-1-2-3-4-tekuschee-sostoyanie-poiska.md)
-* [Laximo. Этапы 1, 2. Условия поиска моделей автомобилей (vin, frame, параметры)!] (laximo-etapy-1-2-usloviya-poiska-modelei-avtomobilei-vin-frame-parametry.md)
-* [Поиск. Автокаталог] (poisk-avtokatalog\README.md)
-* [Автокаталог. Группы запчастей] (avtokatalog-gruppy-zapchastei.md)
-* [Автокаталог. История поиска по автомобилю] (avtokatalog-istoriya-poiska-po-avtomobilyu.md)
-* [Автокаталог. Марки] (avtokatalog-marki.md)
-* [Автокаталог. Модели] (avtokatalog-modeli.md)
-* [Автокаталог. Модификации] (avtokatalog-modifikacii.md)
-* [Автокаталог. Поиск по двигателю] (avtokatalog-poisk-po-dvigatelyu.md)
-* [Автокаталог. Текущий автомобиль] (avtokatalog-tekuschii-avtomobil.md)
-* [ТО. Дополнительные работы по автомобилю] (to-dopolnitelnye-raboty-po-avtomobilyu.md)
-* [ТО. Техническая информация] (to-tehnicheskaya-informaciya.md)
-* [ТО. Техническое обслуживание автомобиля] (to-tehnicheskoe-obsluzhivanie-avtomobilya.md)
-* [Поиск. Гараж покупателя] (poisk-garazh-pokupatelya\README.md)
-* [Гараж. Автомобили клиента] (garazh-avtomobili-klienta.md)
-* [Гараж. Информация об автомобиле клиента] (garazh-informaciya-ob-avtomobile-klienta.md)
-* [Поиск. Загрузка из Excel] (poisk-zagruzka-iz-excel\README.md)
-* [Загрузка из Excel. Настройка загрузки] (zagruzka-iz-excel-nastroika-zagruzki.md)
-* [Загрузка из Excel. Результат поиска] (zagruzka-iz-excel-rezultat-poiska.md)
-* [Поиск. Подбор шин и дисков по автомобилю] (poisk-podbor-shin-i-diskov-po-avtomobilyu\README.md)
-* [Шины и диски. Выбор года выпуска автомобиля] (shiny-i-diski-vybor-goda-vypuska-avtomobilya.md)
-* [Шины и диски. Выбор дисков] (shiny-i-diski-vybor-diskov.md)
-* [Шины и диски. Выбор марки автомобиля] (shiny-i-diski-vybor-marki-avtomobilya.md)
-* [Шины и диски. Выбор модели автомобиля] (shiny-i-diski-vybor-modeli-avtomobilya.md)
-* [Шины и диски. Выбор шин] (shiny-i-diski-vybor-shin.md)
-* [Шины и диски. Подбор шин / дисков по автомобилю] (shiny-i-diski-podbor-shin-_-diskov-po-avtomobilyu.md)
-* [Поиск. Фильтр товаров по свойствам] (poisk-filtr-tovarov-po-svoistvam\README.md)
-* [Значения свойств для фильтра товаров по свойствам] (znacheniya-svoistv-dlya-filtra-tovarov-po-svoistvam.md)
-* [Фильтр товаров по свойствам] (filtr-tovarov-po-svoistvam.md)
-* [Поиск. Аналоги товара v2 ( цены и наличие товаров).] (poisk-analogi-tovara-v2-ceny-i-nalichie-tovarov.md)
-* [Поиск. Вывод результатов поиска] (poisk-vyvod-rezultatov-poiska.md)
-* [Поиск. Группы каталога] (poisk-gruppy-kataloga.md)
-* [Поиск. Дерево каталога] (poisk-derevo-kataloga.md)
-* [Поиск. История поиска] (poisk-istoriya-poiska.md)
-* [Поиск. Каталог товаров] (poisk-katalog-tovarov.md)
-* [Поиск. Поиск товаров (уточнение артикула и бренда товара).] (poisk-poisk-tovarov-utochnenie-artikula-i-brenda-tovara.md)
-* [Поиск. Проценка (цены и наличие товаров).] (poisk-procenka-ceny-i-nalichie-tovarov.md)
-* [Поиск. Сопутствующие товары] (poisk-soputstvuyuschie-tovary.md)
-* [Поиск. Сопутствующие товары v2 ( цены и наличие товаров).] (poisk-soputstvuyuschie-tovary-v2-ceny-i-nalichie-tovarov.md)
-* [Поиск. Условия поиска] (poisk-usloviya-poiska.md)
-* [Поиск. Уточненение поиска] (poisk-utochnenenie-poiska.md)
-* [Товар. Детальная информация] (tovar-detalnaya-informaciya.md)
-* [Товар. Рейтинг] (tovar-reiting.md)
-* [Товар. Список аналогов] (tovar-spisok-analogov.md)
-* [Товар. Список значений свойств] (tovar-spisok-znachenii-svoistv.md)
-* [Товар. Список поисковых номеров (кроссов)] (tovar-spisok-poiskovyh-nomerov-krossov.md)
+﻿{% page-ref page="laximo" %}
+{% page-ref page="laximo-spisok-parametrov-v-otbore-po-parametram-sluzhebnyi.md"" %}
+{% page-ref page="laximo-spisok-svoistv-modeli-avtomobilya-sluzhebnyi.md"" %}
+{% page-ref page="laximo-etap-1-spisok-katalogov-proizvoditeli-avtomobilei.md"" %}
+{% page-ref page="laximo-etap-2-rezultaty-poiska-modelei-avtomobilei.md"" %}
+{% page-ref page="laximo-etap-31-katalog-ot-proizvoditelya-derevo-grupp.md"" %}
+{% page-ref page="laximo-etap-31-obschii-katalog-derevo-grupp.md"" %}
+{% page-ref page="laximo-etap-32-katalog-ot-proizvoditelya-spisok-uzlov-i-agregatov.md"" %}
+{% page-ref page="laximo-etap-32-obschii-katalog-spisok-uzlov-i-agregatov.md"" %}
+{% page-ref page="laximo-etap-4-informaciya-o-vybrannom-uzle-_-agregate-shema-zapchasti-_-detali.md"" %}
+{% page-ref page="laximo-etapy-1-2-3-4-tekuschee-sostoyanie-poiska.md"" %}
+{% page-ref page="laximo-etapy-1-2-usloviya-poiska-modelei-avtomobilei-vin-frame-parametry.md"" %}
+{% page-ref page="poisk-avtokatalog" %}
+{% page-ref page="avtokatalog-gruppy-zapchastei.md"" %}
+{% page-ref page="avtokatalog-istoriya-poiska-po-avtomobilyu.md"" %}
+{% page-ref page="avtokatalog-marki.md"" %}
+{% page-ref page="avtokatalog-modeli.md"" %}
+{% page-ref page="avtokatalog-modifikacii.md"" %}
+{% page-ref page="avtokatalog-poisk-po-dvigatelyu.md"" %}
+{% page-ref page="avtokatalog-tekuschii-avtomobil.md"" %}
+{% page-ref page="to-dopolnitelnye-raboty-po-avtomobilyu.md"" %}
+{% page-ref page="to-tehnicheskaya-informaciya.md"" %}
+{% page-ref page="to-tehnicheskoe-obsluzhivanie-avtomobilya.md"" %}
+{% page-ref page="poisk-garazh-pokupatelya" %}
+{% page-ref page="garazh-avtomobili-klienta.md"" %}
+{% page-ref page="garazh-informaciya-ob-avtomobile-klienta.md"" %}
+{% page-ref page="poisk-zagruzka-iz-excel" %}
+{% page-ref page="zagruzka-iz-excel-nastroika-zagruzki.md"" %}
+{% page-ref page="zagruzka-iz-excel-rezultat-poiska.md"" %}
+{% page-ref page="poisk-podbor-shin-i-diskov-po-avtomobilyu" %}
+{% page-ref page="shiny-i-diski-vybor-goda-vypuska-avtomobilya.md"" %}
+{% page-ref page="shiny-i-diski-vybor-diskov.md"" %}
+{% page-ref page="shiny-i-diski-vybor-marki-avtomobilya.md"" %}
+{% page-ref page="shiny-i-diski-vybor-modeli-avtomobilya.md"" %}
+{% page-ref page="shiny-i-diski-vybor-shin.md"" %}
+{% page-ref page="shiny-i-diski-podbor-shin-_-diskov-po-avtomobilyu.md"" %}
+{% page-ref page="poisk-filtr-tovarov-po-svoistvam" %}
+{% page-ref page="znacheniya-svoistv-dlya-filtra-tovarov-po-svoistvam.md"" %}
+{% page-ref page="filtr-tovarov-po-svoistvam.md"" %}
+{% page-ref page="poisk-analogi-tovara-v2-ceny-i-nalichie-tovarov.md"" %}
+{% page-ref page="poisk-vyvod-rezultatov-poiska.md"" %}
+{% page-ref page="poisk-gruppy-kataloga.md"" %}
+{% page-ref page="poisk-derevo-kataloga.md"" %}
+{% page-ref page="poisk-istoriya-poiska.md"" %}
+{% page-ref page="poisk-katalog-tovarov.md"" %}
+{% page-ref page="poisk-poisk-tovarov-utochnenie-artikula-i-brenda-tovara.md"" %}
+{% page-ref page="poisk-procenka-ceny-i-nalichie-tovarov.md"" %}
+{% page-ref page="poisk-soputstvuyuschie-tovary.md"" %}
+{% page-ref page="poisk-soputstvuyuschie-tovary-v2-ceny-i-nalichie-tovarov.md"" %}
+{% page-ref page="poisk-usloviya-poiska.md"" %}
+{% page-ref page="poisk-utochnenenie-poiska.md"" %}
+{% page-ref page="tovar-detalnaya-informaciya.md"" %}
+{% page-ref page="tovar-reiting.md"" %}
+{% page-ref page="tovar-spisok-analogov.md"" %}
+{% page-ref page="tovar-spisok-znachenii-svoistv.md"" %}
+{% page-ref page="tovar-spisok-poiskovyh-nomerov-krossov.md"" %}
