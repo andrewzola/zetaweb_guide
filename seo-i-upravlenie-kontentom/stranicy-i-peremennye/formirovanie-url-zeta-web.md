@@ -63,6 +63,8 @@ SEO для страниц модуля "Подбор по авто".
 URL карточки товара: {Имя сайта}/{Имя страницы}/catalog/product/{Имя товара}}  
 \(например, [https://sitename.ru/details/catalog/product/amortizator-ford-escort-vii-gal-aal-abl-escort-vii-saloon-gal-afl/](https://sitename.ru/details/catalog/product/amortizator-ford-escort-vii-gal-aal-abl-escort-vii-saloon-gal-afl/)\)
 
+В зависимости от параметров системы, устанавливаемых в настройках, наименование в URL для номенклатуры может получать дополнительно бренд и/или артикул.
+
 SEO для страниц детального просмотра товара. Для каждой страницы есть возможность добавлять индивидуальные:
 
 * Title

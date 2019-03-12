@@ -6,9 +6,9 @@
 
 За создание на сайте хлебных крошек отвечают несколько контролов:
 
-* [SEO. Хлебные крошки](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-khlebnye-kroshki.md)
-* [Автокаталог. Текущий автомобиль](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-avtokatalog/avtokatalog.-tekushii-avtomobil.md) - для страниц, на которых используются контролы из группы [Поиск. Автокаталог](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-avtokatalog/)
-* [Laximo. Этапы 1, 2, 3, 4. Текущее состояние поиска](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/laximo.-etapy-1-2-3-4.-tekushee-sostoyanie-poiska.md) - для страниц, на которых используются контролы из группы [Laximo](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/laximo-+/)
+* [SEO. Хлебные крошки]()
+* [Автокаталог. Текущий автомобиль]() - для страниц, на которых используются контролы из группы [Поиск. Автокаталог]()
+* [Laximo. Этапы 1, 2, 3, 4. Текущее состояние поиска]() - для страниц, на которых используются контролы из группы [Laximo]()
 
 Для отображения хлебных крошек необходимо добавить контрол на страницу и выбрать необходимые параметры контрола:
 
@@ -37,7 +37,7 @@
 ![](../../.gitbook/assets/image%20%28401%29.png)
 
 * Скрывать из карты страницы - если мы не хотим отображать данный элемент на странице сайта в хлебных крошках.
-* Скрывать из карты сайта - если мы не хотим, чтобы ссылка на эту страницу генерировалась контролом [карта сайта](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-karta-saita.md).
+* Скрывать из карты сайта - если мы не хотим, чтобы ссылка на эту страницу генерировалась контролом [карта сайта]().
 
 На вкладке "Доступ ролей" мы можем указать каким ролям будет доступен для отображения данный элемент хлебных крошек на сайте:
 
@@ -51,9 +51,9 @@
 
 При наличии на странице контролов, которые создают страницы, хлебные крошки генерируются автоматически и добавляются к хлебным крошкам статической страницы, на которой располагается контрол.
 
-Для всех контролов, кроме Laximo и Поиск. Автокаталог, используется общий контрол [SEO. Хлебные крошки](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/5.-seo/seo.-khlebnye-kroshki.md).
+Для всех контролов, кроме Laximo и Поиск. Автокаталог, используется общий контрол [SEO. Хлебные крошки]().
 
-Рассмотрим на примере использования контрола [Поиск. Каталог товаров](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/1.-poisk-katalog-tovary/poisk.-katalog-tovarov.md). На страницу _catalog_ добавлен соответствующий контрол. Для самой страницы _catalog_ хлебные крошки [статической страницы](khlebnye-kroshki-breadcrumbs.md#khlebnye-kroshki-staticheskikh-stranic).
+Рассмотрим на примере использования контрола [Поиск. Каталог товаров](). На страницу _catalog_ добавлен соответствующий контрол. Для самой страницы _catalog_ хлебные крошки [статической страницы](khlebnye-kroshki-breadcrumbs.md#khlebnye-kroshki-staticheskikh-stranic).
 
 ![](../../.gitbook/assets/image%20%28103%29.png)
 

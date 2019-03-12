@@ -1,6 +1,10 @@
-﻿---
+---
 description: 2.4.9.1
 ---
+
 # Контрол "Фильтр контрагентов по свойствам - Значения свойств"
-### Имя контрола в веб-части: zw_SearchPropertyFilterValues.ascx
+
+## Имя контрола в веб-части: zw\_SearchPropertyFilterValues.ascx
+
 Временно не используется.
+

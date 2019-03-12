@@ -30,6 +30,6 @@
 ### Меню
 
 {% hint style="info" %}
-Меню используется в работе контрола [Наполнение. Меню](../../tekhnicheskaya-dokumentaciya/opisanie-kontrolov/4.-napolnenie/napolnenie.-menyu.md)
+Меню используется в работе контрола [Наполнение. Меню]()
 {% endhint %}
 
