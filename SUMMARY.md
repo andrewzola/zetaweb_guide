@@ -101,6 +101,7 @@
   * [Что означает подсветка строки контрагента пользователя в панели управления сайтом?](faq/izmenenie-cveta-stroki-kontragenta.md)
   * [Почему договор покупателей не виден на сайте?](faq/pochemu-dogovor-pokupatelei-ne-viden-na-saite.md)
   * [Если клиент не может выполнить вход на сайт,имея логин или пароль.](faq/esli-klient-ne-m.md)
+  * [Как формируются title и alt для картинок](faq/kak-formiruyutsya-title-i-alt-dlya-kartinok.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
