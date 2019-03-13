@@ -1,48 +1,69 @@
-# 1. Поиск, каталог, товары
-
-{% page-ref page="laximo/" %}
-
-{% page-ref page="poisk-avtokatalog/" %}
-
-{% page-ref page="poisk-garazh-pokupatelya/" %}
-
-{% page-ref page="poisk-zagruzka-iz-excel/" %}
-
-{% page-ref page="poisk-podbor-shin-i-diskov-po-avtomobilyu/" %}
-
-{% page-ref page="poisk-filtr-tovarov-po-svoistvam/" %}
-
-{% page-ref page="poisk-analogi-tovara-v2-ceny-i-nalichie-tovarov.md" %}
-
-{% page-ref page="poisk-vyvod-rezultatov-poiska.md" %}
-
-{% page-ref page="poisk-gruppy-kataloga.md" %}
-
-{% page-ref page="poisk-derevo-kataloga.md" %}
-
-{% page-ref page="poisk-istoriya-poiska.md" %}
-
-{% page-ref page="poisk-katalog-tovarov.md" %}
-
-{% page-ref page="poisk-poisk-tovarov-utochnenie-artikula-i-brenda-tovara.md" %}
-
-{% page-ref page="poisk-procenka-ceny-i-nalichie-tovarov.md" %}
-
-{% page-ref page="poisk-soputstvuyuschie-tovary.md" %}
-
-{% page-ref page="poisk-soputstvuyuschie-tovary-v2-ceny-i-nalichie-tovarov.md" %}
-
-{% page-ref page="poisk-usloviya-poiska.md" %}
-
-{% page-ref page="poisk-utochnenenie-poiska.md" %}
-
-{% page-ref page="tovar-detalnaya-informaciya.md" %}
-
-{% page-ref page="tovar-reiting.md" %}
-
-{% page-ref page="tovar-spisok-analogov.md" %}
-
-{% page-ref page="tovar-spisok-znachenii-svoistv.md" %}
-
-{% page-ref page="tovar-spisok-poiskovyh-nomerov-krossov.md" %}
-
+﻿{% page-ref page="laximo" %}
+{% page-ref page="laximo-spisok-parametrov-v-otbore-po-parametram-sluzhebnyi.md"" %}
+{% page-ref page="laximo-spisok-svoistv-modeli-avtomobilya-sluzhebnyi.md"" %}
+{% page-ref page="laximo-etap-1-spisok-katalogov-proizvoditeli-avtomobilei.md"" %}
+{% page-ref page="laximo-etap-2-rezultaty-poiska-modelei-avtomobilei.md"" %}
+{% page-ref page="laximo-etap-31-katalog-ot-proizvoditelya-derevo-grupp.md"" %}
+{% page-ref page="laximo-etap-31-obschii-katalog-derevo-grupp.md"" %}
+{% page-ref page="laximo-etap-32-katalog-ot-proizvoditelya-spisok-uzlov-i-agregatov.md"" %}
+{% page-ref page="laximo-etap-32-obschii-katalog-spisok-uzlov-i-agregatov.md"" %}
+{% page-ref page="laximo-etap-4-informaciya-o-vybrannom-uzle-_-agregate-shema-zapchasti-_-detali.md"" %}
+{% page-ref page="laximo-etapy-1-2-3-4-tekuschee-sostoyanie-poiska.md"" %}
+{% page-ref page="laximo-etapy-1-2-usloviya-poiska-modelei-avtomobilei-vin-frame-parametry.md"" %}
+{% page-ref page="tecdoc" %}
+{% page-ref page="vybor-zapchasti.md"" %}
+{% page-ref page="vybor-zapchasti-spisok-znachenii-svoistva.md"" %}
+{% page-ref page="vybor-zapchasti-spisok-izobrazhenii.md"" %}
+{% page-ref page="vybor-zapchasti-spisok-krossov-oem-ean.md"" %}
+{% page-ref page="vybor-zapchasti-spisok-svoistv-i-ogranichenii-primenimosti.md"" %}
+{% page-ref page="vybor-kategorii-zapchastei.md"" %}
+{% page-ref page="vybor-marki-avtomobilya-_-motocikla.md"" %}
+{% page-ref page="vybor-modeli-avtomobilya-_-motocikla.md"" %}
+{% page-ref page="vybor-modifikacii-avtomobilya-_-motocikla.md"" %}
+{% page-ref page="primenimost-marki-avtomobilya-_-motocikla.md"" %}
+{% page-ref page="primenimost-modeli-avtomobilya-_-motocikla.md"" %}
+{% page-ref page="primenimost-modifikacii-avtomobilya-_-motocikla.md"" %}
+{% page-ref page="poisk-avtokatalog" %}
+{% page-ref page="avtokatalog-gruppy-zapchastei.md"" %}
+{% page-ref page="avtokatalog-istoriya-poiska-po-avtomobilyu.md"" %}
+{% page-ref page="avtokatalog-marki.md"" %}
+{% page-ref page="avtokatalog-modeli.md"" %}
+{% page-ref page="avtokatalog-modifikacii.md"" %}
+{% page-ref page="avtokatalog-poisk-po-dvigatelyu.md"" %}
+{% page-ref page="avtokatalog-tekuschii-avtomobil.md"" %}
+{% page-ref page="to-dopolnitelnye-raboty-po-avtomobilyu.md"" %}
+{% page-ref page="to-tehnicheskaya-informaciya.md"" %}
+{% page-ref page="to-tehnicheskoe-obsluzhivanie-avtomobilya.md"" %}
+{% page-ref page="poisk-garazh-pokupatelya" %}
+{% page-ref page="garazh-avtomobili-klienta.md"" %}
+{% page-ref page="garazh-informaciya-ob-avtomobile-klienta.md"" %}
+{% page-ref page="poisk-zagruzka-iz-excel" %}
+{% page-ref page="zagruzka-iz-excel-nastroika-zagruzki.md"" %}
+{% page-ref page="zagruzka-iz-excel-rezultat-poiska.md"" %}
+{% page-ref page="poisk-podbor-shin-i-diskov-po-avtomobilyu" %}
+{% page-ref page="shiny-i-diski-vybor-goda-vypuska-avtomobilya.md"" %}
+{% page-ref page="shiny-i-diski-vybor-diskov.md"" %}
+{% page-ref page="shiny-i-diski-vybor-marki-avtomobilya.md"" %}
+{% page-ref page="shiny-i-diski-vybor-modeli-avtomobilya.md"" %}
+{% page-ref page="shiny-i-diski-vybor-shin.md"" %}
+{% page-ref page="shiny-i-diski-podbor-shin-_-diskov-po-avtomobilyu.md"" %}
+{% page-ref page="poisk-filtr-tovarov-po-svoistvam" %}
+{% page-ref page="znacheniya-svoistv-dlya-filtra-tovarov-po-svoistvam.md"" %}
+{% page-ref page="filtr-tovarov-po-svoistvam.md"" %}
+{% page-ref page="poisk-analogi-tovara-v1.md"" %}
+{% page-ref page="poisk-analogi-tovara-v2-ceny-i-nalichie-tovarov.md"" %}
+{% page-ref page="poisk-vyvod-rezultatov-poiska.md"" %}
+{% page-ref page="poisk-gruppy-kataloga.md"" %}
+{% page-ref page="poisk-derevo-kataloga.md"" %}
+{% page-ref page="poisk-istoriya-poiska.md"" %}
+{% page-ref page="poisk-katalog-tovarov.md"" %}
+{% page-ref page="poisk-poisk-tovarov-utochnenie-artikula-i-brenda-tovara.md"" %}
+{% page-ref page="poisk-procenka-ceny-i-nalichie-tovarov.md"" %}
+{% page-ref page="poisk-procenka-ceny-i-nalichie-tovarov-filtr-po-brendam.md"" %}
+{% page-ref page="poisk-soputstvuyuschie-tovary.md"" %}
+{% page-ref page="poisk-soputstvuyuschie-tovary-v2-ceny-i-nalichie-tovarov.md"" %}
+{% page-ref page="poisk-usloviya-poiska.md"" %}
+{% page-ref page="poisk-utochnenenie-poiska.md"" %}
+{% page-ref page="tovar-detalnaya-informaciya.md"" %}
+{% page-ref page="tovar-spisok-znachenii-svoistv.md"" %}
+{% page-ref page="tovar-spisok-poiskovyh-nomerov-krossov.md"" %}
