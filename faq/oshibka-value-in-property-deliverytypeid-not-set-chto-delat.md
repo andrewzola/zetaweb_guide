@@ -4,7 +4,7 @@
 
 Например, это может выглядеть так:
 
-![Value in property DeliveryTypeId not set](../.gitbook/assets/image%20%2831%29.png)
+![Value in property DeliveryTypeId not set](../.gitbook/assets/image%20%2832%29.png)
 
 Это значит, что в системе не указаны доступные для пользователя способы доставки и оплаты. Поскольку эти параметры необходимы для оформления заказа, то оформить корзину не получится.
 

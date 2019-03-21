@@ -62,6 +62,7 @@
     * [Хлебные крошки \(breadcrumbs\)](seo-i-upravlenie-kontentom/menyu-karty-ssylki/khlebnye-kroshki-breadcrumbs.md)
   * [Информационные блоки, баннеры, опросы](seo-i-upravlenie-kontentom/informacionnye-bloki-bannery-oprosy/README.md)
     * [Баннеры](seo-i-upravlenie-kontentom/informacionnye-bloki-bannery-oprosy/bannery.md)
+    * [Наполнение слайдера на главной странице](seo-i-upravlenie-kontentom/informacionnye-bloki-bannery-oprosy/napolnenie-slaidera-na-glavnoi-stranice.md)
   * [SEO](seo-i-upravlenie-kontentom/seo/README.md)
     * [Карта сайта \(Sitemap\)](seo-i-upravlenie-kontentom/seo/karta-saita-sitemap.md)
     * [Настройка мета-тегов](seo-i-upravlenie-kontentom/seo/nastroika-meta-tegov.md)
