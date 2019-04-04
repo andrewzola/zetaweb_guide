@@ -7,7 +7,7 @@ description: 2.4.8
 В Zeta Web URL страницы формируется в зависимости от используемого контрола.  
 Начальный URL страницы задается вручную:
 
-![](../../.gitbook/assets/image%20%28311%29.png)
+![](../../.gitbook/assets/image%20%28312%29.png)
 
 Таким образом URL будет: {Имя сайта}/{Имя страницы}/ \(например, [https://sitename.ru/about/](https://sitename.ru/about/)\)
 
