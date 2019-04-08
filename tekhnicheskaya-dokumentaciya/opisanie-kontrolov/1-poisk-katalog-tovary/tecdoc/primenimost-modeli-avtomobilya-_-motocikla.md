@@ -1,8 +1,6 @@
+﻿---
+description: 2.4.9.3
 ---
-description: 2.4.9.2
----
-
 # Контрол "Применимость. Модели автомобиля / мотоцикла"
-
-## Имя контрола в веб-части: zw\_TecDocApplicableModels.ascx
+### Имя контрола в веб-части: zw_TecDocApplicableModels.ascx
 
