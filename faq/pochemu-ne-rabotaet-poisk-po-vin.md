@@ -2,7 +2,7 @@
 
 По умолчанию в типовом дизайне сверстан поиск по VIN, реализованный на основе внешнего сервиса [Laximo](https://help-zetaweb.zetasoft.ru/~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo).
 
-![](../.gitbook/assets/image%20%28381%29.png)
+![](../.gitbook/assets/image%20%28382%29.png)
 
 Если у вас не работает поиск по VIN, , то это может быть следствием следующих причин:
 
@@ -15,7 +15,7 @@
 
 1. Отключить доступ всех ролей к контролам, используемым для работы с сервисом. Перечень контролов указан на странице описания подключения к внешнему сервису [Laximo](https://help-zetaweb.zetasoft.ru/~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo).
 
-![](../.gitbook/assets/image%20%28318%29.png)
+![](../.gitbook/assets/image%20%28319%29.png)
 
 2. Отключить доступ всех ролей к пункту меню "Оригинальные каталоги".
 
