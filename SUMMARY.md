@@ -61,6 +61,7 @@
   * [Меню, карты, ссылки](seo-i-upravlenie-kontentom/menyu-karty-ssylki/README.md)
     * [Добавление пунктов меню](seo-i-upravlenie-kontentom/menyu-karty-ssylki/dobavlenie-ssylki-na-stranicu-menyu.md)
     * [Добавление страницы в карту сайта](seo-i-upravlenie-kontentom/menyu-karty-ssylki/dobavlenie-stranicy-v-kartu-saita.md)
+    * [Меню-навигация в шапке сайта](seo-i-upravlenie-kontentom/menyu-karty-ssylki/menyu-navigaciya-v-shapke-saita.md)
     * [Хлебные крошки \(breadcrumbs\)](seo-i-upravlenie-kontentom/menyu-karty-ssylki/khlebnye-kroshki-breadcrumbs.md)
   * [Информационные блоки, баннеры, опросы](seo-i-upravlenie-kontentom/informacionnye-bloki-bannery-oprosy/README.md)
     * [Баннеры](seo-i-upravlenie-kontentom/informacionnye-bloki-bannery-oprosy/bannery.md)
