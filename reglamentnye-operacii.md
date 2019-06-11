@@ -4,11 +4,11 @@
 
 Для дефрагментации данных, обновления статистики и оптимизации лога предлагаем воспользоваться готовыми скриптами, которые вы можете включить в ежедневный план обслуживания вашего сервера баз данных.
 
-{% file src="../.gitbook/assets/indexoptimize \(1\).sql" caption="IndexOptimize.sql" %}
+{% file src=".gitbook/assets/indexoptimize \(1\).sql" caption="IndexOptimize.sql" %}
 
-{% file src="../.gitbook/assets/commandexecute.sql" caption="CommandExecute.sql" %}
+{% file src=".gitbook/assets/commandexecute.sql" caption="CommandExecute.sql" %}
 
-{% file src="../.gitbook/assets/logoptimize.sql" caption="LogOptimize.sql" %}
+{% file src=".gitbook/assets/logoptimize.sql" caption="LogOptimize.sql" %}
 
 Скачайте три файла и запустите их в окне SQL Management Studio в следующем порядке:
 

@@ -270,8 +270,8 @@
       * [Контрол "Сообщение об ошибке"](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/6-sluzhebnye/soobschenie-ob-oshibke.md)
     * [Vue](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/vue/README.md)
       * [Контрол "VueCatalogTree"](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/vue/vuecatalogtree.md)
-* [Требования к дизайну](trebovaniya-k-dizainu/README.md)
-  * [Обслуживание баз данных](trebovaniya-k-dizainu/reglamentnye-operacii.md)
+* [Требования к дизайну](trebovaniya-k-dizainu.md)
+* [Обслуживание баз данных](reglamentnye-operacii.md)
 
 ## Типовые сценарии работы
 
