@@ -1,3 +1,8 @@
-﻿{% page-ref page="napolnenie-prevyu-kartinok.md"" %}
-{% page-ref page="napolnenie-prevyu-kartinok-novyi.md"" %}
-{% page-ref page="napolnenie-prosmotr-vybrannoi-kartinki.md"" %}
+# Наполнение. Галерея
+
+{% page-ref page="napolnenie-prevyu-kartinok.md" %}
+
+{% page-ref page="napolnenie-prevyu-kartinok-novyi.md" %}
+
+{% page-ref page="napolnenie-prosmotr-vybrannoi-kartinki.md" %}
+
