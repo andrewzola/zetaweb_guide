@@ -47,13 +47,13 @@ Zeta Web автоматически создает xml-файл sitemap.xml по
 
 ### **sitemapindex.xml**
 
-Для удобства, при наличии нескольких файлов sitemap, существует возможность объединить их в файл индекса sitemap и отправить одновременно. 
+Другим способом для добавления нескольких страниц sitemap является создание основного файла индекса sitemap, где будут прописаны пути к остальным файлам.
 
 {% hint style="info" %}
 Более подробно с информацией о файле **sitemapindex.xml** Вы можете ознакомиться по ссылкам на сайты [https://support.google.com/webmasters/answer/75712?hl=ru](https://support.google.com/webmasters/answer/75712?hl=ru) и [https://www.sitemaps.org/protocol.html\#index](https://www.sitemaps.org/protocol.html#index).
 {% endhint %}
 
-Для этого необходимо создать файл _**sitemapindex.xml**_, _****_внутри которого следует прописать домен \(файл _sitemap.xml_, который генерирует Zeta Web\);
+Для этого необходимо создать файл _**sitemapindex.xml**_, пример, которого представлен ниже:
 
 ```text
 <?xml version="1.0" encoding="UTF-8"?>
