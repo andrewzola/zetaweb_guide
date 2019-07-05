@@ -31,27 +31,39 @@ Zeta Web автоматически создает xml-файл sitemap.xml по
 
 ### Добавление других файлов \*.xml
 
-~~Также можно добавлять другие файлы с форматом xml, созданные вручную. Такие файлы подключаются в robots.txt.~~
+Для добавления нескольких файлов sitemap требуется:
 
-Для добавления нескольких страниц в карту сайта требуется:
-
-1\) Создать xml-файл _**sitemapindex.xml,**_ внутри которого следует прописать домен \(файл _sitemap.xml_, который генерирует Zeta Web\);
-
-{% hint style="info" %}
-Более подробно с информацией о файле sitemapindex.xml Вы можете ознакомиться по ссылкам на сайты [https://support.google.com/webmasters/answer/75712?hl=ru](https://support.google.com/webmasters/answer/75712?hl=ru) и [https://www.sitemaps.org/protocol.html\#index](https://www.sitemaps.org/protocol.html#index).
-{% endhint %}
-
-![&#x41F;&#x440;&#x438;&#x43C;&#x435;&#x440; &#x441;&#x43E;&#x437;&#x434;&#x430;&#x43D;&#x438;&#x44F; &#x444;&#x430;&#x439;&#x43B;&#x430; sitemapindex.xml](../../.gitbook/assets/image-5.png)
+1\) Создать другие xml-файлы sitemap;
 
 2\) Сгенерировать карту сайта с N-количеством ссылок \(например, _sitemap1.xml_\);
 
-3\) Загрузить файл на сайт посредством **1С→Управление сайтом→**вкладка **Наименование сайта→**вкладка **Картинк**и→папка **Разное** добавить основной файл ****_**sitemapindex.xml**_**,** а также дополнительную карту _**sitemap1.xml.**_ 
+3\) Для удобства, при наличии нескольких файлов sitemap, существует возможность объединить их в файл индекса sitemap и отправить одновременно. Для этого необходимо создать файл _**sitemapindex.xml**_, _****_внутри которого следует прописать домен \(файл _sitemap.xml_, который генерирует Zeta Web\);
 
-4\) Открыть загруженные xml-файлы и **получить ссылку**, путем нажатия на соответствующую кнопку;
+```text
+<?xml version="1.0" encoding="UTF-8"?>
+   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>
+      <loc>http://demo.zetaweb.ru:8888/sitemap.xml</loc>
+      <lastmod>2004-10-01T18:23:17+00:00</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://demo.zetaweb.ru:8888/i/sitemap1.xml</loc>
+      <lastmod>2005-01-01</lastmod>
+   </sitemap>
+   </sitemapindex>
+```
+
+{% hint style="info" %}
+Более подробно с информацией о файле **sitemapindex.xml** Вы можете ознакомиться по ссылкам на сайты [https://support.google.com/webmasters/answer/75712?hl=ru](https://support.google.com/webmasters/answer/75712?hl=ru) и [https://www.sitemaps.org/protocol.html\#index](https://www.sitemaps.org/protocol.html#index).
+{% endhint %}
+
+4\) Загрузить файлы на сайт посредством **1С→Управление сайтом→**вкладка **Наименование сайта→**вкладка **Картинк**и→папка **Разное** добавить основной файл ****_**sitemapindex.xml**_ \(при его создании\)**,** а также дополнительную карту _**sitemap1.xml.**_ 
+
+5\) Открыть загруженные xml-файлы и **получить ссылку**, путем нажатия на соответствующую кнопку;
 
 ![&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435;  xml-&#x444;&#x430;&#x439;&#x43B;&#x430; &#x43D;&#x430; &#x441;&#x430;&#x439;&#x442;](../../.gitbook/assets/image-7.png)
 
-5\) Сообщить поисковой системе о наличии xml-файлов посредством robots.txt.
+6\) Сообщить поисковой системе о наличии xml-файлов посредством robots.txt.
 
 ### Robots.txt
 
