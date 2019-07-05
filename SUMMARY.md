@@ -68,7 +68,6 @@
     * [Наполнение слайдера на главной странице](seo-i-upravlenie-kontentom/informacionnye-bloki-bannery-oprosy/napolnenie-slaidera-na-glavnoi-stranice.md)
   * [SEO](seo-i-upravlenie-kontentom/seo/README.md)
     * [Карта сайта \(Sitemap\)](seo-i-upravlenie-kontentom/seo/karta-saita-sitemap.md)
-    * [Внедрение XML-карты](seo-i-upravlenie-kontentom/seo/vnedrenie-xml-karty.md)
     * [Настройка мета-тегов](seo-i-upravlenie-kontentom/seo/nastroika-meta-tegov.md)
     * [Транслитизация наименований картинок](seo-i-upravlenie-kontentom/seo/translitezaciya-naimenovanii-kartinok.md)
     * [Настройка редиректов \(IIS\)](seo-i-upravlenie-kontentom/seo/nastroika-redirektov-iis.md)
