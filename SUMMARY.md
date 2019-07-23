@@ -108,7 +108,7 @@
   * [Почему договор покупателей не виден на сайте?](faq/pochemu-dogovor-pokupatelei-ne-viden-na-saite.md)
   * [Если клиент не может выполнить вход на сайт,имея логин или пароль.](faq/esli-klient-ne-m.md)
   * [Как формируются title и alt для картинок](faq/kak-formiruyutsya-title-i-alt-dlya-kartinok.md)
-  * [Почему в товаре показывается неправильное изображение?](faq/pochemu-v-tovare-pokazyvaetsya-nepravilnoe-izobrazhenie.md)
+  * [Почему в товаре показывается неправильное изображение или не отображается вообще?](faq/pochemu-v-tovare-pokazyvaetsya-nepravilnoe-izobrazhenie.md)
   * [Ошибка в логе обмена при изменении ответственного у корзины](faq/oshibka-v-loge-obmena-korzina.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
