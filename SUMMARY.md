@@ -109,6 +109,7 @@
   * [Как формируются title и alt для картинок](faq/kak-formiruyutsya-title-i-alt-dlya-kartinok.md)
   * [Почему в товаре не отображается картинка или показывается неправильное изображение?](faq/pochemu-v-tovare-pokazyvaetsya-nepravilnoe-izobrazhenie.md)
   * [Почему при наличии товара на складе, отсутствует возможность ее покупки на сайте?](faq/pochemu-pri-nalichii-tovara-na-sklade-otsutstvuet-vozmozhnost-ee-pokupki-na-saite.md)
+  * [Почему на сайте отображается неправильный срок доставки с Виртуального склада?](faq/pochemu-na-saite-otobrazhaetsya-nepravilnyi-srok-dostavki-s-virtualnogo-sklada.md)
   * [Ошибка в логе обмена при изменении ответственного у корзины](faq/oshibka-v-loge-obmena-korzina.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
