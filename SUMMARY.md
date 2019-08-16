@@ -54,6 +54,7 @@
   * [Регламентные задания](opisanie-i-nastroika/reglamentnye-zadaniya.md)
 * [SEO и управление контентом](seo-i-upravlenie-kontentom/README.md)
   * [Дизайн](seo-i-upravlenie-kontentom/dizain/README.md)
+    * [SVG - иконки](seo-i-upravlenie-kontentom/dizain/svg-ikonki.md)
     * [Favicon \(фавиконка\)](seo-i-upravlenie-kontentom/dizain/favicon-favikonka.md)
   * [Домен](seo-i-upravlenie-kontentom/domen.md)
   * [Страницы и переменные](seo-i-upravlenie-kontentom/stranicy-i-peremennye/README.md)
