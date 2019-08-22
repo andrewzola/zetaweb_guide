@@ -8,5 +8,5 @@
 Например, если файл называется "Свертка базы.epf" и реквизит URLName для этого файла "svertkabazy", то файл будет доступен по адресу sitename.ru/f/svertkabazy.epf
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../.gitbook/assets/image%20%28187%29.png)
 

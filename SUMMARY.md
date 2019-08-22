@@ -53,6 +53,7 @@
   * [Уведомления \(e-mail, SMS-сообщения\)](opisanie-i-nastroika/uvedomleniya-e-mail-sms-soobsheniya.md)
   * [Регламентные задания](opisanie-i-nastroika/reglamentnye-zadaniya.md)
 * [SEO и управление контентом](seo-i-upravlenie-kontentom/README.md)
+  * [Изображения и файлы](seo-i-upravlenie-kontentom/izobrazheniya-i-faily.md)
   * [Дизайн](seo-i-upravlenie-kontentom/dizain/README.md)
     * [SVG - иконки](seo-i-upravlenie-kontentom/dizain/svg-ikonki.md)
     * [Favicon \(фавиконка\)](seo-i-upravlenie-kontentom/dizain/favicon-favikonka.md)
