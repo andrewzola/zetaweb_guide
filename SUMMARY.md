@@ -60,6 +60,7 @@
   * [Домен](seo-i-upravlenie-kontentom/domen.md)
   * [Страницы и переменные](seo-i-upravlenie-kontentom/stranicy-i-peremennye/README.md)
     * [Сортировка товаров на странице](seo-i-upravlenie-kontentom/stranicy-i-peremennye/sortirovka-tovarov-na-stranice.md)
+  * [Контролы и шаблоны контролов](seo-i-upravlenie-kontentom/kontroly-i-shablony-kontrolov.md)
   * [Меню, карты, ссылки](seo-i-upravlenie-kontentom/menyu-karty-ssylki/README.md)
     * [Добавление пунктов меню](seo-i-upravlenie-kontentom/menyu-karty-ssylki/dobavlenie-ssylki-na-stranicu-menyu.md)
     * [Добавление страницы в карту сайта](seo-i-upravlenie-kontentom/menyu-karty-ssylki/dobavlenie-stranicy-v-kartu-saita.md)
