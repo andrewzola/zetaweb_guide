@@ -1,8 +1,6 @@
+﻿---
+description: 2.4.10.1
 ---
-description: 2.4.10.0
----
-
 # Контрол "Выбор запчасти"
-
-## Имя контрола в веб-части: zw\_TecDocParts.ascx
+### Имя контрола в веб-части: zw_TecDocParts.ascx
 
