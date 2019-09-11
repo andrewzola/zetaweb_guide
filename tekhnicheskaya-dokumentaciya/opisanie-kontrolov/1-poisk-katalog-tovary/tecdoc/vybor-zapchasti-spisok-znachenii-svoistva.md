@@ -1,6 +1,8 @@
-﻿---
+---
 description: 2.4.10.1
 ---
+
 # Контрол "Выбор запчасти. Список значений свойства."
-### Имя контрола в веб-части: zw_TecDocPartProperties.ascx
+
+## Имя контрола в веб-части: zw\_TecDocPartProperties.ascx
 

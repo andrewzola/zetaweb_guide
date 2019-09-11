@@ -1,6 +1,8 @@
-﻿---
+---
 description: 2.4.10.1
 ---
+
 # Контрол "Выбор модификации автомобиля / мотоцикла"
-### Имя контрола в веб-части: zw_TecDocModifications.ascx
+
+## Имя контрола в веб-части: zw\_TecDocModifications.ascx
 
