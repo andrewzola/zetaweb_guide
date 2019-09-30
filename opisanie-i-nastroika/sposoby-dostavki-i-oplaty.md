@@ -134,5 +134,19 @@
 
 ![](../.gitbook/assets/image%20%28212%29.png)
 
+## Удаление ранее созданной настройки
+
+Для того, чтобы удалить настройки способа доставки и оплаты, установленных ранее, необходимо произвести отбор настроек, согласно описанию в [данном подразделе](https://help-zetaweb.zetasoft.ru/opisanie-i-nastroika/sposoby-dostavki-i-oplaty#nastroika-sposobov-dostavki-i-oplaty), чтобы в верхней панели отобразились соответствующие параметры отбора.
+
+Далее следует нажать на **"Удалить записи по выбранным полям".**
+
+![](../.gitbook/assets/assets_-ldkzz4klhlnn6g8tqlv_-lfrnpbk5loa5x2mguw7_-lfrsujeppip3utwa7vk_image.png)
+
+{% hint style="info" %}
+**Для применения настроек нажмите “Сохранить изменения”**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%28108%29.png)
+
 
 
