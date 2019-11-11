@@ -4,17 +4,23 @@
 
 Для дефрагментации данных, обновления статистики и оптимизации лога предлагаем воспользоваться готовыми скриптами, которые вы можете включить в ежедневный план обслуживания вашего сервера баз данных.
 
-{% file src=".gitbook/assets/indexoptimize \(1\).sql" caption="IndexOptimize.sql" %}
+{% hint style="info" %}
+При необходимости создайте регламентное задание в SQL Server Configuration Manager и произведите настройки его расписания, _например, ежедневное в 03:00:00._
+{% endhint %}
 
-{% file src=".gitbook/assets/commandexecute.sql" caption="CommandExecute.sql" %}
-
-{% file src=".gitbook/assets/logoptimize.sql" caption="LogOptimize.sql" %}
+![](.gitbook/assets/image-31%20%281%29.png)
 
 Скачайте три файла и запустите их в окне SQL Management Studio в следующем порядке:
 
 1. IndexOptimize.sql
 2. CommandExecute.sql
 3. LogOptimize.sql
+
+{% file src=".gitbook/assets/indexoptimize.sql" %}
+
+{% file src=".gitbook/assets/commandexecute \(1\).sql" %}
+
+{% file src=".gitbook/assets/logoptimize \(2\).sql" %}
 
 В базе данных \[master\] в разделе пользовательских хранимых процедур появятся соответствующие процедуры.
 
