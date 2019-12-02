@@ -1,8 +1,6 @@
+﻿---
+description: 2.4.11.0
 ---
-description: 2.4.10.1
----
-
 # Контрол "Применимость. Модификации автомобиля / мотоцикла"
-
-## Имя контрола в веб-части: zw\_TecDocApplicableModifications.ascx
+### Имя контрола в веб-части: zw_TecDocApplicableModifications.ascx
 

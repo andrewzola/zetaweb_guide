@@ -1,8 +1,6 @@
+﻿---
+description: 2.4.11.0
 ---
-description: 2.4.10.1
----
-
 # Контрол "Выбор запчасти. Список изображений."
-
-## Имя контрола в веб-части: zw\_TecDocPartImages.ascx
+### Имя контрола в веб-части: zw_TecDocPartImages.ascx
 

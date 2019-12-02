@@ -1,8 +1,6 @@
+﻿---
+description: 2.4.11.0
 ---
-description: 2.4.10.1
----
-
 # Контрол "Выбор марки автомобиля / мотоцикла"
-
-## Имя контрола в веб-части: zw\_TecDocManufacturers.ascx
+### Имя контрола в веб-части: zw_TecDocManufacturers.ascx
 
