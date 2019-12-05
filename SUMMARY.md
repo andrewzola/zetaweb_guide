@@ -11,7 +11,7 @@
   * [Краткий план внедрения продукта Zeta Web](ustanovka-i-obnovlenie/kratkii-plan-vnedreniya-produkta-zeta-web.md)
   * [Последовательность действий по обновлению программного продукта Zeta Web](ustanovka-i-obnovlenie/posledovatelnost-deistvii-po-obnovleniyu-programmnogo-produkta-zeta-web.md)
   * [Установка и обновление 1С-части](ustanovka-i-obnovlenie/ustanovka-i-obnovlenie-1s-chasti.md)
-  * [Установка веб-части](ustanovka-i-obnovlenie/ustanovka-veb-chasti.md)
+  * [Установка и обновление веб-части](ustanovka-i-obnovlenie/ustanovka-veb-chasti.md)
   * [Настройки сайта после загрузки начальных данных и типового дизайна](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
   * [Публикация сервисов 1С](ustanovka-i-obnovlenie/publikaciya-servisov-1s.md)
   * [SSL-сертификат \(https\)](ustanovka-i-obnovlenie/ssl-sertifikat-https.md)
