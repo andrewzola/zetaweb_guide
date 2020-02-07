@@ -2,11 +2,11 @@
 
 ## Варианты поиска в Zeta Web
 
-### Поиск по строке
+### [Поиск по строке](poisk-po-stroke.md)
 
-### Аналоги \(кроссы\)
+### [Аналоги \(кроссы\)](../upravlenie-nomenklaturoi/perekrossirovka-nomenklatury.md)
 
-### Каталог
+### [Каталог](../upravlenie-nomenklaturoi/katalog.md)
 
 ### Фильтр по свойствам
 
@@ -16,5 +16,5 @@
 
 ### TecDoc \(API\)
 
-### Оригинальные каталоги
+### [Оригинальные каталоги](../vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo.md)
 
