@@ -48,6 +48,7 @@
     * [Zeta Веб-сервисы](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/zeta-veb-servisy.md)
     * [Zeta Виртуальный склад 3.0 \(ВС\)](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/zeta-virtualnyi-sklad-3.0-vs.md)
   * [Автоматическое закрытие корзин сайта \(заказов покупателей\)](opisanie-i-nastroika/avtomaticheskoe-zakrytie-zakazov-pokupatelei.md)
+  * [Состояние счета](opisanie-i-nastroika/sostoyanie-scheta.md)
   * [Группы синонимов поиска](opisanie-i-nastroika/gruppy-sinonimov-poiska.md)
   * [Настройка рассылки прайс-листов](opisanie-i-nastroika/nastroika-rassylki-prais-listov.md)
   * [Уведомления \(e-mail, SMS-сообщения\)](opisanie-i-nastroika/uvedomleniya-e-mail-sms-soobsheniya.md)
