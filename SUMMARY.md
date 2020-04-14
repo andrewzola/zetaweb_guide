@@ -118,6 +118,7 @@
   * [Как проверить, что изменение цены документом "Переоценка товаров в рознице" выгрузилось на сайт?](faq/kak-proverit-chto-izmenenie-ceny-dokumentom-pereocenka-tovarov-v-roznice-vygruzilos-na-sait.md)
   * [Где можно ознакомиться с историей заказов покупателей с сайта?](faq/gde-otobrazhaetsya-istoriya-zakazov-pokupatelei-s-saita.md)
   * [Как на сайте организована подгрузка кроссов по товарам отсутствующим в ассортименте базы 1С?](faq/kak-na-saite-organizovana-podgruzka-krossov-po-tovaram-otsutstvuyushim-v-assortimente-bazy-1s.md)
+  * [Почему перестала работать отправка прайс-листа клиенту?](faq/pochemu-perestala-rabotat-otpravka-prais-lista-klientu.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
