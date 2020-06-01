@@ -1,5 +1,5 @@
 ﻿---
-description: 2.4.11.1
+description: 2.5.0.0
 ---
 # Контрол "Фильтр товаров по свойствам"
 ### Имя контрола в веб-части: zw_SearchPropertyFilter_v2.ascx

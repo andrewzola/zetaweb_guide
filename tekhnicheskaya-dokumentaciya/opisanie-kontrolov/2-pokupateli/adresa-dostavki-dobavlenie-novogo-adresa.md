@@ -1,5 +1,5 @@
 ﻿---
-description: 2.4.11.1
+description: 2.5.0.0
 ---
 # Контрол "Адреса доставки - добавление нового адреса"
 ### Имя контрола в веб-части: zw_UsersNewDeliveryAddress.ascx

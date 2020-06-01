@@ -1,5 +1,5 @@
 ﻿---
-description: 2.4.11.1
+description: 2.5.0.0
 ---
 # Контрол "Автокаталог. Текущий автомобиль"
 ### Имя контрола в веб-части: zw_ExternalCatalogSelectedInfo.ascx

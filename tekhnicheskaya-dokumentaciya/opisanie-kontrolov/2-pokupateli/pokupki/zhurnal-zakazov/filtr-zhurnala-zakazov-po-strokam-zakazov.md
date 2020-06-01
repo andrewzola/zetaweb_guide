@@ -1,5 +1,5 @@
 ﻿---
-description: 2.4.11.1
+description: 2.5.0.0
 ---
 # Контрол "Фильтр журнала заказов по строкам заказов"
 ### Имя контрола в веб-части: zw_OrdersJournalByOrdersLinesFilter.ascx

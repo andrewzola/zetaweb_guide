@@ -1,5 +1,5 @@
 ﻿---
-description: 2.4.11.1
+description: 2.5.0.0
 ---
 # Контрол "Корзина. Смена склада отгрузки в строке заказа."
 ### Имя контрола в веб-части: zw_ChangeCartRowDepartureStore

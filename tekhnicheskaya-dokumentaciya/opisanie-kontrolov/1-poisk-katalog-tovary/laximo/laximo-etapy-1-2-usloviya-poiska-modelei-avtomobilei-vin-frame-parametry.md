@@ -1,5 +1,5 @@
 ﻿---
-description: 2.4.11.1
+description: 2.5.0.0
 ---
 # Контрол "Laximo. Этапы 1, 2. Условия поиска моделей автомобилей (vin, frame, параметры)."
 ### Имя контрола в веб-части: zw_LaximoVehiclesSearchOptions.ascx

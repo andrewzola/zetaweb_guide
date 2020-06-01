@@ -1,5 +1,5 @@
 ﻿---
-description: 2.4.11.1
+description: 2.5.0.0
 ---
 # Контрол "Laximo. Этап 3.2. Общий каталог. Список узлов и агрегатов."
 ### Имя контрола в веб-части: zw_LaximoVehiclesQuickUnits.ascx

@@ -1,5 +1,5 @@
 ﻿---
-description: 2.4.11.1
+description: 2.5.0.0
 ---
 # Контрол "Поиск. Аналоги товара v2 (цены и наличие товаров)."
 ### Имя контрола в веб-части: zw_ProductAnaloguesOffers.ascx
