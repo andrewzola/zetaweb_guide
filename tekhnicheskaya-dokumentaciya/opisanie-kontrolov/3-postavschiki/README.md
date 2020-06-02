@@ -1,1 +1,2 @@
-﻿{% page-ref page="statistika-dostavki.md"" %}
+# 3. Поставщики
+

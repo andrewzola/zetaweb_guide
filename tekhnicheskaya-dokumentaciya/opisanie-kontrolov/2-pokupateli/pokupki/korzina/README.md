@@ -1,16 +1,2 @@
-﻿{% page-ref page="dostavka-i-oplata" %}
-{% page-ref page="korzina-podtverzhdenie-vybor-postavschika-uslug.md"" %}
-{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-dostavki-i-oplaty.md"" %}
-{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-dostavki.md"" %}
-{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-oplaty.md"" %}
-{% page-ref page="korzina-podtverzhdenie-vybor-tochki-vydachi-postavschika-_-adresa-dostavki-klienta.md"" %}
-{% page-ref page="korzina-podtverzhdenie-vyvod-ceny-uslugi.md"" %}
-{% page-ref page="korzina-informaciya-o-podtverzhdnnom-zakaze.md"" %}
-{% page-ref page="korzina-perenos-strok-v-drugoi-dogovor.md"" %}
-{% page-ref page="korzina-podtverzhdenie.md"" %}
-{% page-ref page="korzina-podtverzhdenie-v2.md"" %}
-{% page-ref page="korzina-poisk-zakaza-po-identifikatoru.md"" %}
-{% page-ref page="korzina-redaktirovanie.md"" %}
-{% page-ref page="korzina-redaktirovanie-v2.md"" %}
-{% page-ref page="korzina-smena-sklada-otgruzki-v-stroke-zakaza.md"" %}
-{% page-ref page="korzina-spisok-korzin-po-dogovoram-klienta.md"" %}
+# Корзина
+
