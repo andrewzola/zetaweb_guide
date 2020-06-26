@@ -289,7 +289,9 @@
 
 * [Удаленные склады](tipovye-scenarii-raboty/udalennye-sklady/README.md)
   * [Добавление поставщика виртуального склада](tipovye-scenarii-raboty/udalennye-sklady/dobavlenie-postavshika-virtualnogo-sklada.md)
-* [База знаний](readme.md)
+
+---
+
 * [Как правильно поставить задачу в службу поддержки?](kak-pravilno-postavit-zadachu-v-sluzhbu-podderzhki-1.md)
 * [Введение](vvedenie-1/README.md)
   * [Краткое описание](vvedenie-1/kratkoe-opisanie.md)
