@@ -85,6 +85,7 @@
 * [FAQ](faq/README.md)
   * [Ошибка при вызове метода контекста \(ПрочитатьXML\): Ошибка разбораXML](faq/oshibka-pri-vyzove-metoda-konteksta-prochitatxml-oshibka-razboraxml.md)
   * [Ошибка Value in property DeliveryTypeId not set - что делать](faq/oshibka-value-in-property-deliverytypeid-not-set-chto-delat.md)
+  * [Ошибка ограничения PRIMARY KEY. Повторяющееся значение ключа.](faq/untitled.md)
   * [Настройка учетной записи электронной почты на странице "Восстановление пароля"](faq/nastroika-uchetnoi-zapisi-elektronnoi-pochty-na-stranice-vosstanovlenie-parolya.md)
   * [Как установить регион по умолчанию](faq/kak-ustanovit-region-po-umolchaniyu.md)
   * [Как посмотреть тариф Zeta Веб-сервисы](faq/kak-posmotret-tarif-zeta-veb-servisy.md)
