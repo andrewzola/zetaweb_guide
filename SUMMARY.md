@@ -44,6 +44,7 @@
     * [Ассист \(Assist\)](opisanie-i-nastroika/podklyuchenie-onlain-platezhei/assist-assist.md)
     * [Сбербанк \(Sberbank\)](opisanie-i-nastroika/podklyuchenie-onlain-platezhei/sberbank-sberbank.md)
   * [Внешние  сервисы и каталоги по подбору автозапчастей](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/README.md)
+    * [Zeta TecDoc](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/zeta-tecdoc.md)
     * [Laximo](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo.md)
     * [Zeta Веб-сервисы](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/zeta-veb-servisy.md)
     * [Zeta Виртуальный склад 3.0 \(ВС\)](opisanie-i-nastroika/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/zeta-virtualnyi-sklad-3.0-vs.md)
