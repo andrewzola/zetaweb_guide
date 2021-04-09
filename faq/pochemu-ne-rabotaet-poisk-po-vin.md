@@ -2,7 +2,7 @@
 
 По умолчанию в типовом дизайне сверстан поиск по VIN, реализованный на основе внешнего сервиса [Laximo](https://help-zetaweb.zetasoft.ru/~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo).
 
-![](../.gitbook/assets/image%20%28480%29.png)
+![](../.gitbook/assets/image%20%28480%29%20%281%29.png)
 
 Если у вас не работает поиск по VIN, , то это может быть следствием следующих причин:
 
