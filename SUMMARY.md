@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [База знаний](README.md)
 * [Как правильно поставить задачу в службу поддержки?](kak-pravilno-postavit-zadachu-v-sluzhbu-podderzhki.md)

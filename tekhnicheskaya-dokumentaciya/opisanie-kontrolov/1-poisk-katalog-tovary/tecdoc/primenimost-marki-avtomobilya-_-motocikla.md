@@ -1,8 +1,6 @@
+﻿---
+description: 2.6.0.0
 ---
-description: 2.5.0.0
----
-
 # Контрол "Применимость. Марки автомобиля / мотоцикла."
-
-## Имя контрола в веб-части: zw\_TecDocApplicableManufacturers.ascx
+### Имя контрола в веб-части: zw_TecDocApplicableManufacturers.ascx
 
