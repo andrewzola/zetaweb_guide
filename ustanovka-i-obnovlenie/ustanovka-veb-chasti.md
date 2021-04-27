@@ -216,3 +216,13 @@
 
 Перед обновлением веб-части на релиз 2.6.0.0 и выше требуется установить [Microsoft Framework 4.8](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0). Установка этого пакета потребует перезагрузки хостинга. 
 
+Для корректной работы функционала рассылки прайс-листов потребуется изменить относительный путь в разделе price list settings файла WebSettings.config на полный.
+
+```text
+Было:
+<add key="ApiUrl" value="/core"/>
+
+Стало (пример):
+<add key="ApiUrl" value="https://вашсайт.ru/core"/>
+```
+
