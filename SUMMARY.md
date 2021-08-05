@@ -286,6 +286,7 @@
       * [Контрол "VueCatalogTree"](tekhnicheskaya-dokumentaciya/opisanie-kontrolov/vue/vuecatalogtree.md)
 * [Требования к дизайну](trebovaniya-k-dizainu.md)
 * [Обслуживание баз данных](reglamentnye-operacii.md)
+* [Скрипты SQL для проверки данных](skripty-sql-dlya-proverki-dannykh.md)
 
 ## Типовые сценарии работы
 
