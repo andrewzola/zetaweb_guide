@@ -380,6 +380,7 @@ DEALLOCATE [customerTreatiesCursor];
 * {Бренд} - бренд
 
 ```sql
+SET NOCOUNT ON;
 DECLARE @VendorCode NVARCHAR(200) = N'{Артикул}';
 DECLARE @VendorName NVARCHAR(100) = N'{Бренд}';
 DECLARE @ProductId UNIQUEIDENTIFIER = NULL;
@@ -541,17 +542,17 @@ WHILE @@FETCH_STATUS = 0
     BEGIN
 
         SELECT
-            [t].[StockName]
-          , [t].[StockType]
-          , [t].[MovementType]
-          , [t].[Date]
-          , [t].[RegistratorId]
-          , [t].[Quantity]
+            [t].[StockName] AS [Склад]
+          , [t].[StockType] AS [ТипСклада]
+          , [t].[MovementType] AS [ТипДвижения]
+          , [t].[Date] AS [ДатаДвижения]
+          , [t].[RegistratorId] AS [Регистратор]
+          , [t].[Quantity] AS [Количество]
           , SUM([t].[Quantity]) OVER (ORDER BY
                                           [t].[StockName]
                                         , [t].[Date]
                                       ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW
-                                     ) AS [Total]
+                                     ) AS [Итог]
         FROM
             @productMovement [t]
         WHERE
@@ -560,10 +561,10 @@ WHILE @@FETCH_STATUS = 0
             [t].[Date];
 
         SELECT
-            [t].[StockName]
-          , [t].[StockType]
-          , [t].[MovementType]
-          , SUM([t].[Quantity]) AS [Quantity]
+            [t].[StockName] AS [Склад]
+          , [t].[StockType] AS [ТипСклада]
+          , [t].[MovementType] AS [ТипДвижения]
+          , SUM([t].[Quantity]) AS [Количество]
         FROM
             @productMovement [t]
         WHERE
@@ -574,10 +575,16 @@ WHILE @@FETCH_STATUS = 0
           , [t].[MovementType];
 
         SELECT
-            [productTotal].[StockName]
-          , [productTotal].[StockType]
-          , [productTotal].[Quantity] AS [QuantityComputed]
-          , [productTotalTrigger].[Quantity] AS [QuantityTriggered]
+            [productTotal].[StockName] AS [Склад]
+          , [productTotal].[StockType] AS [ТипСклада]
+          , [productTotal].[Quantity] AS [ВычесленноеКоличество]
+          , [productStockTotalTrigger].[Quantity] AS [КоличествоВСрезе]
+          , CASE
+                WHEN [productTotal].[Quantity] <> [productStockTotalTrigger].[Quantity] THEN
+                    'Да'
+                ELSE
+                    'Нет'
+            END AS [Ошибка]
         FROM
         (
             SELECT
@@ -594,14 +601,14 @@ WHILE @@FETCH_STATUS = 0
               , [t].[StockName]
               , [t].[StockType]
         ) [productTotal]
-        LEFT JOIN [dbo].[SiteRests2] [productTotalTrigger]
-            ON [productTotal].[StockId] = [productTotalTrigger].[RepositoryId]
-               AND @ProductId = [productTotalTrigger].[ProductId]
+        LEFT JOIN [dbo].[SiteRests2] [productStockTotalTrigger]
+            ON [productTotal].[StockId] = [productStockTotalTrigger].[RepositoryId]
+               AND @ProductId = [productStockTotalTrigger].[ProductId]
                AND
                (
                    @ProductDescriptionId IS NULL
-                   AND [productTotalTrigger].[ProductDescriptionId] IS NULL
-                   OR @ProductDescriptionId = [productTotalTrigger].[ProductDescriptionId]
+                   AND [productStockTotalTrigger].[ProductDescriptionId] IS NULL
+                   OR @ProductDescriptionId = [productStockTotalTrigger].[ProductDescriptionId]
                );
 
         FETCH NEXT FROM [StockCursor]
@@ -611,7 +618,59 @@ WHILE @@FETCH_STATUS = 0
 CLOSE [StockCursor];
 DEALLOCATE [StockCursor];
 
+SELECT
+    [productTotalTrigger].[QuantityFromStore] AS [КоличествоВСрезеБезГруппДоступности]
+  , [productTotalTrigger].[IsFromStore] AS [ЕстьВНаличииВСрезеБезГруппДоступности]
+  , CASE
+        WHEN [productTotalTrigger].[IsFromStore] = 0
+             AND [productTotalTrigger].[QuantityFromStore] > 0
+             OR [productTotalTrigger].[IsFromStore] = 1
+                AND [productTotalTrigger].[QuantityFromStore] = 0 THEN
+            'Да'
+        ELSE
+            'Нет'
+    END AS [Ошибка]
+FROM
+    [dbo].[SiteRestsSummary2] [productTotalTrigger]
+WHERE
+    @ProductId = [productTotalTrigger].[ProductId]
+    AND
+    (
+        @ProductDescriptionId IS NULL
+        AND [productTotalTrigger].[ProductDescriptionId] IS NULL
+        OR @ProductDescriptionId = [productTotalTrigger].[ProductDescriptionId]
+    );
 
+SELECT
+    [productTotalTrigger].[RestGroupId] [ГруппаДоступности]
+  , [productTotalTrigger].[QuantityFromStore] AS [КоличествоВСрезеCГруппамиДоступности]
+  , [productTotalTrigger].[IsFromStore] AS [ЕстьВНаличииВСрезеСГруппамиДоступности]
+  , CASE
+        WHEN [productTotalTrigger].[IsFromStore] = 0
+             AND [productTotalTrigger].[QuantityFromStore] > 0
+             OR [productTotalTrigger].[IsFromStore] = 1
+                AND [productTotalTrigger].[QuantityFromStore] = 0 THEN
+            'Да'
+        ELSE
+            'Нет'
+    END AS [Ошибка]
+FROM
+    [dbo].[SiteRestGroupRestsSummary2] [productTotalTrigger]
+WHERE
+    @ProductId = [productTotalTrigger].[ProductId]
+    AND
+    (
+        @ProductDescriptionId IS NULL
+        AND [productTotalTrigger].[ProductDescriptionId] IS NULL
+        OR @ProductDescriptionId = [productTotalTrigger].[ProductDescriptionId]
+    );
+
+-- раскомментировать и запустить для перерасчета остатков
+--EXEC [dbo].[RecalculateFromRetailRests];
+--GO
+--EXEC [dbo].[RecalculateFromStoreRests];
+--GO
+--EXEC [dbo].[RecalculateRestGroupSummary];
 ```
 
 ## Проверка корректности пересчета среза цен
