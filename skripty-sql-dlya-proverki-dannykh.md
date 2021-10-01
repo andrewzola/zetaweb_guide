@@ -746,11 +746,15 @@ ALTER INDEX [PK_SiteRestsSummary2] ON [dbo].[SiteRestsSummary2] REBUILD;
 GO
 EXEC [dbo].[RecalculateFromPriceRests];
 GO
+EXEC [dbo].[RecalculateFromPricePrices];
+GO
 EXEC [dbo].[RecalculateFromRetailRests];
 GO
 EXEC [dbo].[RecalculateFromStoreRests];
 GO
 EXEC [dbo].[RecalculateInTransitRests];
+GO
+EXEC [dbo].[RecalculateInTransitPrices];
 GO
 EXEC [dbo].[RecalculateRestGroupSummary];
 GO
