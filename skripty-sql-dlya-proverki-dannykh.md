@@ -767,6 +767,9 @@ GO
 ENABLE TRIGGER ALL ON [ToTransferArticlesFromStores];
 GO
 ENABLE TRIGGER ALL ON [ReservedArticlesInStores];
+GO
+ENABLE TRIGGER ALL ON [SiteVirtualStorePriceLists];
+GO
 
 -- включение индексов
 ALTER INDEX ALL ON [SiteRestGroupRests2] REBUILD;
