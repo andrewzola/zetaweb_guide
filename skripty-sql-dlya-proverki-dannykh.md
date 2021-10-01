@@ -784,5 +784,7 @@ ALTER INDEX ALL ON [SiteRests2] REBUILD;
 GO
 ALTER INDEX ALL ON [SiteRestsSummary2] REBUILD;
 GO
+ALTER INDEX ALL ON [SiteVirtualStorePriceLists] REBUILD;
+GO
 ```
 
