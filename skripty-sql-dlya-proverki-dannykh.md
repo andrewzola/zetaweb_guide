@@ -2,7 +2,7 @@
 
 ## Проверка позиции на сайте
 
-В параметрах запроса указать \(заменить\):
+В параметрах запроса указать (заменить):
 
 * {Логин} - логин пользователя на сайте
 * {Артикул} - очищенный артикул для поиска
@@ -374,7 +374,7 @@ DEALLOCATE [customerTreatiesCursor];
 
 ## Проверка собственных остатков
 
-В параметрах запроса указать \(заменить\):
+В параметрах запроса указать (заменить):
 
 * {Артикул} - очищенный артикул для поиска
 * {Бренд} - бренд
@@ -678,13 +678,42 @@ WHERE
 Если используется механизм подтяжки цен предложений поставщиков до собственных цен
 
 ```sql
-SELECT * FROM [dbo].[SiteRestsSummary2]
-WHERE [SiteRestsSummary2].[QuantityFromStore] = 0 AND [SiteRestsSummary2].[IsFromStore] = 1
+SELECT
+    [rs].[Id]
+  , [rs].[ProductSearchArticle]
+  , [rs].[ProductBrand]
+  , [rs].[ProductId]
+  , [rs].[ProductDescriptionId]
+  , [rs].[Quantity]
+  , [rs].[SortOrder]
+  , [rs].[QuantityFromStore]
+  , [rs].[QuantityInTransit]
+  , [rs].[QuantityFromPrice]
+  , [rs].[IsFromStore]
+  , [rs].[IsInTransit]
+  , [rs].[IsFromPrice]
+  , [rs].[MinQuantity]
+  , [rs].[MaxQuantity]
+FROM
+    [dbo].[SiteRestsSummary2] [rs]
+WHERE
+    [rs].[QuantityFromStore] > 0
+    AND [rs].[IsFromStore] = 0
+    OR [rs].[QuantityFromStore] = 0
+       AND [rs].[IsFromStore] = 1
+    OR [rs].[QuantityFromPrice] > 0
+       AND [rs].[IsFromPrice] = 0
+    OR [rs].[QuantityFromPrice] = 0
+       AND [rs].[IsFromPrice] = 1
+    OR [rs].[QuantityInTransit] > 0
+       AND [rs].[IsInTransit] = 0
+    OR [rs].[QuantityInTransit] = 0
+       AND [rs].[IsInTransit] = 1;
 ```
 
-## Очистка остатков и отключение триггеров \(перед полным обменом\)
+## Очистка остатков и отключение триггеров (перед полным обменом)
 
-Позволяет очистить остатки и отключить триггеры \(для ускорения полного обмена\)
+Позволяет очистить остатки и отключить триггеры (для ускорения полного обмена)
 
 ```sql
 -- Выполнить на базе перед полным обменом ВСЕМИ остатками
@@ -727,7 +756,7 @@ TRUNCATE TABLE [dbo].[ReservedArticlesInStores];
 DISABLE TRIGGER ALL ON [ReservedArticlesInStores];
 ```
 
-## Включение триггеров и пересчет остатков \(после полного обмена\)
+## Включение триггеров и пересчет остатков (после полного обмена)
 
 После полного обмена, если перед этим выключали триггеры
 
@@ -787,4 +816,3 @@ GO
 ALTER INDEX ALL ON [SiteVirtualStorePriceLists] REBUILD;
 GO
 ```
-
