@@ -1,29 +1,27 @@
 # Почему не работает поиск по VIN?
 
-По умолчанию в типовом дизайне сверстан поиск по VIN, реализованный на основе внешнего сервиса [Laximo](https://help-zetaweb.zetasoft.ru/~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo).
+По умолчанию в типовом дизайне сверстан поиск по VIN, реализованный на основе внешнего сервиса [Laximo](https://help-zetaweb.zetasoft.ru/\~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo).
 
-![](../.gitbook/assets/image%20%28480%29%20%281%29.png)
+![](<../.gitbook/assets/image (480) (1).png>)
 
 Если у вас не работает поиск по VIN, , то это может быть следствием следующих причин:
 
-1. Вы не подключены к сервису. Для получения информации о подключении используйте [официальный сайт](http://wsdemo.laximo.ru/index.php?lang=ru). 
-2. Неверно введены параметры подключения. Проверьте параметры подключения к сервису [Laximo](https://help-zetaweb.zetasoft.ru/~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo). 
+1. Вы не подключены к сервису. Для получения информации о подключении используйте [официальный сайт](http://wsdemo.laximo.ru/index.php?lang=ru).&#x20;
+2. Неверно введены параметры подключения. Проверьте параметры подключения к сервису [Laximo](https://help-zetaweb.zetasoft.ru/\~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo).&#x20;
 3. Не работает обмен с сайтом после ввода параметров подключения. Удостоверьтесь, что обмен происходит в штатном режиме.
 4. Закончились средства на оплату сервиса. Удостоверьтесь, что имеется необходимый объем денежных средств.
 
 Если вы не используете поиск по VIN, то для **отключения поиска по VIN** в типовом дизайне необходимо:
 
-1. Отключить доступ всех ролей к контролам, используемым для работы с сервисом. Перечень контролов указан на странице описания подключения к внешнему сервису [Laximo](https://help-zetaweb.zetasoft.ru/~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo).
+1. Отключить доступ всех ролей к контролам, используемым для работы с сервисом. Перечень контролов указан на странице описания подключения к внешнему сервису [Laximo](https://help-zetaweb.zetasoft.ru/\~/edit/drafts/-LFq-n641JY8lytpGHH6/vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo).
 
-![](../.gitbook/assets/image%20%28401%29.png)
+![](<../.gitbook/assets/image (401).png>)
 
-2. Отключить доступ всех ролей к пункту меню "Оригинальные каталоги".
+2\. Отключить доступ всех ролей к пункту меню "Оригинальные каталоги".
 
-![](../.gitbook/assets/image%20%28246%29.png)
+![](<../.gitbook/assets/image (246).png>)
 
 После реализации этих действий таб VIN и пункт меню будут недоступны для любого пользователя.
-
-
 
 
 

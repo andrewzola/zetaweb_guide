@@ -1,14 +1,25 @@
 # Поиск. Подбор шин и дисков по автомобилю
 
-{% page-ref page="shiny-i-diski-vybor-goda-vypuska-avtomobilya.md" %}
+{% content-ref url="shiny-i-diski-vybor-goda-vypuska-avtomobilya.md" %}
+[shiny-i-diski-vybor-goda-vypuska-avtomobilya.md](shiny-i-diski-vybor-goda-vypuska-avtomobilya.md)
+{% endcontent-ref %}
 
-{% page-ref page="shiny-i-diski-vybor-diskov.md" %}
+{% content-ref url="shiny-i-diski-vybor-diskov.md" %}
+[shiny-i-diski-vybor-diskov.md](shiny-i-diski-vybor-diskov.md)
+{% endcontent-ref %}
 
-{% page-ref page="shiny-i-diski-vybor-marki-avtomobilya.md" %}
+{% content-ref url="shiny-i-diski-vybor-marki-avtomobilya.md" %}
+[shiny-i-diski-vybor-marki-avtomobilya.md](shiny-i-diski-vybor-marki-avtomobilya.md)
+{% endcontent-ref %}
 
-{% page-ref page="shiny-i-diski-vybor-modeli-avtomobilya.md" %}
+{% content-ref url="shiny-i-diski-vybor-modeli-avtomobilya.md" %}
+[shiny-i-diski-vybor-modeli-avtomobilya.md](shiny-i-diski-vybor-modeli-avtomobilya.md)
+{% endcontent-ref %}
 
-{% page-ref page="shiny-i-diski-vybor-shin.md" %}
+{% content-ref url="shiny-i-diski-vybor-shin.md" %}
+[shiny-i-diski-vybor-shin.md](shiny-i-diski-vybor-shin.md)
+{% endcontent-ref %}
 
-{% page-ref page="shiny-i-diski-podbor-shin-\_-diskov-po-avtomobilyu.md" %}
-
+{% content-ref url="shiny-i-diski-podbor-shin-_-diskov-po-avtomobilyu.md" %}
+[shiny-i-diski-podbor-shin-\_-diskov-po-avtomobilyu.md](shiny-i-diski-podbor-shin-\_-diskov-po-avtomobilyu.md)
+{% endcontent-ref %}

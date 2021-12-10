@@ -1,30 +1,57 @@
 # 2. Покупатели
 
-{% page-ref page="avtorizaciya-\_-registraciya/" %}
+{% content-ref url="avtorizaciya-_-registraciya/" %}
+[avtorizaciya-\_-registraciya](avtorizaciya-\_-registraciya/)
+{% endcontent-ref %}
 
-{% page-ref page="pokupki/" %}
+{% content-ref url="pokupki/" %}
+[pokupki](pokupki/)
+{% endcontent-ref %}
 
-{% page-ref page="soobscheniya/" %}
+{% content-ref url="soobscheniya/" %}
+[soobscheniya](soobscheniya/)
+{% endcontent-ref %}
 
-{% page-ref page="adresa-dostavki.md" %}
+{% content-ref url="adresa-dostavki.md" %}
+[adresa-dostavki.md](adresa-dostavki.md)
+{% endcontent-ref %}
 
-{% page-ref page="adresa-dostavki-dobavlenie-novogo-adresa.md" %}
+{% content-ref url="adresa-dostavki-dobavlenie-novogo-adresa.md" %}
+[adresa-dostavki-dobavlenie-novogo-adresa.md](adresa-dostavki-dobavlenie-novogo-adresa.md)
+{% endcontent-ref %}
 
-{% page-ref page="informaciya-o-menedzhere.md" %}
+{% content-ref url="informaciya-o-menedzhere.md" %}
+[informaciya-o-menedzhere.md](informaciya-o-menedzhere.md)
+{% endcontent-ref %}
 
-{% page-ref page="nastroika-opoveschenii-po-statusam-zakazov.md" %}
+{% content-ref url="nastroika-opoveschenii-po-statusam-zakazov.md" %}
+[nastroika-opoveschenii-po-statusam-zakazov.md](nastroika-opoveschenii-po-statusam-zakazov.md)
+{% endcontent-ref %}
 
-{% page-ref page="platezhnyi-kalendar.md" %}
+{% content-ref url="platezhnyi-kalendar.md" %}
+[platezhnyi-kalendar.md](platezhnyi-kalendar.md)
+{% endcontent-ref %}
 
-{% page-ref page="podpiska-na-novosti.md" %}
+{% content-ref url="podpiska-na-novosti.md" %}
+[podpiska-na-novosti.md](podpiska-na-novosti.md)
+{% endcontent-ref %}
 
-{% page-ref page="rassylka-prais-listov.md" %}
+{% content-ref url="rassylka-prais-listov.md" %}
+[rassylka-prais-listov.md](rassylka-prais-listov.md)
+{% endcontent-ref %}
 
-{% page-ref page="smena-dogovora-kontragenta.md" %}
+{% content-ref url="smena-dogovora-kontragenta.md" %}
+[smena-dogovora-kontragenta.md](smena-dogovora-kontragenta.md)
+{% endcontent-ref %}
 
-{% page-ref page="smena-sklada-otgruzki.md" %}
+{% content-ref url="smena-sklada-otgruzki.md" %}
+[smena-sklada-otgruzki.md](smena-sklada-otgruzki.md)
+{% endcontent-ref %}
 
-{% page-ref page="upravlenie-klientami.md" %}
+{% content-ref url="upravlenie-klientami.md" %}
+[upravlenie-klientami.md](upravlenie-klientami.md)
+{% endcontent-ref %}
 
-{% page-ref page="shablon-pisma-rassylki-prais-listov.md" %}
-
+{% content-ref url="shablon-pisma-rassylki-prais-listov.md" %}
+[shablon-pisma-rassylki-prais-listov.md](shablon-pisma-rassylki-prais-listov.md)
+{% endcontent-ref %}

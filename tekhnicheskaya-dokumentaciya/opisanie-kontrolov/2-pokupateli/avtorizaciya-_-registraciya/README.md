@@ -1,12 +1,21 @@
 # Авторизация / регистрация
 
-{% page-ref page="avtorizaciya-\_-tekuschii-polzovatel.md" %}
+{% content-ref url="avtorizaciya-_-tekuschii-polzovatel.md" %}
+[avtorizaciya-\_-tekuschii-polzovatel.md](avtorizaciya-\_-tekuschii-polzovatel.md)
+{% endcontent-ref %}
 
-{% page-ref page="vosstanovlenie-parolya.md" %}
+{% content-ref url="vosstanovlenie-parolya.md" %}
+[vosstanovlenie-parolya.md](vosstanovlenie-parolya.md)
+{% endcontent-ref %}
 
-{% page-ref page="izmenenie-registracionnyh-dannyh.md" %}
+{% content-ref url="izmenenie-registracionnyh-dannyh.md" %}
+[izmenenie-registracionnyh-dannyh.md](izmenenie-registracionnyh-dannyh.md)
+{% endcontent-ref %}
 
-{% page-ref page="registraciya-novogo-veb-polzovatelya-v1.md" %}
+{% content-ref url="registraciya-novogo-veb-polzovatelya-v1.md" %}
+[registraciya-novogo-veb-polzovatelya-v1.md](registraciya-novogo-veb-polzovatelya-v1.md)
+{% endcontent-ref %}
 
-{% page-ref page="registraciya-novogo-veb-polzovatelya-v2.md" %}
-
+{% content-ref url="registraciya-novogo-veb-polzovatelya-v2.md" %}
+[registraciya-novogo-veb-polzovatelya-v2.md](registraciya-novogo-veb-polzovatelya-v2.md)
+{% endcontent-ref %}

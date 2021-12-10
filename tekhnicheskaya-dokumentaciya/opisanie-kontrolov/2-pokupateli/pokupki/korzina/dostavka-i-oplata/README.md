@@ -1,14 +1,25 @@
 # Доставка и оплата
 
-{% page-ref page="korzina-podtverzhdenie-vybor-postavschika-uslug.md" %}
+{% content-ref url="korzina-podtverzhdenie-vybor-postavschika-uslug.md" %}
+[korzina-podtverzhdenie-vybor-postavschika-uslug.md](korzina-podtverzhdenie-vybor-postavschika-uslug.md)
+{% endcontent-ref %}
 
-{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-dostavki-i-oplaty.md" %}
+{% content-ref url="korzina-podtverzhdenie-vybor-sposoba-dostavki-i-oplaty.md" %}
+[korzina-podtverzhdenie-vybor-sposoba-dostavki-i-oplaty.md](korzina-podtverzhdenie-vybor-sposoba-dostavki-i-oplaty.md)
+{% endcontent-ref %}
 
-{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-dostavki.md" %}
+{% content-ref url="korzina-podtverzhdenie-vybor-sposoba-dostavki.md" %}
+[korzina-podtverzhdenie-vybor-sposoba-dostavki.md](korzina-podtverzhdenie-vybor-sposoba-dostavki.md)
+{% endcontent-ref %}
 
-{% page-ref page="korzina-podtverzhdenie-vybor-sposoba-oplaty.md" %}
+{% content-ref url="korzina-podtverzhdenie-vybor-sposoba-oplaty.md" %}
+[korzina-podtverzhdenie-vybor-sposoba-oplaty.md](korzina-podtverzhdenie-vybor-sposoba-oplaty.md)
+{% endcontent-ref %}
 
-{% page-ref page="korzina-podtverzhdenie-vybor-tochki-vydachi-postavschika-\_-adresa-dostavki-klienta.md" %}
+{% content-ref url="korzina-podtverzhdenie-vybor-tochki-vydachi-postavschika-_-adresa-dostavki-klienta.md" %}
+[korzina-podtverzhdenie-vybor-tochki-vydachi-postavschika-\_-adresa-dostavki-klienta.md](korzina-podtverzhdenie-vybor-tochki-vydachi-postavschika-\_-adresa-dostavki-klienta.md)
+{% endcontent-ref %}
 
-{% page-ref page="korzina-podtverzhdenie-vyvod-ceny-uslugi.md" %}
-
+{% content-ref url="korzina-podtverzhdenie-vyvod-ceny-uslugi.md" %}
+[korzina-podtverzhdenie-vyvod-ceny-uslugi.md](korzina-podtverzhdenie-vyvod-ceny-uslugi.md)
+{% endcontent-ref %}

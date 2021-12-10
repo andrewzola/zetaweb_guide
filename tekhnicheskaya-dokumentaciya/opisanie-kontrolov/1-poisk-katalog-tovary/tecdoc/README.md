@@ -1,26 +1,49 @@
 # TecDoc
 
-{% page-ref page="vybor-zapchasti.md" %}
+{% content-ref url="vybor-zapchasti.md" %}
+[vybor-zapchasti.md](vybor-zapchasti.md)
+{% endcontent-ref %}
 
-{% page-ref page="vybor-zapchasti-spisok-znachenii-svoistva.md" %}
+{% content-ref url="vybor-zapchasti-spisok-znachenii-svoistva.md" %}
+[vybor-zapchasti-spisok-znachenii-svoistva.md](vybor-zapchasti-spisok-znachenii-svoistva.md)
+{% endcontent-ref %}
 
-{% page-ref page="vybor-zapchasti-spisok-izobrazhenii.md" %}
+{% content-ref url="vybor-zapchasti-spisok-izobrazhenii.md" %}
+[vybor-zapchasti-spisok-izobrazhenii.md](vybor-zapchasti-spisok-izobrazhenii.md)
+{% endcontent-ref %}
 
-{% page-ref page="vybor-zapchasti-spisok-krossov-oem-ean.md" %}
+{% content-ref url="vybor-zapchasti-spisok-krossov-oem-ean.md" %}
+[vybor-zapchasti-spisok-krossov-oem-ean.md](vybor-zapchasti-spisok-krossov-oem-ean.md)
+{% endcontent-ref %}
 
-{% page-ref page="vybor-zapchasti-spisok-svoistv-i-ogranichenii-primenimosti.md" %}
+{% content-ref url="vybor-zapchasti-spisok-svoistv-i-ogranichenii-primenimosti.md" %}
+[vybor-zapchasti-spisok-svoistv-i-ogranichenii-primenimosti.md](vybor-zapchasti-spisok-svoistv-i-ogranichenii-primenimosti.md)
+{% endcontent-ref %}
 
-{% page-ref page="vybor-kategorii-zapchastei.md" %}
+{% content-ref url="vybor-kategorii-zapchastei.md" %}
+[vybor-kategorii-zapchastei.md](vybor-kategorii-zapchastei.md)
+{% endcontent-ref %}
 
-{% page-ref page="vybor-marki-avtomobilya-\_-motocikla.md" %}
+{% content-ref url="vybor-marki-avtomobilya-_-motocikla.md" %}
+[vybor-marki-avtomobilya-\_-motocikla.md](vybor-marki-avtomobilya-\_-motocikla.md)
+{% endcontent-ref %}
 
-{% page-ref page="vybor-modeli-avtomobilya-\_-motocikla.md" %}
+{% content-ref url="vybor-modeli-avtomobilya-_-motocikla.md" %}
+[vybor-modeli-avtomobilya-\_-motocikla.md](vybor-modeli-avtomobilya-\_-motocikla.md)
+{% endcontent-ref %}
 
-{% page-ref page="vybor-modifikacii-avtomobilya-\_-motocikla.md" %}
+{% content-ref url="vybor-modifikacii-avtomobilya-_-motocikla.md" %}
+[vybor-modifikacii-avtomobilya-\_-motocikla.md](vybor-modifikacii-avtomobilya-\_-motocikla.md)
+{% endcontent-ref %}
 
-{% page-ref page="primenimost-marki-avtomobilya-\_-motocikla.md" %}
+{% content-ref url="primenimost-marki-avtomobilya-_-motocikla.md" %}
+[primenimost-marki-avtomobilya-\_-motocikla.md](primenimost-marki-avtomobilya-\_-motocikla.md)
+{% endcontent-ref %}
 
-{% page-ref page="primenimost-modeli-avtomobilya-\_-motocikla.md" %}
+{% content-ref url="primenimost-modeli-avtomobilya-_-motocikla.md" %}
+[primenimost-modeli-avtomobilya-\_-motocikla.md](primenimost-modeli-avtomobilya-\_-motocikla.md)
+{% endcontent-ref %}
 
-{% page-ref page="primenimost-modifikacii-avtomobilya-\_-motocikla.md" %}
-
+{% content-ref url="primenimost-modifikacii-avtomobilya-_-motocikla.md" %}
+[primenimost-modifikacii-avtomobilya-\_-motocikla.md](primenimost-modifikacii-avtomobilya-\_-motocikla.md)
+{% endcontent-ref %}
