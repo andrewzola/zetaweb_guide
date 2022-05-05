@@ -56,4 +56,4 @@
 
 1. [Ценообразование по сегментам номенклатуры](cenoobrazovanie-po-segmentam-nomenklatury.md)
 2. [Специальные цены](specialnye-ceny.md)
-3. Установка типа цены на позицию для контрагента
+3. [Установка типа цены на позицию для контрагента](https://help-zetaweb.zetasoft.ru/opisanie-i-nastroika/cenoobrazovanie/ustanovka-tipa-ceny-na-poziciyu-dlya-kontragenta)
