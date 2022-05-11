@@ -118,6 +118,7 @@
   * [Почему при наличии товара на складе, отсутствует возможность ее покупки на сайте?](faq/pochemu-pri-nalichii-tovara-na-sklade-otsutstvuet-vozmozhnost-ee-pokupki-na-saite.md)
   * [Почему на сайте отображается неправильный срок доставки с Виртуального склада?](faq/pochemu-na-saite-otobrazhaetsya-nepravilnyi-srok-dostavki-s-virtualnogo-sklada.md)
   * [Ошибка в логе обмена при изменении ответственного у корзины](faq/oshibka-v-loge-obmena-korzina.md)
+  * [Как получить описание таблиц данных при выявлении ошибки в обмене?](faq/kak-poluchit-opisanie-tablic-dannykh-pri-vyyavlenii-oshibki-v-obmene.md)
   * [Как проверить, что изменение цены документом "Переоценка товаров в рознице" выгрузилось на сайт?](faq/kak-proverit-chto-izmenenie-ceny-dokumentom-pereocenka-tovarov-v-roznice-vygruzilos-na-sait.md)
   * [Где можно ознакомиться с историей заказов покупателей с сайта?](faq/gde-otobrazhaetsya-istoriya-zakazov-pokupatelei-s-saita.md)
   * [Как на сайте организована подгрузка кроссов по товарам отсутствующим в ассортименте базы 1С?](faq/kak-na-saite-organizovana-podgruzka-krossov-po-tovaram-otsutstvuyushim-v-assortimente-bazy-1s.md)
