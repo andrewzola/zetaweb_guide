@@ -11,7 +11,7 @@ Web-сервис ExchangeRMM и http-сервис Zeta API необходимы 
 В зависимости от того, какой программой вы будете пользоваться для публикации веб-сервиса, воспользуйтесь соответствующей инструкцией.
 
 {% hint style="info" %}
-Дистрибутив Apache - [https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg](https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg)​
+Дистрибутив **Apache** - [https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg](https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg)​
 {% endhint %}
 
 ### Apache или IIS <a href="#apache-ili-iis" id="apache-ili-iis"></a>
