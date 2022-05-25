@@ -12,7 +12,7 @@
   * [Последовательность действий по обновлению программного продукта Zeta Web](ustanovka-i-obnovlenie/posledovatelnost-deistvii-po-obnovleniyu-programmnogo-produkta-zeta-web.md)
   * [Установка и обновление 1С-части](ustanovka-i-obnovlenie/ustanovka-i-obnovlenie-1s-chasti.md)
   * [Установка и обновление веб-части](ustanovka-i-obnovlenie/ustanovka-veb-chasti.md)
-  * [Настройки сайта после загрузки начальных данных и типового дизайна](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina/README.md)
+  * [Настройки сайта после загрузки начальных данных и типового дизайна](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
     * [Zeta Web 2.x](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina/zeta-web-2.x.md)
     * [Zeta Web 3.x](ustanovka-i-obnovlenie/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina/zeta-web-3.x.md)
   * [Публикация сервисов 1С](ustanovka-i-obnovlenie/publikaciya-servisov-1s.md)
