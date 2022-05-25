@@ -1,16 +1,20 @@
 # SEO и управление контентом
 
-## Архитектура наполнения \(контента\) сайта Zeta Web
+## Архитектура наполнения (контента) сайта Zeta Web
 
-![&#x41E;&#x431;&#x449;&#x430;&#x44F; &#x441;&#x445;&#x435;&#x43C;&#x430;](../.gitbook/assets/image%20%28509%29.png)
+{% content-ref url="domen.md" %}
+[domen.md](domen.md)
+{% endcontent-ref %}
 
-{% page-ref page="domen.md" %}
+{% content-ref url="stranicy-i-peremennye/" %}
+[stranicy-i-peremennye](stranicy-i-peremennye/)
+{% endcontent-ref %}
 
-{% page-ref page="stranicy-i-peremennye/" %}
+{% content-ref url="menyu-karty-ssylki/" %}
+[menyu-karty-ssylki](menyu-karty-ssylki/)
+{% endcontent-ref %}
 
-{% page-ref page="menyu-karty-ssylki/" %}
-
-{% page-ref page="informacionnye-bloki-bannery-oprosy/" %}
-
-
+{% content-ref url="informacionnye-bloki-bannery-oprosy/" %}
+[informacionnye-bloki-bannery-oprosy](informacionnye-bloki-bannery-oprosy/)
+{% endcontent-ref %}
 
