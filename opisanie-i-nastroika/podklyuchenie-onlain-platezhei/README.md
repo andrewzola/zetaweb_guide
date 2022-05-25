@@ -24,7 +24,7 @@
 3. Настроить платежный шлюз;
 4. Настроить Zeta Web для приема онлайн-платежей (необходим [сертификат SSL и подключение по протоколу https](https://help-zetaweb.zetasoft.ru/ustanovka-i-obnovlenie/ssl-sertifikat-https#ustanovka-ssl-sertifikata-https)).
 
-## Привязка платежной системы к ролям.
+## Привязка платежной системы к ролям
 
 После того, как вы настроите вашу платежную систему ([Яндекс.Кассу](yandeks.kassa-yandex.kassa.md), [Сбербанк ](https://help-zetaweb.zetasoft.ru/\~/edit/drafts/-LYCU2gYFNYKqr6dH7Cd/opisanie-i-nastroika/podklyuchenie-onlain-platezhei/sberbank-sberbank)или [Ассист](assist-assist.md)), необходимо привязать настройки платежной системы к роли клиента.
 
