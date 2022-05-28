@@ -77,7 +77,7 @@
     * [Формирование URL Zeta Web](seo-i-upravlenie-kontentom/seo/formirovanie-url-zeta-web.md)
     * [Карта сайта (Sitemap)](seo-i-upravlenie-kontentom/seo/karta-saita-sitemap.md)
     * [Настройка мета-тегов](seo-i-upravlenie-kontentom/seo/nastroika-meta-tegov.md)
-    * [Транслитизация наименований картинок](seo-i-upravlenie-kontentom/seo/translitezaciya-naimenovanii-kartinok.md)
+    * [Транслитерация наименований картинок](seo-i-upravlenie-kontentom/seo/translitezaciya-naimenovanii-kartinok.md)
     * [Настройка редиректов (IIS)](seo-i-upravlenie-kontentom/seo/nastroika-redirektov-iis.md)
     * [Инструменты веб-мастера](seo-i-upravlenie-kontentom/seo/instrumenty-veb-mastera.md)
 * [Развитие продукта](razvitie-produkta/README.md)
