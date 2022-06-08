@@ -126,6 +126,7 @@
   * [Как на сайте организована подгрузка кроссов по товарам отсутствующим в ассортименте базы 1С?](faq/kak-na-saite-organizovana-podgruzka-krossov-po-tovaram-otsutstvuyushim-v-assortimente-bazy-1s.md)
   * [Как изменять контент для роботов и других анонимных клиентов на сайте?](faq/kak-izmenyat-kontent-dlya-robotov-i-dlya-drugikh-anonimnykh-klientov-na-saite.md)
   * [Как очистить кэш контролов](faq/kak-ochistit-kesh-kontrolov.md)
+  * [Настройка учетной записи Gmail в 1С](faq/nastroika-uchetnoi-zapisi-gmail-v-1s.md)
 * [Техническая документация](tekhnicheskaya-dokumentaciya/README.md)
   * [API 1.0](tekhnicheskaya-dokumentaciya/api-1.0.md)
   * [Контролы](tekhnicheskaya-dokumentaciya/kontroly.md)
