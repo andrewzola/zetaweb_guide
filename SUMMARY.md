@@ -88,6 +88,7 @@
   * [Разработка и получение нового функционала](razvitie-produkta/razrabotka-i-poluchenie-novogo-funkcionala.md)
 * [FAQ](faq/README.md)
   * [Ответственный в заказе с сайта](faq/otvetstvennyi-v-zakaze-s-saita.md)
+  * [Ошибка: Данное значение типа String из источника данных не может быть преобразовано в тип nvarchar](faq/oshibka-dannoe-znachenie-tipa-string-iz-istochnika-dannykh-ne-mozhet-byt-preobrazovano-v-tip-nvarcha.md)
   * [Ошибка при вызове метода контекста (ПрочитатьXML): Ошибка разбораXML](faq/oshibka-pri-vyzove-metoda-konteksta-prochitatxml-oshibka-razboraxml.md)
   * [Ошибка Value in property DeliveryTypeId not set - что делать](faq/oshibka-value-in-property-deliverytypeid-not-set-chto-delat.md)
   * [Ошибка ограничения PRIMARY KEY. Повторяющееся значение ключа.](faq/oshibka-primary-key.md)
