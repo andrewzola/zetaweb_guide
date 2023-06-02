@@ -709,6 +709,25 @@ WHERE
        AND [rs].[IsInTransit] = 0
     OR [rs].[QuantityInTransit] = 0
        AND [rs].[IsInTransit] = 1;
+
+
+SELECT
+    *
+FROM
+    [dbo].[SiteRestGroupRestsSummary2] [rs]
+WHERE
+    [rs].[QuantityFromStore] > 0
+    AND [rs].[IsFromStore] = 0
+    OR [rs].[QuantityFromStore] = 0
+       AND [rs].[IsFromStore] = 1
+    OR [rs].[QuantityFromPrice] > 0
+       AND [rs].[IsFromPrice] = 0
+    OR [rs].[QuantityFromPrice] = 0
+       AND [rs].[IsFromPrice] = 1
+    OR [rs].[QuantityInTransit] > 0
+       AND [rs].[IsInTransit] = 0
+    OR [rs].[QuantityInTransit] = 0
+       AND [rs].[IsInTransit] = 1;
 ```
 
 ## Очистка остатков и отключение триггеров (перед полным обменом)
