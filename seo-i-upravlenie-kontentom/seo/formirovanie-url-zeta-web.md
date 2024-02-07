@@ -45,23 +45,23 @@ URL страницы формируется по заданной маске д�
    a. Статический URL: {Имя сайта}/{Имя страницы}/externalcatalog/models/{Тип автомобиля}/{Имя марки}/  \
    _Например,_ [_https://sitename.ru/models/externalcatalog/models/car/audi/_](https://sitename.ru/models/externalcatalog/models/car/audi/)\
    b. Динамический URL: {Имя сайта}/{Имя страницы}/?ec\_manufacturer={Имя марки}\&ec\_type={id типа автомобиля}  \
-   _Например,_ [_https://sitename.ru/models/?ec\_manufacturer=audi\&ec\_type=1/_](https://sitename.ru/models/?ec\_manufacturer=audi\&ec\_type=1/)__
+   _Например,_ [_https://sitename.ru/models/?ec\_manufacturer=audi\&ec\_type=1/_](https://sitename.ru/models/?ec\_manufacturer=audi\&ec\_type=1/)
 3. **Модификация**. \
    После выбора модели переход на страницу выбора модификации:  \
    a. Статический URL: {Имя сайта}/{Имя страницы}/externalcatalog/types/{Тип автомобиля}/{Имя марки}/{id модели}  \
    _Например,_ [_https://sitename.ru/types/externalcatalog/types/car/audi/10/_](https://sitename.ru/types/externalcatalog/types/car/audi/10/)\
    b. Динамический URL: {Имя сайта}/{Имя страницы}/?ec\_manufacturer={Имя марки}\&ec\_type={id типа автомобиля}\&ec\_modelid={id модели}  \
-   _Например,_ [_https://sitename.ru/types/?ec\_manufacturer=audi\&ec\_type=1\&ec\_modelid=10_](https://sitename.ru/types/?ec\_manufacturer=audi\&ec\_type=1\&ec\_modelid=10)__
+   _Например,_ [_https://sitename.ru/types/?ec\_manufacturer=audi\&ec\_type=1\&ec\_modelid=10_](https://sitename.ru/types/?ec\_manufacturer=audi\&ec\_type=1\&ec\_modelid=10)
 4. **Узлы**. \
    После выбора модификации переходим на страницы с перечнем узлов:  \
    a. Статический URL: {Имя сайта}/{Имя страницы}/externalcatalog/tree/{Тип автомобиля}/{Имя марки}/{id модели}/{id модификации} \
    _Например,_ [_https://sitename.ru/accessories/externalcatalog/tree/car/audi/10/1157/_](https://sitename.ru/accessories/externalcatalog/tree/car/audi/10/1157/)\
    b. Динамический URL: {Имя сайта}/{Имя страницы}/?ec\_manufacturer={Имя марки}\&ec\_type={id типа автомобиля}\&ec\_modelid={id модели}\&ec\_typeid={id модификации}  \
-   _Например,_ [_https://sitename.ru/accessories/?ec\_manufacturer=audi\&ec\_type=1\&ec\_modelid=10\&ec\_typeid=1157_](https://sitename.ru/accessories/?ec\_manufacturer=audi\&ec\_type=1\&ec\_modelid=10\&ec\_typeid=1157)__
+   _Например,_ [_https://sitename.ru/accessories/?ec\_manufacturer=audi\&ec\_type=1\&ec\_modelid=10\&ec\_typeid=1157_](https://sitename.ru/accessories/?ec\_manufacturer=audi\&ec\_type=1\&ec\_modelid=10\&ec\_typeid=1157)
 5. **Товары**. \
    После выбора узла показываются результаты поиска по узлу:  \
    URL: {Имя сайта}/{Имя страницы}/catalog/byauto/{Тип автомобиля}/{Имя марки}/{id модели}/{id модификации}/{id узла}  \
-   _Например,_ [_https://sitename.ru/codeavto/catalog/byauto/car/audi/10/1157/10102/_](https://sitename.ru/codeavto/catalog/byauto/car/audi/10/1157/10102/)__
+   _Например,_ [_https://sitename.ru/codeavto/catalog/byauto/car/audi/10/1157/10102/_](https://sitename.ru/codeavto/catalog/byauto/car/audi/10/1157/10102/)
 
 **Тип автомобиля:** \
 **- легковой («car» для статического URL, «1» для динамического URL),** \
@@ -87,7 +87,7 @@ URL страницы формируется по заданной маске д�
 ### Контрол «Товар. Детальная информация»
 
 **URL карточки товара:** {Имя сайта}/{Имя страницы}/catalog/product/{Имя товара\}}\
-_Например,_ [_https://sitename.ru/details/catalog/product/amortizator-ford-escort-vii-gal-aal-abl-escort-vii-saloon-gal-afl/_](https://sitename.ru/details/catalog/product/amortizator-ford-escort-vii-gal-aal-abl-escort-vii-saloon-gal-afl/)__
+_Например,_ [_https://sitename.ru/details/catalog/product/amortizator-ford-escort-vii-gal-aal-abl-escort-vii-saloon-gal-afl/_](https://sitename.ru/details/catalog/product/amortizator-ford-escort-vii-gal-aal-abl-escort-vii-saloon-gal-afl/)
 
 В зависимости от параметров системы, устанавливаемых в настройках, наименование в URL для номенклатуры может получать дополнительно бренд и/или артикул.
 
@@ -115,6 +115,6 @@ _Например,_ [_https://sitename.ru/details/catalog/product/amortizator-fo
    b. Html-описание анонса.
 3.  **Html-текст** инфоблока: &#x20;
 
-    URL информационного блока: {Имя сайта}/{Имя страницы}/news/show/{Имя инфоблока}/ _Например,_ [_https://sitename.ru/articles/news/show/testovaya-novost/_](https://sitename.ru/articles/news/show/testovaya-novost/)__
+    URL информационного блока: {Имя сайта}/{Имя страницы}/news/show/{Имя инфоблока}/ _Например,_ [_https://sitename.ru/articles/news/show/testovaya-novost/_](https://sitename.ru/articles/news/show/testovaya-novost/)
 
 ![](<../../.gitbook/assets/image (314).png>)

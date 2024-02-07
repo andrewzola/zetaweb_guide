@@ -18,6 +18,6 @@
 
 **Для устранения дублей используются механизмы, описанные в разделах:**
 
-* ****[**Перекроссировка брендов**](https://help-zetaweb.zetasoft.ru/opisanie-i-nastroika/upravlenie-nomenklaturoi/perekrossirovki-brendov)**;**
-* ****[**Работа с дублями**](https://help-zetaweb.zetasoft.ru/opisanie-i-nastroika/upravlenie-nomenklaturoi/rabota-s-dublyami)**.**
+* [**Перекроссировка брендов**](https://help-zetaweb.zetasoft.ru/opisanie-i-nastroika/upravlenie-nomenklaturoi/perekrossirovki-brendov)**;**
+* [**Работа с дублями**](https://help-zetaweb.zetasoft.ru/opisanie-i-nastroika/upravlenie-nomenklaturoi/rabota-s-dublyami)**.**
 

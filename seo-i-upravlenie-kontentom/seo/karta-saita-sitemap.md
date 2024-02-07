@@ -37,7 +37,7 @@ _Например, https://www.zetasoft.ru/sitemap.xml._
 2\) Загрузить файлы на сайт;
 
 {% hint style="info" %}
-#### Zeta Web 2.x **Zeta Web → Панель управления сайтом → Наполнение сайта →** **Картинки.** ****
+#### Zeta Web 2.x **Zeta Web → Панель управления сайтом → Наполнение сайта →** **Картинки.** 
 
 #### **Zeta Web 3.x** **Zeta Web → Панель управления "Контент" → Наполнение сайта →** **Картинки и файлы.**
 {% endhint %}
@@ -51,7 +51,7 @@ _Например, https://www.zetasoft.ru/sitemap.xml._
 {% hint style="info" %}
 #### Zeta Web 2.x **Zeta Web → Панель управления сайтом → Наcтройки →** **Домены →Наполнение robots.txt.**
 
-#### **** **Zeta Web 3.x** **Zeta Web → Панель управления "Контент" → Сайты→ Robots.txt.**
+#### &#x20;**Zeta Web 3.x** **Zeta Web → Панель управления "Контент" → Сайты→ Robots.txt.**
 {% endhint %}
 
 ![](<../../.gitbook/assets/image-6 (4).png>)
@@ -83,7 +83,7 @@ _Например, https://www.zetasoft.ru/sitemap.xml._
 Добавить основной файл **sitemapindex.xml** на сайт.&#x20;
 
 {% hint style="info" %}
-#### Zeta Web 2.x **Zeta Web → Панель управления сайтом → Наполнение сайта →** **Картинки.** ****
+#### Zeta Web 2.x **Zeta Web → Панель управления сайтом → Наполнение сайта →** **Картинки.** 
 
 #### **Zeta Web 3.x** **Zeta Web → Панель управления "Контент" → Наполнение сайта →** **Картинки и файлы.**
 {% endhint %}
@@ -93,7 +93,7 @@ _Например, https://www.zetasoft.ru/sitemap.xml._
 В **robots.txt** указать путь к основному файлу **sitemapindex.xml.**
 
 {% hint style="info" %}
-#### Zeta Web 2.x **Zeta Web → Панель управления сайтом → Наcтройки →** **Домены →Наполнение robots.txt.** ****
+#### Zeta Web 2.x **Zeta Web → Панель управления сайтом → Наcтройки →** **Домены →Наполнение robots.txt.** 
 
 #### **Zeta Web 3.x** **Zeta Web → Панель управления "Контент" → Сайты→ Robots.txt.**
 {% endhint %}

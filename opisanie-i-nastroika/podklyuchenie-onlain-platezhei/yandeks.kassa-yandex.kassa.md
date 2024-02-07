@@ -29,7 +29,7 @@
 * shopPassword _Значение: Любой_ _**пароль**_ _(в дальнейшем он понадбится при настройке 1С)_
 * Почта для реестров _Значение: Адрес электронной почты, на которую будут высылаться ежедневные реестры по проведенным платежам_
 
-#### 1С Предприятие  <a href="#1s-predpriyatie" id="1s-predpriyatie"></a>
+#### 1С Предприятие  <a href="#id-1s-predpriyatie" id="id-1s-predpriyatie"></a>
 
 Если ваша онлайн-касса поддерживает интеграцию с Яндекс.Кассой, также заполните следующие параметры
 
@@ -38,7 +38,11 @@
 * **Почта для ошибок** _- адрес электронной почты, на который будут отправляться уведомления в случае возникновения ошибок;_
 * **Адрес в чеке** _- адрес сайта, отображаемый в чеке, например,_ _**mysite.com**_
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDkZZ4KLHlNn6g8TQlV%2F-LEPi9C002O2y32na98P%2F-LEPiCrZRdafGpboDYlj%2FImage%2033.png?alt=media\&token=f40459c2-a8b1-46b9-948b-f9c57f9054af)
+<div align="center">
+
+<img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDkZZ4KLHlNn6g8TQlV%2F-LEPi9C002O2y32na98P%2F-LEPiCrZRdafGpboDYlj%2FImage%2033.png?alt=media&#x26;token=f40459c2-a8b1-46b9-948b-f9c57f9054af" alt="">
+
+</div>
 
 В меню _**1С Предприятие**_ откройте форму _**Настройки платежных систем**_​ _(Zeta Web → Настройки и администрирование → Настройки оплаты, прайс-листы, YML)._
 
